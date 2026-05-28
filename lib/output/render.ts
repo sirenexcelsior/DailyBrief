@@ -236,6 +236,7 @@ function displayLimitFor(
  */
 export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
   "tech:ai-news": 15,
+  "tech:trending-papers": 10,
   "finance:news": 12,
   "politics:world": 15,
 };
