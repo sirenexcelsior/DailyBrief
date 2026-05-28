@@ -55,12 +55,12 @@ Output STRICTLY a JSON object, no markdown:
   ]
 }`;
 
-const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文财经编辑，为英文/中文财经新闻生成**中文事实摘要**。
+const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文财经编辑，为非中文/中文财经新闻生成**中文事实摘要**。
 
 输入：每条新闻有 url、title、excerpt 和 source（来源媒体名）。
 
 任务：根据 title + excerpt，生成一段 50-100 字的**中文摘要**：
-  - 原文是英文 → 翻译关键信息为中文（不是逐字翻译，而是抽出要点）
+  - 原文是非中文（英文、俄文等） → 翻译关键信息为中文（不是逐字翻译，而是抽出要点）
   - 原文是中文 → 凝练为信息密度更高的中文
   - 必须保留：关键数字（涨跌幅、金额、利率）、机构/公司/人名、地区
   - 必须中性事实陈述，不带情绪、不标题党
@@ -185,7 +185,7 @@ async function runEnrichment(
   const langHeader =
     REPORT_LOCALE === "en"
       ? "**Output language: ENGLISH ONLY.** Every summary string must be written entirely in English, even if the input title or description contains Chinese."
-      : "**输出语言：仅中文。** 每个 summary 字段必须全部是中文，即使输入条目是英文。";
+      : "**输出语言：仅中文。** 每个 summary 字段必须全部是中文，即使输入条目是非中文（英文、俄文等）。";
   const userPrompt = [
     langHeader,
     "",

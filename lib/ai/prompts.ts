@@ -32,7 +32,7 @@ type BriefItem = {
 2. 同主题新闻必须合并为一条，summary 末尾标注"（多家报道）"。
 3. 标题改写需中性、信息密度高，避免营销话术。
 4. url 必须严格回填输入值，绝不创造新链接。
-5. 中文优先；英文新闻请将 title 翻译为中文，summary 也用中文。
+5. 中文优先；非中文新闻（英文、俄文等）请将 title 翻译为中文，summary 也用中文。
 6. 优先选择 importance 高、跨源覆盖、时效强的条目。
 7. 如某分类无可用条目，对应 briefs 数组返回 []。
 8. tech_briefs 中遇到 GitHub Trending / Hacker News 类项目时，可在 summary 多花

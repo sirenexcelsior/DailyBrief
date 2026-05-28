@@ -672,5 +672,65 @@
     "locales": [
       "zh"
     ]
+  },
+  {
+    "id": "habr",
+    "name": "Habr (Хабр)",
+    "type": "rss",
+    "url": "https://habr.com/ru/rss/all/all/",
+    "category": "tech",
+    "subcategory": "overseas-community",
+    "lang": "ru",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Largest Russian tech community, similar to V2EX/HackerNews. Covers programming, AI, hardware, DevOps."
+  },
+  {
+    "id": "cnews",
+    "name": "CNews",
+    "type": "rss",
+    "url": "https://www.cnews.ru/inc/rss/news.xml",
+    "category": "tech",
+    "subcategory": "overseas-news",
+    "lang": "ru",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Russian IT news portal covering enterprise tech, cloud, cybersecurity."
+  },
+  {
+    "id": "vedomosti",
+    "name": "Vedomosti (Ведомости)",
+    "type": "rss",
+    "url": "https://www.vedomosti.ru/rss/news",
+    "category": "finance",
+    "subcategory": "news",
+    "lang": "ru",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Russia's top business daily, equivalent to WSJ. Covers financial markets, economic policy, corporate news."
+  },
+  {
+    "id": "lenta",
+    "name": "Lenta.ru",
+    "type": "rss",
+    "url": "https://lenta.ru/rss",
+    "category": "politics",
+    "subcategory": "world",
+    "lang": "ru",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "One of Russia's largest news portals. Comprehensive coverage of domestic and international current affairs."
   }
 ]
