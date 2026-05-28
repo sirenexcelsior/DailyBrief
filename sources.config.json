@@ -10,7 +10,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "v2ex-hot",
@@ -59,7 +60,8 @@
     "enabled": true,
     "locales": [
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "lobsters",
@@ -137,7 +139,13 @@
       "zh",
       "en"
     ],
-    "keywords": ["LLM", "agent", "RAG", "reasoning", "coding"],
+    "keywords": [
+      "LLM",
+      "agent",
+      "RAG",
+      "reasoning",
+      "coding"
+    ],
     "notes": "Daily trending papers from HuggingFace. Set keywords to filter; empty array or omit for all papers."
   },
   {
@@ -357,7 +365,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "wsj-markets",
@@ -370,7 +379,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "cnbc-topnews",
@@ -396,7 +406,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "ftchinese-news",
@@ -447,7 +458,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "economist-finance",
@@ -460,7 +472,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "reddit-wallstreetbets",
@@ -550,7 +563,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "guardian-world",
@@ -563,7 +577,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "nyt-world",
@@ -576,7 +591,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "npr-world",
@@ -589,7 +605,8 @@
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "weight": 2
   },
   {
     "id": "dw-chinese",

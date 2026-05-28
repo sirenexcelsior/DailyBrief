@@ -2,7 +2,7 @@ import { jsonrepair } from "jsonrepair";
 import { runLlm } from "./llm";
 import { extractJson } from "./json-util";
 import { SYSTEM_PROMPT_DIGEST_EN, SYSTEM_PROMPT_DIGEST_ZH } from "./prompts";
-import { REPORT_LOCALE } from "../sources/registry";
+import { REPORT_LOCALE, sources } from "../sources/registry";
 import type { Category, RawArticle } from "../sources/types";
 
 const SYSTEM_PROMPT_DIGEST =
@@ -45,15 +45,16 @@ export interface ArticleInput extends RawArticle {
 }
 
 const PER_CATEGORY_LIMIT: Record<Category, number> = {
-  tech: 25,
-  finance: 20,
-  politics: 15,
+  tech: 35,
+  finance: 30,
+  politics: 25,
 };
 
 const MAX_AGE_DAYS = 14;
 
 /**
- * Pick `limit` items from `items` so every source gets a fair shot.
+ * Pick `limit` items from `items` so every source gets a fair shot,
+ * with optional per-source weights for premium sources.
  *
  * Why this exists: the previous `slice(0, limit)` honored insertion order,
  * which is the source-iteration order in daily.ts. That gave whichever
@@ -61,13 +62,14 @@ const MAX_AGE_DAYS = 14;
  * Hacker News before GitHub Trending / Solidot / V2EX / 阮一峰 got a turn.
  *
  * Strategy: drop items older than MAX_AGE_DAYS, group by sourceId,
- * sort each bucket newest-first, then round-robin one item per source
- * until we hit the limit. Sources with fewer items naturally drop out
- * and others absorb the slack.
+ * sort each bucket newest-first, then round-robin with weights: a source
+ * with weight N takes N items per round instead of 1. Sources with fewer
+ * items naturally drop out and others absorb the slack.
  */
 function selectRoundRobin(
   items: ArticleInput[],
   limit: number,
+  weights: Map<string, number> = new Map(),
 ): ArticleInput[] {
   const cutoff = Date.now() - MAX_AGE_DAYS * 86_400_000;
   const fresh = items.filter(
@@ -87,15 +89,18 @@ function selectRoundRobin(
     );
   }
 
-  const buckets = Array.from(bySource.values());
+  const buckets = Array.from(bySource.entries());
   const out: ArticleInput[] = [];
   let madeProgress = true;
   while (out.length < limit && madeProgress) {
     madeProgress = false;
-    for (const b of buckets) {
+    for (const [sourceId, b] of buckets) {
       if (b.length === 0) continue;
-      out.push(b.shift()!);
-      madeProgress = true;
+      const take = weights.get(sourceId) ?? 1;
+      for (let i = 0; i < take && b.length > 0 && out.length < limit; i++) {
+        out.push(b.shift()!);
+        madeProgress = true;
+      }
       if (out.length >= limit) break;
     }
   }
@@ -203,8 +208,13 @@ export async function generateDailyReport(
   };
   for (const a of articles) grouped[a.category].push(a);
 
+  const weights = new Map<string, number>();
+  for (const s of sources) {
+    if (s.weight && s.weight > 1) weights.set(s.id, s.weight);
+  }
+
   const compact = (Object.keys(grouped) as Category[]).flatMap((c) =>
-    selectRoundRobin(grouped[c], PER_CATEGORY_LIMIT[c]),
+    selectRoundRobin(grouped[c], PER_CATEGORY_LIMIT[c], weights),
   );
 
   const userPayload = compact.map((a, i) => ({

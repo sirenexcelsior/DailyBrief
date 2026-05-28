@@ -46,6 +46,12 @@ export interface SourceDef {
    * Omit or leave empty to return all items unfiltered.
    */
   keywords?: string[];
+  /**
+   * Round-robin selection weight. Higher weight = more items per source
+   * in the per-category candidate pool. Default 1. Set to 2-3 for
+   * premium/high-signal sources so they aren't diluted by smaller sources.
+   */
+  weight?: number;
 }
 
 export interface RawArticle {
