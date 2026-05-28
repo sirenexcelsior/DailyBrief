@@ -144,7 +144,8 @@
       "agent",
       "RAG",
       "reasoning",
-      "coding"
+      "coding",
+      "math"
     ],
     "notes": "Daily trending papers from HuggingFace. Set keywords to filter; empty array or omit for all papers."
   },
