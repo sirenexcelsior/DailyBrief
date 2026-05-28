@@ -6,170 +6,170 @@
       "title": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "excerpt": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "meta": "Python · ★ 64,278 · 🍴 9,311 · 📈 1,742 stars today",
+      "meta": "Python · ★ 64,402 · 🍴 9,331 · 📈 1,742 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用AI大模型一键生成高清短视频，用户只需输入内容即可自动产出，适用于内容创作者和营销人员快速制作视频素材。"
+      "summary": "基于AI大模型一键生成高清短视频的工具。用户输入文本或主题，自动生成视频内容，适合营销、自媒体等快速制作短视频场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "excerpt": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "meta": "TypeScript · ★ 41,477 · 🍴 3,312 · 📈 4,465 stars today",
+      "meta": "TypeScript · ★ 41,559 · 🍴 3,315 · 📈 4,465 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "将任意代码转换为交互式知识图谱，支持探索、搜索和问答，帮助开发者理解复杂代码库，可配合Claude Code等AI工具使用。"
+      "summary": "将任意代码转化为可交互知识图谱，支持探索、搜索和提问。适用于Claude Code等环境，帮助开发者直观理解复杂代码结构。"
     },
     {
       "sourceId": "github-trending",
       "title": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
       "excerpt": "A skill file for removing AI tells from prose",
-      "meta": "★ 5,989 · 🍴 442 · 📈 664 stars today",
+      "meta": "★ 6,005 · 🍴 442 · 📈 664 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提供技能文件自动清除AI生成文本的痕迹，使文字更自然、避免机器味，适合需要人工风格写作的用户。"
+      "summary": "一个技能文件，用于从散文中移除AI痕迹（AI tells），使AI生成文本更自然、减少机器感。适合优化写作输出。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 196,511 · 🍴 30,236 · 📈 2,062 stars today",
+      "meta": "JavaScript · ★ 196,535 · 🍴 30,239 · 📈 2,062 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI代理性能优化系统，整合技能、本能、记忆、安全模块，面向Claude Code、Codex等开发环境，提升代理效率和可靠性。"
+      "summary": "AI代理框架的性能优化系统，集成技能、本能、记忆、安全等功能，适用于Claude Code、Codex等环境，提升代理开发的效率与质量。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "excerpt": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "meta": "Python · ★ 17,513 · 🍴 2,040 · 📈 695 stars today",
+      "meta": "Python · ★ 17,523 · 🍴 2,043 · 📈 695 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源插件集合，专为知识工作者设计，可在Claude Cowork中使用，扩展工作流自动化能力，提升生产力。"
+      "summary": "开源插件仓库，专为知识工作者在Claude Cowork中使用而设计，提供一系列扩展功能以增强AI协作体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "excerpt": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "meta": "Shell · ★ 25,108 · 🍴 1,917 · 📈 2,715 stars today",
+      "meta": "Shell · ★ 25,161 · 🍴 1,922 · 📈 2,715 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "技能文件赋予AI良好品味，阻止生成平庸、泛泛的内容，使输出更具创意和个性，适合追求高质量AI生成的用户。"
+      "summary": "赋予AI“好品味”的技能，阻止生成无聊、样板化的内容。通过定制化规则提升输出质量，适用于AI写作或对话场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "excerpt": "Fully automatic censorship removal for language models",
-      "meta": "Python · ★ 22,178 · 🍴 2,361 · 📈 211 stars today",
+      "meta": "Python · ★ 22,187 · 🍴 2,361 · 📈 211 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自动移除语言模型中的审查限制，使模型输出更自由，需注意伦理与合规风险。"
+      "summary": "全自动去除语言模型审查的工具。通过逆向工程绕过内容过滤器，实现不受限制的对话生成，研究或测试使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "meta": "Python · ★ 27,036 · 🍴 4,676 · 📈 401 stars today",
+      "meta": "Python · ★ 27,046 · 🍴 4,677 · 📈 401 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为金融市场语言设计的基础模型，理解金融术语与模式，可用于市场分析、预测、交易策略开发等场景。"
+      "summary": "金融市场语言的基础模型（Foundation Model），专为金融领域设计，可用于市场预测、文本分析等任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "excerpt": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "meta": "Python · ★ 11,283 · 🍴 1,280 · 📈 886 stars today",
+      "meta": "Python · ★ 11,296 · 🍴 1,282 · 📈 886 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为AI代理提供754个结构化网络安全技能，覆盖MITRE ATT&CK、NIST CSF等框架，适用于安全分析、渗透测试等任务。"
+      "summary": "754个结构化网络安全技能，映射至MITRE ATT&CK、NIST CSF等五大框架，适用于Claude Code等AI代理的自动化安全操作。"
     },
     {
       "sourceId": "github-trending",
       "title": "twentyhq/twenty",
       "url": "https://github.com/twentyhq/twenty",
       "excerpt": "The open alternative to Salesforce, designed for AI.",
-      "meta": "TypeScript · ★ 47,512 · 🍴 6,745 · 📈 519 stars today",
+      "meta": "TypeScript · ★ 47,517 · 🍴 6,747 · 📈 519 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的Salesforce替代品，原生支持AI集成，提供灵活的客户关系管理功能，适合追求自主可控和智能化CRM的团队。"
+      "summary": "开源的Salesforce替代品，专为AI时代设计。提供客户关系管理（CRM）功能，支持智能工作流与自动化。"
     },
     {
       "sourceId": "github-trending",
       "title": "Chachamaru127/claude-code-harness",
       "url": "https://github.com/Chachamaru127/claude-code-harness",
       "excerpt": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
-      "meta": "Shell · ★ 2,012 · 🍴 210 · 📈 87 stars today",
+      "meta": "Shell · ★ 2,026 · 🍴 210 · 📈 87 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为Claude Code定制的开发框架，采用自主计划→工作→审查循环，提升代码质量和效率，适应AI协同开发工作流。"
+      "summary": "Claude Code专用开发框架，通过自主计划→工作→审查循环实现高质量软件开发，提升AI辅助编程的可靠性。"
     },
     {
       "sourceId": "github-trending",
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "excerpt": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "meta": "HTML · ★ 169,796 · 🍴 3,242 · 📈 2,222 stars today",
+      "meta": "HTML · ★ 169,836 · 🍴 3,243 · 📈 2,222 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提供免费域名服务，任何人都可获取免费域名，适合个人项目、测试站点或临时用途。"
+      "summary": "免费域名服务，为用户提供无需付费的域名注册与使用，适合个人项目或测试环境。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 210,247 · 🍴 18,723 · 📈 1,511 stars today",
+      "meta": "Shell · ★ 210,299 · 🍴 18,726 · 📈 1,511 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套代理技能框架与软件开发方法论，定义有效的工作流程，适用于构建AI代理驱动的软件项目，提升开发效率。"
+      "summary": "代理技能框架与软件开发方法论，提供可复用的技能模块和工作流程，帮助开发者高效构建AI代理应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "byoungd/English-level-up-tips",
       "url": "https://github.com/byoungd/English-level-up-tips",
       "excerpt": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "meta": "★ 47,524 · 🍴 4,990 · 📈 1,163 stars today",
+      "meta": "★ 47,562 · 🍴 4,992 · 📈 1,163 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全面的英语学习进阶指南，涵盖系统化方法与技巧，帮助自学者高效提升英语水平，被称为“离谱的英语学习指南”。"
+      "summary": "英语学习进阶指南，涵盖学习方法、资源推荐与技巧，适合希望系统提升英语水平的学习者。"
     },
     {
       "sourceId": "github-trending",
       "title": "iii-hq/iii",
       "url": "https://github.com/iii-hq/iii",
       "excerpt": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
-      "meta": "Rust · ★ 17,030 · 🍴 1,117 · 📈 376 stars today",
+      "meta": "Rust · ★ 17,035 · 🍴 1,117 · 📈 376 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "服务编排与实时监控工具，支持轻松组合、扩展和实时观测每个服务，适用于微服务架构运维和故障排查。"
+      "summary": "轻松组合、扩展和实时观察每项服务的工具，首次实现服务的实时编排与监控，适用于微服务架构管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "Axorax/awesome-free-apps",
       "url": "https://github.com/Axorax/awesome-free-apps",
       "excerpt": "Curated list of the best free apps for PC and mobile",
-      "meta": "JavaScript · ★ 6,137 · 🍴 304 · 📈 728 stars today",
+      "meta": "JavaScript · ★ 6,156 · 🍴 305 · 📈 728 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精选PC和移动端最佳免费应用的列表，帮助用户发现高质量开源或免费软件，覆盖多种类别。"
+      "summary": "精选免费应用程序列表，覆盖PC和移动端，为用户提供高质量的免费工具推荐。"
     },
     {
       "sourceId": "github-trending",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "excerpt": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "meta": "TypeScript · ★ 40,400 · 🍴 4,058 · 📈 72 stars today",
+      "meta": "TypeScript · ★ 40,410 · 🍴 4,058 · 📈 72 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的AI伴侣，类似Grok，支持实时语音对话、Minecraft集成等，可个性化定制，追求打造虚拟生命体。"
+      "summary": "自托管的Grok伴侣，支持实时语音聊天和Minecraft等游戏交互。基于容器化部署，实现类Neuro-sama的虚拟角色陪伴。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -177,6 +177,15 @@
       "url": "https://www.v2ex.com/t/1215224",
       "excerpt": "44 回复 · Apple 节点",
       "publishedAt": "2026-05-25T02:48:47.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "用 AI 如何做出好看的前端页面?",
+      "url": "https://www.v2ex.com/t/1216112",
+      "excerpt": "32 回复 · 程序员 节点",
+      "publishedAt": "2026-05-28T03:12:38.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -193,17 +202,17 @@
       "sourceId": "v2ex-hot",
       "title": "Quantumult X 又更新了 配置优化更新了一下",
       "url": "https://www.v2ex.com/t/1216067",
-      "excerpt": "30 回复 · Apple 节点",
+      "excerpt": "31 回复 · Apple 节点",
       "publishedAt": "2026-05-28T01:24:19.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "用 AI 如何做出好看的前端页面?",
-      "url": "https://www.v2ex.com/t/1216112",
-      "excerpt": "28 回复 · 程序员 节点",
-      "publishedAt": "2026-05-28T03:12:38.000Z",
+      "title": "芒果 TV 好像在送免费的 glm 5.1 和 ds v4？",
+      "url": "https://www.v2ex.com/t/1216133",
+      "excerpt": "25 回复 · 程序员 节点",
+      "publishedAt": "2026-05-28T04:01:52.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -218,19 +227,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "芒果 TV 好像在送免费的 glm 5.1 和 ds v4？",
-      "url": "https://www.v2ex.com/t/1216133",
-      "excerpt": "24 回复 · 程序员 节点",
-      "publishedAt": "2026-05-28T04:01:52.000Z",
+      "title": "MAC 萌新，有没有佬分享自己感觉好用的应用和设置",
+      "url": "https://www.v2ex.com/t/1215808",
+      "excerpt": "22 回复 · Apple 节点",
+      "publishedAt": "2026-05-27T01:53:35.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "MAC 萌新，有没有佬分享自己感觉好用的应用和设置",
-      "url": "https://www.v2ex.com/t/1215808",
-      "excerpt": "22 回复 · Apple 节点",
-      "publishedAt": "2026-05-27T01:53:35.000Z",
+      "title": "AI 写的代码你们是怎么保证质量的？",
+      "url": "https://www.v2ex.com/t/1216190",
+      "excerpt": "18 回复 · 程序员 节点",
+      "publishedAt": "2026-05-28T07:39:03.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -317,15 +326,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "AI 写的代码你们是怎么保证质量的？",
-      "url": "https://www.v2ex.com/t/1216190",
-      "excerpt": "11 回复 · 程序员 节点",
-      "publishedAt": "2026-05-28T07:39:03.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "分享 tmux 快捷方式",
       "url": "https://www.v2ex.com/t/1213636",
       "excerpt": "11 回复 · Linux 节点",
@@ -400,7 +400,7 @@
       "sourceId": "linuxdo",
       "title": "大聪明的止纷争之法",
       "url": "https://linux.do/t/topic/2255758",
-      "excerpt": "要说互联网上最容易吵起来的话题，涉及某*、某*、某*、某*的话题绝对拥有姓名。我们发现不管是手机、汽车还是大模型，只要一发出来，很快就能吵起来。 大聪明冥思苦想良久，终于想到一个止纷争的好办法。现在我们宣布：L站已同时接受某*、某*、某*、某*的投资！ 所谓不看僧面看佛面，都客气点，再攻击、抹黑某*、某*、某*、某*，我们可就不客气了。 到底投没投，你别管；具体是哪些公司，你猜。 207 个帖子 - 194 位参与者 阅读完整话题",
+      "excerpt": "要说互联网上最容易吵起来的话题，涉及某*、某*、某*、某*的话题绝对拥有姓名。我们发现不管是手机、汽车还是大模型，只要一发出来，很快就能吵起来。 大聪明冥思苦想良久，终于想到一个止纷争的好办法。现在我们宣布：L站已同时接受某*、某*、某*、某*的投资！ 所谓不看僧面看佛面，都客气点，再攻击、抹黑某*、某*、某*、某*，我们可就不客气了。 到底投没投，你别管；具体是哪些公司，你猜。 208 个帖子 - 195 位参与者 阅读完整话题",
       "publishedAt": "2026-05-27T09:54:56.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -409,7 +409,7 @@
       "sourceId": "linuxdo",
       "title": "奥特曼发短信是不要钱的吗？",
       "url": "https://linux.do/t/topic/2260598",
-      "excerpt": "现在 ChatGPT 注册要短信验证码，登录还得要，这么嗷嗷发短信，奥特曼不用付短信费用吗？ 据我所知应该没有这样的好事，大客户能便宜点，不可能不要钱。以前 OpenAI 使用 arkose 后来又关了，个人感觉还是费用上的问题。 我不太懂啊。这要是有居心叵测的人写恶意脚本，短信费用也可能上到天价啊，财大气粗如 OpenAI 应该也经不住这种消耗吧？ 201 个帖子 - 178 位参与者 阅读完整话题",
+      "excerpt": "现在 ChatGPT 注册要短信验证码，登录还得要，这么嗷嗷发短信，奥特曼不用付短信费用吗？ 据我所知应该没有这样的好事，大客户能便宜点，不可能不要钱。以前 OpenAI 使用 arkose 后来又关了，个人感觉还是费用上的问题。 我不太懂啊。这要是有居心叵测的人写恶意脚本，短信费用也可能上到天价啊，财大气粗如 OpenAI 应该也经不住这种消耗吧？ 203 个帖子 - 180 位参与者 阅读完整话题",
       "publishedAt": "2026-05-28T06:35:56.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -427,7 +427,7 @@
       "sourceId": "linuxdo",
       "title": "纯AI搓了一个在线音乐",
       "url": "https://linux.do/t/topic/2256838",
-      "excerpt": "Mac风格的web页面样式 完整的功能 佬们还有哪里可以改改的吗 1m小鸡 速度慢 点击查看 已修复反馈问题 专辑无法点击 收藏歌单解析错误 现在支持直接输入url自动解析 最近播放 单曲删除 歌词滚动无法聚焦模糊问题 用户头像点击退出登录 歌曲播放完成后自动下一曲 会继续播放当前歌曲头的问题 优化移动端手势，现在任意界面屏幕中间向右滑动触发返回 100 个帖子 - 82 位参与者 阅读完整话题",
+      "excerpt": "Mac风格的web页面样式 完整的功能 佬们还有哪里可以改改的吗 1m小鸡 速度慢 点击查看 已修复反馈问题 专辑无法点击 收藏歌单解析错误 现在支持直接输入url自动解析 最近播放 单曲删除 歌词滚动无法聚焦模糊问题 用户头像点击退出登录 歌曲播放完成后自动下一曲 会继续播放当前歌曲头的问题 优化移动端手势，现在任意界面屏幕中间向右滑动触发返回 104 个帖子 - 84 位参与者 阅读完整话题",
       "publishedAt": "2026-05-27T13:35:04.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -436,7 +436,7 @@
       "sourceId": "linuxdo",
       "title": "codex公益站已开 继续每人免费100刀",
       "url": "https://linux.do/t/topic/2260900",
-      "excerpt": "老友们 继续蹬 每人每天免费100 https://new.sharedchat.cc/ 78 个帖子 - 64 位参与者 阅读完整话题",
+      "excerpt": "老友们 继续蹬 每人每天免费100 https://new.sharedchat.cc/ 94 个帖子 - 75 位参与者 阅读完整话题",
       "publishedAt": "2026-05-28T07:24:51.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -544,7 +544,7 @@
       "sourceId": "linuxdo",
       "title": "公开大厂bug会被追责吗？",
       "url": "https://linux.do/t/topic/2259062",
-      "excerpt": "发现了Gemini的一个网页端的鉴权bug，可以无限制调用任意模型，包括deep thinking等等，不需要任何订阅。反馈给Google之后两个月没反馈也没钱，准备公开赚点stars，会被追责吗？能拿star嘛这种？ 一个实现思路是，找到ultra用户的用户层级，inner xx，然后发起对话请求（找到deep think对应的api字段）的时候替换成ultra的用户层级，Gemini不会在后端做验证。 68 个帖子 - 54 位参与者 阅读完整话题",
+      "excerpt": "发现了Gemini的一个网页端的鉴权bug，可以无限制调用任意模型，包括deep thinking等等，不需要任何订阅。反馈给Google之后两个月没反馈也没钱，准备公开赚点stars，会被追责吗？能拿star嘛这种？ 一个实现思路是，找到ultra用户的用户层级，inner xx，然后发起对话请求（找到deep think对应的api字段）的时候替换成ultra的用户层级，Gemini不会在后端做验证。 69 个帖子 - 55 位参与者 阅读完整话题",
       "publishedAt": "2026-05-28T02:08:59.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -571,7 +571,7 @@
       "sourceId": "linuxdo",
       "title": "疑似中转站投毒【并不确定】",
       "url": "https://linux.do/t/topic/2260000",
-      "excerpt": "难绷啊佬们，今天中午下班，去个厕所的功夫回来发现电脑被操控了，第一时间我还是懵的，用我的企业微信建了个日程，但是我随后就掌握了主动权，紧接着好多人给我发信息我一看才知道某个人操作我的企业微信发了个高温补贴的日程，还带着链接，mad赶紧删除日程，反思电脑上并没有不良软件，唯一得可能性就是中转站，最近好像之用了any盒一个富可敌国的赠金，但是any我一直在用都没啥事，富可敌国今天刚用就这样了，那么真相只有一个……. 72 个帖子 - 37 位参与者 阅读完整话题",
+      "excerpt": "难绷啊佬们，今天中午下班，去个厕所的功夫回来发现电脑被操控了，第一时间我还是懵的，用我的企业微信建了个日程，但是我随后就掌握了主动权，紧接着好多人给我发信息我一看才知道某个人操作我的企业微信发了个高温补贴的日程，还带着链接，mad赶紧删除日程，反思电脑上并没有不良软件，唯一得可能性就是中转站，最近好像之用了any盒一个富可敌国的赠金，但是any我一直在用都没啥事，富可敌国今天刚用就这样了，那么真相只有一个……. 89 个帖子 - 41 位参与者 阅读完整话题",
       "publishedAt": "2026-05-28T04:34:44.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -580,7 +580,7 @@
       "sourceId": "linuxdo",
       "title": "罗技新的操作（图源网络）",
       "url": "https://linux.do/t/topic/2259796",
-      "excerpt": "32 个帖子 - 31 位参与者 阅读完整话题",
+      "excerpt": "35 个帖子 - 34 位参与者 阅读完整话题",
       "publishedAt": "2026-05-28T03:45:25.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -629,7 +629,7 @@
       "publishedAt": "2026-05-27T11:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "思科与 OpenAI 合作，利用 Codex 重新定义企业工程，助力思科扩展 AI 原生开发、加速 AI 防御工作并自动化缺陷修复。"
+      "summary": "思科与 OpenAI 合作，利用 Codex 重新定义企业工程，协助思科拓展 AI 原生开发、加速 AI Defense 工作并自动化缺陷修复。"
     },
     {
       "sourceId": "openai-news",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-05-27T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI、Thrive 和 Crete 使用 Codex 构建了自改进税务代理，自动化申报流程，提高准确性并加速工作流。"
+      "summary": "OpenAI、Thrive 与 Crete 共同构建基于 Codex 的自我改进税务智能体，实现自动化报税、提升准确率并加速工作流程。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Warp 押注开源，利用 GPT-5.5 和 OpenAI 模型协调跨本地、云端及开源开发流程的编码代理。"
+      "summary": "Warp 押注开源开发，使用 GPT-5.5 及 OpenAI 模型协调本地、云端与开源工作流中的编码智能体。"
     },
     {
       "sourceId": "openai-news",
@@ -659,7 +659,7 @@
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 在 2026 年全球大选前推出选举信息与保障措施，帮助人们获取信息、支持网络防御并提升 AI 透明度。"
+      "summary": "OpenAI 在 2026 年全球选举前推出选举信息和安全措施，帮助民众获取信息、支持网络防御并提升 AI 透明度。"
     },
     {
       "sourceId": "openai-news",
@@ -1173,7 +1173,7 @@
       "publishedAt": "2026-05-27T17:20:29.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "ITBench-AA 基准测试显示，前沿模型在企业 IT 代理任务上得分低于 50%。该基准由 Artificial Analysis 和 IBM 推出，评估代理能力。"
+      "summary": "IBM 与 Artificial Analysis 联合发布 ITBench-AA，首个面向企业 IT 任务的智能体基准测试，前沿模型得分低于 50%。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1183,7 +1183,7 @@
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Reachy Mini 机器人实现完全本地化运行，无需依赖云端，提升了隐私和响应速度。"
+      "summary": "Reachy Mini 机器人实现完全本地化运行，无需依赖云端服务。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1193,7 +1193,7 @@
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "TRL 库引入 Delta Weight Sync 机制，通过 Hub Bucket 实现万亿参数模型的同步，优化了大型模型的存储与传输。"
+      "summary": "TRL 库推出 Delta Weight Sync 功能，通过 Hub Bucket 高效同步万亿参数模型的权重差异。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1440,6 +1440,16 @@
     },
     {
       "sourceId": "huggingface-papers",
+      "title": "GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2605.27491",
+      "excerpt": "We introduce GE-Sim 2.0 (Genie Envisioner World Simulator 2.0), a closed-loop video world simulator for robotic manipulation. Building on the action-conditioned video generation framework of Genie Envisioner, GE-Sim 2.0 is re-trained on thousands of hours of real-world robot data spanning teleoperat",
+      "publishedAt": "2026-05-26T00:00:00.000Z",
+      "meta": "👍 5",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
       "title": "Revealing Algorithmic Deductive Circuits for Logical Reasoning",
       "url": "https://huggingface.co/papers/2605.27824",
       "excerpt": "Recent studies have shown that Large Language Models (LLMs) can achieve strong reasoning performance by incorporating functional symbolic representations that abstractly describe graph traversal algorithms and step-by-step reasoning in few-shot learning settings. However, it remains unclear how LLMs",
@@ -1514,7 +1524,7 @@
       "url": "https://huggingface.co/papers/2605.28421",
       "excerpt": "Reinforcement learning has become a central paradigm for advancing reasoning in large language models, yet most existing methods still depend on stronger teacher models or heavily curated difficult datasets, limiting scalable capability improvement. In this paper, we introduce DenoiseRL, a reinforce",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 23",
+      "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1534,7 +1544,7 @@
       "url": "https://huggingface.co/papers/2605.27466",
       "excerpt": "Multi-agent systems built on large language models (LLMs) require many coordination choices that are difficult to fix a priori: which skill protocol to invoke, which agent role should perform a subtask, which model to bind to each role, how roles should interact, when to use retrieval or verificatio",
       "publishedAt": "2026-05-26T00:00:00.000Z",
-      "meta": "👍 2",
+      "meta": "👍 3",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1554,7 +1564,7 @@
       "url": "https://huggingface.co/papers/2605.28293",
       "excerpt": "Proactive Recommender Systems (PRSs) aim to guide user preference shift toward target items by generating paths of intermediate recommendations. Reinforcement learning (RL) provides a principled framework for optimizing such sequential decision tasks, as path rewards can naturally capture both short",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 65",
+      "meta": "👍 66",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1564,7 +1574,7 @@
       "url": "https://huggingface.co/papers/2605.28773",
       "excerpt": "Existing memory-augmented LLM agents often treat memory as a static repository with pre-defined representations and fixed retrieval pipelines, which is brittle in dynamic agentic environments where feedback, task variation, and heterogeneous signals continuously reshape what should be remembered and",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 13",
+      "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1574,7 +1584,7 @@
       "url": "https://huggingface.co/papers/2605.28732",
       "excerpt": "Memory is essential for enabling large language models to support long-horizon reasoning, yet existing memory systems remain unreliable and difficult to debug. Tracing memory's dynamic evolution is crucial to understand how information is synthesized, propagated, or corrupted over time. In this work",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 30",
+      "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1704,7 +1714,7 @@
       "url": "https://huggingface.co/papers/2605.28774",
       "excerpt": "Vision-language models with extended reasoning succeed on complex problems, but many real-world problems require external tools that internal reasoning alone often cannot resolve. Agentic reasoning therefore interleaves two behaviors with a structural asymmetry: thinking (the self-contained default)",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 59",
+      "meta": "👍 60",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1714,7 +1724,7 @@
       "url": "https://huggingface.co/papers/2605.28814",
       "excerpt": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as best-of-N sampling and tree search face two fundamental limitations: they are guided by sparse veri",
       "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 35",
+      "meta": "👍 37",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1729,16 +1739,6 @@
       "source": "HuggingFace Trending Papers"
     },
     {
-      "sourceId": "huggingface-papers",
-      "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-      "url": "https://huggingface.co/papers/2605.28816",
-      "excerpt": "World models for interactive video generation have largely focused on single-agent settings, where future observations are generated from a single control signal. However, many generated environments require multi-agent interaction: multiple players, robots, or embodied agents act simultaneously wit",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "meta": "👍 46",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "xAI Cursor limits 🚫, DeepSWE 👨‍💻, China AI travel restrictions 🤖",
       "url": "https://tldr.tech/ai/2026-05-27",
@@ -1746,7 +1746,7 @@
       "publishedAt": "2026-05-27T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "xAI 施加光标限制，DeepSWE 推出新工具，中国实施 AI 旅行限制。多领域动态更新。"
+      "summary": "今日 AI 快讯：xAI 限制 Cursor 使用量；DeepSWE 新工具；中国对 AI 旅行实施限制。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1927,7 +1927,7 @@
       "publishedAt": "2026-05-26T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "优化工程（harness engineering）成为编码代理的关键差异点，强调模型+优化+评估循环的堆栈。DeepSeek 组建优化团队，Google Gemini 也在相关领域进展。"
+      "summary": "Smol AI News 指出，「编排工程」（harness engineering）正成为编码智能体的关键差异点，DeepSeek 正组建编排团队，Google Gemin 也有所动作。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2198,7 +2198,7 @@
       "publishedAt": "2026-05-28T07:26:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cognition 公司完成 D 轮融资，筹集 10 亿美元，估值达 260 亿美元。该公司专注于编程领域，市场被视为无上限（uncapped TAM）。"
+      "summary": "Cognition 完成 260 亿美元 D 轮融资，募资 10 亿美元。市场分析指出编程是一个无上限的 TAM（总可寻址市场）。"
     },
     {
       "sourceId": "latent-space",
@@ -2208,7 +2208,7 @@
       "publishedAt": "2026-05-27T17:46:16.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "ESMFold2 探讨蛋白质领域的“苦涩教训”，聚焦数据集与归纳偏置、世界模型及可编程生物学。Alex Rives 在 BioHub 分享观点。"
+      "summary": "Alex Rives 在 BioHub 介绍 ESMFold2，探讨数据集与归纳偏置、世界模型及可编程生物学的关系，认为「苦涩教训」正适用于蛋白质研究。"
     },
     {
       "sourceId": "latent-space",
@@ -2218,7 +2218,7 @@
       "publishedAt": "2026-05-27T03:33:53.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI 基础设施领域涌现新独角兽：Fireworks 和 Baseten 成为百亿美元估值公司（decacorn），OpenRouter 也在追赶。"
+      "summary": "AI 基础设施领域新晋两家十角兽公司：Fireworks 和 Baseten，OpenRouter 也在追赶，融资消息被视为积极信号。"
     },
     {
       "sourceId": "latent-space",
@@ -2381,7 +2381,7 @@
       "publishedAt": "2026-05-26T14:54:10.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "企业级 AI 代理采用快速增长，但雄心与执行存在脱节。85% 的组织希望三年内实现代理化，但 76% 表示当前运营和基础设施无法支撑。"
+      "summary": "MIT Tech Review 指出，虽然 85% 的组织希望三年内实现智能体化，但 76% 表示当前运营和基础设施无法支撑这一目标。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2391,7 +2391,7 @@
       "publishedAt": "2026-05-26T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "针对 AI 导致白领失业的恐慌，文章提出现实检验。尽管 Coinbase、Meta、思科等科技公司出现裁员，但 AI 对整体就业的影响尚不明确。"
+      "summary": "MIT Tech Review 对 AI 导致白领失业的恐慌进行现实检验，指科技公司裁员（如 Coinbase、Meta、思科）并不预示所有知识工作者将失业。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2401,7 +2401,7 @@
       "publishedAt": "2026-05-26T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI 尚未导致大规模失业，发达国家总就业保持稳定。但入门级工作可能面临潜在危机，需要关注结构性变化。"
+      "summary": "MIT Tech Review 认为，AI 尚未导致大规模失业，发达国家就业总体稳定，但入门级工作正面临隐性危机，亟需关注。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2475,7 +2475,7 @@
       "category": "tech",
       "meta": "@poteto · 26.6K 粉丝 · 86.5K 阅 · 540 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "前Meta工程师分享自己如何使用Cursor，称在面试前从未用过，但在Meta时Claude Code已爆发，自己甚至付了每月200美元的个人订阅。"
+      "summary": "分享加入Cursor团队前的经历：在Meta目睹Claude Code快速普及后，自费每月200美元订阅，最终面试Cursor并开始使用，反思AI编码工具的实际采纳曲线。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2486,7 +2486,7 @@
       "category": "tech",
       "meta": "@difflawb · 20.3K 粉丝 · 21.9K 阅 · 1.1K 赞 · 389 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一个40行的shell脚本如何演变为基础设施？故事始于2024年8月，Andrej Karpathy发布了一个极小但关键的东西，不是论文也不是模型。"
+      "summary": "回顾2024年8月Andrej Karpathy发布的一个40行shell脚本，它并非论文或模型，却成为基础设施，展示极小代码片段如何撬动AI工作流变革。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2497,7 +2497,7 @@
       "category": "tech",
       "meta": "@ActionModelAI · 57.1K 粉丝 · 5.8K 阅 · 505 赞 · 344 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "声称AI替代已从科幻变为现实，认为这是现代史上最大的经济转型，但大多数人尚未意识到。"
+      "summary": "评论AI替代已从科幻预言变为现实，正引发现代历史上最大的经济转型，强调大多数人仍未意识到其速度与规模。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2525,7 +2525,7 @@
       "publishedAt": "2026-05-28T08:29:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "俄罗斯启动第二次人民币主权债券发行，接受投标；此前总统普京上周在北京举行会谈。"
+      "summary": "俄罗斯在普京访华后启动第二轮人民币计价主权债券发行，开始接受投标。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2543,8 +2543,7 @@
       "excerpt": "MiniMax Group Inc.’s annualized revenue more than doubled over the past two months, as the Chinese AI upstart plans to roll out its next flagship model to entice developers and enterprise clients.",
       "publishedAt": "2026-05-28T08:16:57.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "中国AI初创公司MiniMax年化收入在过去两个月增长一倍以上，计划推出下一代旗舰模型以吸引开发者和企业客户。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2553,8 +2552,7 @@
       "excerpt": "We love talking about money. And of course we love talking about the dollar, in all its varieties, from bank deposits to eurodollars to stablecoins. But what fundamentally is a dollar and who actually controls it? Before you can even talk about any of that, you need to understand how the dollar was ",
       "publishedAt": "2026-05-28T08:14:03.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "布伦丹·格里利在《Odd Lots》节目中探讨美元500年真实历史，讨论什么是美元以及谁真正控制它。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2960,7 +2958,7 @@
       "publishedAt": "2026-05-28T08:40:11.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "被解职的英国石油（BP）董事长阿尔伯特·曼尼福德抨击有关其行为的“谎言”，称自己在富时100石油集团“努力推动”，但反驳对其行为的批评。"
+      "summary": "被罢免的英国石油公司（BP）董事长阿尔伯特·曼尼福德驳斥对其行为的“谎言”，称自己在富时指数石油公司中“努力推进”，但不认同对其行为的批评。"
     },
     {
       "sourceId": "ft-companies",
@@ -3183,9 +3181,10 @@
       "title": "One in six young people will not be in work or training in five years without action, report warns",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
       "excerpt": "A report warns the UK is \"at risk of a lost generation\" with number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
-      "publishedAt": "2026-05-28T07:30:24.000Z",
+      "publishedAt": "2026-05-28T09:00:17.000Z",
       "category": "finance",
-      "source": "BBC Business"
+      "source": "BBC Business",
+      "summary": "报告警告称，若不采取行动，英国每六名年轻人中有一人将在五年内处于无工作、无教育、无培训状态，16至24岁脱离工作、教育或培训的人数到2031年将增至125万。"
     },
     {
       "sourceId": "bbc-business",
@@ -3725,18 +3724,17 @@
       "excerpt": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "publishedAt": "2026-05-28T08:43:19.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "伊朗称其袭击美军基地以回应美国新一轮空袭。冲突发生在美国与伊朗脆弱的停火期间，双方为结束持续三个月的战争进行长期谈判。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
       "title": "Sixteen pupils killed in Kenya school fire",
       "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
       "excerpt": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "publishedAt": "2026-05-28T08:31:23.000Z",
+      "publishedAt": "2026-05-28T08:58:56.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "肯尼亚一所学校发生火灾，造成16名学生死亡，数十人受伤，起火原因尚不清楚。"
+      "summary": "肯尼亚一所学校发生火灾，造成16名学生死亡，数十人受伤。起火原因尚在调查中。"
     },
     {
       "sourceId": "bbc-world",
@@ -3745,8 +3743,7 @@
       "excerpt": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
       "publishedAt": "2026-05-28T08:45:44.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "以色列对黎巴嫩南部发动大规模空袭，此前以军下令黎巴嫩居民撤离约17%的国土面积。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3966,6 +3963,15 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Dormitory fire at Kenyan school kills at least 15 students",
+      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
+      "excerpt": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire that ripped through a dormitory at a girls’ school in Kenya overnight has killed at least 15 students, according to police, while dozens more were injured. Gilgil police station sai",
+      "publishedAt": "2026-05-28T08:49:29.000Z",
+      "category": "politics",
+      "source": "The Guardian"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "US building Ebola quarantine center in Kenya for Americans amid outbreak",
       "url": "https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya",
       "excerpt": "Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbreak, instead of bringing them home. The White House on Wednesday",
@@ -3997,15 +4003,6 @@
       "url": "https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court",
       "excerpt": "Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was struck by her good looks. The two initiated a conversation and w",
       "publishedAt": "2026-05-25T04:00:15.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages",
-      "url": "https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks",
-      "excerpt": "WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country. The DRC’s ministry of communication said",
-      "publishedAt": "2026-05-24T19:07:33.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -4101,9 +4098,28 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia politics live: Albanese says Coalition ‘desperate’ after Taylor calls him ‘arrogant prick’; Treasury secretary says ‘no clear evidence’ for CGT reform criticisms",
+      "title": "Victorian greyhound trainer avoids ban despite dog being found with cocaine in system",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/victorian-greyhound-trainer-avoids-ban-despite-dog-being-found-with-cocaine-in-system-ntwnfb",
+      "excerpt": "Tribunal decision on Geoffrey Dalton comes as advocacy group releases data showing 30 greyhounds have died at or after Victorian races this year Get our breaking news email, free app or daily news podcast A veteran greyhound trainer whose dog was found to have cocaine in its system at a race has avo",
+      "publishedAt": "2026-05-28T09:05:42.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "维多利亚州灰狗训练师杰弗里·多尔顿因犬只体内检出可卡因而免于禁赛。与此同时，倡导组织数据显示今年已有30只灰狗在维州赛马中死亡。"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Wild weather unleashes thunderstorms across south-east Australia, triggering flash flooding",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/australia-weather-rain-flooding-expected-queensland-nsw-tasmania-bom-severe-weather-warning",
+      "excerpt": "Wet weather batters parts of Queensland, NSW and Tasmania amid warnings of heavy falls on Friday Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Wild weather more typical of summer than the last days of autumn has caused chaos in sou",
+      "publishedAt": "2026-05-28T08:55:45.000Z",
+      "category": "politics",
+      "source": "The Guardian"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Treasury secretary says ‘no clear evidence’ for CGT reform criticisms – as it happened",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "excerpt": "Follow updates live Get our breaking news email, free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scams of",
+      "excerpt": "This blog is now closed Get our breaking news email, free app or daily news podcast Scams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse victims of smaller scam",
       "publishedAt": "2026-05-28T08:06:58.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -4128,36 +4144,18 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Flooding rains expected across three Australian states as parched interior receives drenching",
-      "url": "https://www.theguardian.com/australia-news/2026/may/28/australia-weather-rain-flooding-expected-queensland-nsw-tasmania-bom-severe-weather-warning",
-      "excerpt": "Wet weather to batter parts of Queensland, NSW and Tasmania through Thursday, with warnings of flash flooding Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Multiple states are at risk of flash flooding on Thursday, with severe weat",
-      "publishedAt": "2026-05-28T06:24:25.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Santos accused of ‘stringing everybody along’ over Narrabri gas project",
-      "url": "https://www.theguardian.com/australia-news/2026/may/28/santos-mining-narrabri-gas-project-bettaloo-basin-australia",
-      "excerpt": "CEO tells investors firm won’t ‘exert any effort’ while it awaits approvals as opponents urge the miner to ‘spike the project finally’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Santos chief executive, Kevin Gallagher, has told ",
-      "publishedAt": "2026-05-28T04:58:54.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
       "title": "Kaja Kallas warns against walking into Russian ‘trap’ as EU ministers meet for talks – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
-      "excerpt": "EU chief diplomat says ‘not much happening’ in talks as she cautions against focus on personalities rather than strategy But other foreign ministers appear somewhat divided on the concept of appointing a single EU negotiator for Russia. Austria’s Beate Meinl-Reisinge said it was a necessary step as ",
-      "publishedAt": "2026-05-28T08:22:32.000Z",
+      "excerpt": "EU chief diplomat says ‘not much happening’ in talks as she cautions against focus on personalities rather than strategy Elsewhere, Ukrainian president Volodymyr Zelenskyy will meet Swedish prime minister Ulf Kristersson in Sweden today, where an announcement on air defence is expected, Sweden’s gov",
+      "publishedAt": "2026-05-28T08:41:51.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
-      "title": "Brexit red tape on food exports to be scrapped under UK-EU reset deal",
+      "title": "Brexit rules on food exports to be scrapped, government confirms",
       "url": "https://www.theguardian.com/politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
-      "excerpt": "Agreement affecting meat, plants and packaging promises to end paperwork ‘hell’ and border delays from 2027 Business live – latest updates Brexit red tape affecting UK food exports to the EU, including fresh sausages and burgers, will be scrapped from mid-2027 in the first confirmed result of Keir S",
+      "excerpt": "Agreement affecting meat, plants and packaging promises to end paperwork ‘hell’ and border delays from 2027 Business live – latest updates Brexit rules affecting UK food exports to the EU, including fresh sausages and burgers, will be scrapped from mid-2027 in the first confirmed result of Keir Star",
       "publishedAt": "2026-05-28T08:00:03.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -4191,12 +4189,23 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes",
+      "title": "Middle East crisis live: Iran official condemns Trump threat to ‘blow up’ Oman",
       "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
-      "excerpt": "President’s remarks indicate the two countries remain far apart over initial deal to end war Iran’s foreign ministry spokesperson, Esmaeil Baghaei, has condemned the US after Donald Trump threatened to attack Oman if it sides with Tehran over reopening the strait of Hormuz. In remarks during a cabin",
-      "publishedAt": "2026-05-28T08:19:13.000Z",
+      "excerpt": "US president said ally would be at risk if it did not ‘behave just like everybody else’ Here is a video of Donald Trump making those remarks about attacking Oman during a cabinet meeting at the White House: We have a statement from the Iranian foreign ministry in which the spokesperson, Esmail Bagha",
+      "publishedAt": "2026-05-28T09:08:08.000Z",
       "category": "politics",
-      "source": "The Guardian"
+      "source": "The Guardian",
+      "summary": "伊朗官员谴责美国总统特朗普威胁“炸毁”阿曼的言论。特朗普在内阁会议上称，若阿曼不“像其他人一样表现”将面临风险。伊朗外交部发言人也发表声明。"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Israel’s defence minister says large-scale Palestinian migration from Gaza will go ahead",
+      "url": "https://www.theguardian.com/world/2026/may/28/israels-defence-minister-says-large-scale-palestinian-migration-from-gaza-will-go-ahead",
+      "excerpt": "Human rights groups and lawyers say policy amounts to ethnic cleansing Israel’s defence minister has said he is committed to the ethnic cleansing of Gaza through large-scale migration of Palestinians as part of Israel’s long-term plans for the territory. Israel Katz said the government would impleme",
+      "publishedAt": "2026-05-28T09:00:02.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "以色列国防部长伊斯雷尔·卡茨表示将推动巴勒斯坦人从加沙大规模迁移，作为以色列长期计划的一部分。人权组织称此举相当于种族清洗。"
     },
     {
       "sourceId": "guardian-world",
@@ -4226,23 +4235,13 @@
       "source": "The Guardian"
     },
     {
-      "sourceId": "guardian-world",
-      "title": "Israeli military tells residents of swathe of southern Lebanon to leave",
-      "url": "https://www.theguardian.com/world/2026/may/27/israel-fires-airstrikes-lebanon-escalating-offensive",
-      "excerpt": "Notice to evacuate ‘combat zone’ and head north comes day after Israel launched more than 120 airstrikes on country Israel’s military has told residents across a swathe of southern Lebanon to leave and head north, as the Israeli prime minister, Benjamin Netanyahu, said his forces were escalating the",
-      "publishedAt": "2026-05-27T17:55:40.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
       "sourceId": "nyt-world",
       "title": "Iran War Live Updates: Iranian Military Says It Targeted a U.S. Base in Retaliation for Strikes",
       "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
       "excerpt": "Iran’s Islamic Revolutionary Guards Corps did not say which base it had targeted early Thursday, after U.S. strikes in the country’s south. The exchanges threaten a fragile cease-fire.",
-      "publishedAt": "2026-05-28T08:36:54.000Z",
+      "publishedAt": "2026-05-28T08:55:25.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "伊朗伊斯兰革命卫队称其袭击美军基地以报复美国对伊朗南部的空袭，未说明具体目标。双方交火威胁脆弱的停火协议。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4260,8 +4259,7 @@
       "excerpt": "It was not immediately clear what caused the blaze, which was the latest in a series of deadly fires at schools in the country in recent years.",
       "publishedAt": "2026-05-28T08:30:43.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "肯尼亚一所学校宿舍发生火灾，造成多名学生死亡。起火原因暂不清楚，这是该国近年一系列致命学校火灾中的最新一起。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4364,6 +4362,36 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/cuba-oil-russia-tanker.html",
+      "excerpt": "A Russian tanker seemingly en route to Cuba with a lifeline of fuel has changed direction, a painful development for the island suffering under a U.S. oil blockade.",
+      "publishedAt": "2026-05-28T09:06:19.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "一艘原定向古巴运送燃料的俄罗斯油轮中途改变航线，导致古巴失去获得燃料的机会。古巴正遭受美国石油封锁，此举加剧了该岛的燃料危机。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Guatemala Agrees to Joint Strikes With U.S. Against Drug Gangs",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/guatemala-us-joint-strikes.html",
+      "excerpt": "The deal is part of a broader effort by the Trump administration to press Latin American countries to agree to joint operations inside their borders.",
+      "publishedAt": "2026-05-28T09:04:34.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "危地马拉同意与美国开展联合打击毒品团伙行动，这是特朗普政府推动拉美国家在其境内进行联合行动的一部分。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+      "url": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+      "excerpt": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and a shared ideology with Argentina’s right-wing leader.",
+      "publishedAt": "2026-05-28T09:03:59.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "美国科技亿万富翁彼得·蒂尔在阿根廷扎根，部分动机是对美国未来的担忧，以及与阿根廷右翼领导人的共同意识形态。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest",
       "excerpt": "",
@@ -4376,7 +4404,7 @@
       "title": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days",
       "url": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html",
       "excerpt": "As a potential cease-fire hangs in the balance, an official said the strikes were in self-defense, with targets including four one-way attack drones launched by Iran.",
-      "publishedAt": "2026-05-28T07:26:31.000Z",
+      "publishedAt": "2026-05-28T08:50:14.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4480,31 +4508,31 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal/heres-the-latest",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T00:58:34.000Z",
+      "sourceId": "npr-world",
+      "title": "More than 500 people have died in Bangladesh measles outbreak",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5836674/more-than-500-people-have-died-in-bangladesh-measles-outbreak",
+      "excerpt": "Bangladesh is scrambling to vaccinate more children amid a measles outbreak that has killed more than 500 people, most of them children.",
+      "publishedAt": "2026-05-28T08:48:41.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NPR World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Where Time Is Always 15 Minutes Apart From Everywhere Else",
-      "url": "https://www.nytimes.com/2026/05/27/world/asia/nepal-time-15-minutes.html",
-      "excerpt": "In Nepal, a nation wedged between India and China, a unique time zone is just one expression of a singular national identity.",
-      "publishedAt": "2026-05-27T21:19:05.000Z",
+      "sourceId": "npr-world",
+      "title": "In Colombia, a flashy lawyer touts his tough-on-crime approach in presidential race",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5830412/in-colombia-a-flashy-lawyer-touts-his-tough-on-crime-approach-in-presidential-race",
+      "excerpt": "In Colombia's election this Sunday, a flamboyant criminal lawyer — who flaunts his wealth, machismo and even his music videos — is pitching himself as the toughest candidate on crime.",
+      "publishedAt": "2026-05-28T08:47:55.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NPR World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "High-Level British Spy Warns of Expanding Russia Threat",
-      "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-      "excerpt": "The director of Britain’s electronic surveillance agency warned that Moscow was getting more brazen, adding that estimates suggested 500,000 Russian soldiers had been killed in the Ukraine war.",
-      "publishedAt": "2026-05-27T14:54:30.000Z",
+      "sourceId": "npr-world",
+      "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
+      "excerpt": "As the global economy focuses on the Strait of Hormuz crisis, another shipping crisis looms in the region -- the return of Somali pirates.",
+      "publishedAt": "2026-05-28T08:46:28.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NPR World"
     },
     {
       "sourceId": "npr-world",
@@ -4566,33 +4594,6 @@
       "url": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
       "excerpt": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
       "publishedAt": "2026-05-26T13:32:50.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
-      "url": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
-      "excerpt": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
-      "publishedAt": "2026-05-26T11:20:21.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Ecuadorian survivors of suspected drone strike seek answers and restitution",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5828756/ecuadorian-survivors-of-suspected-drone-strike-seek-answers-and-restitution",
-      "excerpt": "Survivors of a suspected drone strike while fishing in the Eastern Pacific seek restitution after claiming they were forced onto a boat and handed over to Salvadoran officials, with no charges filed.",
-      "publishedAt": "2026-05-26T08:48:19.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Russia threatens more strikes against Kyiv after drone and missile attack",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5833816/russia-threatens-more-strikes-against-kyiv-after-drone-and-missile-attack",
-      "excerpt": "As Kyiv recovers from a Russian attack that hit every district in the Ukrainian capital, Ukraine continues long-range strikes on Russia's war machine even as the Kremlin threatens more strikes.",
-      "publishedAt": "2026-05-26T08:47:43.000Z",
       "category": "politics",
       "source": "NPR World"
     },
@@ -4868,6 +4869,24 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/neymar-injury-forces-him-out-of-brazils-first-world-cup-training-session?traffic_source=rss",
+      "excerpt": "Brazil's record scorer, Neymar, has not played since 2023, but injury now appears to threaten his World Cup comeback.",
+      "publishedAt": "2026-05-28T08:39:26.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Bafana Bafana World Cup squad: South Africa names two uncapped players",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/bafana-bafana-world-cup-squad-south-africa-names-two-uncapped-players?traffic_source=rss",
+      "excerpt": "South Africa's 26-man World Cup 2026 squad includes 19 local players, five who play in Europe, and two in the US.",
+      "publishedAt": "2026-05-28T08:37:27.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "World Cup delegation compliant with US Ebola protocols, DR Congo says",
       "url": "https://www.aljazeera.com/sports/2026/5/28/world-cup-delegation-compliant-with-us-ebola-protocols-dr-congo-says?traffic_source=rss",
       "excerpt": "'The Leopards are ready, they are safe, and the ​US will embrace ⁠this team,' DRC's ambassador to the US says.",
@@ -5070,24 +5089,6 @@
       "url": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss",
       "excerpt": "Republicans have revived a push to implement a congressional map that was rejected in 2023 for racial discrimination.",
       "publishedAt": "2026-05-27T20:40:05.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-      "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-      "excerpt": "The US president warns that Oman, a US ally, 'will behave just like everybody else, or we will have to blow them up'.",
-      "publishedAt": "2026-05-27T20:38:11.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Can the US and India repair ties over trade and China?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
-      "excerpt": "Rubio's visit to India comes as Washington seeks closer ties with New Delhi amid trade tensions and energy politics.",
-      "publishedAt": "2026-05-27T20:15:00.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5363,6 +5364,105 @@
     },
     {
       "sourceId": "habr",
+      "title": "Обновление macOS: для инженеров поддержки",
+      "url": "https://habr.com/ru/companies/ringo_mdm/articles/1039960/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039960",
+      "excerpt": "В этой статье разберём, как правильно подходить к обновлению macOS в корпоративной среде. Материал будет особенно полезен инженерам поддержки: рассмотрим ключевые моменты, на которые стоит обратить внимание до обновления, как грамотно организовать сам процесс и что необходимо проверить после установ",
+      "publishedAt": "2026-05-28T09:03:21.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Делаем ностальгический фильмоскоп на Raspberry Pi Zero 2 W",
+      "url": "https://habr.com/ru/companies/ruvds/articles/1038476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1038476",
+      "excerpt": "Один из ярких воспоминаний детства — просмотр семьёй диафильмов. Выключался свет, и на самодельном экране из простыни мы смотрели сказки. Детское воображение дорисовывало детали, и картинки оживали. Сейчас в эпоху интернета, мультимедиа и ИИ вроде бы как такой необходимости нет, но слишком сильное ч",
+      "publishedAt": "2026-05-28T09:02:28.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "От баз данных до инструментов для ИИ-экосистем: проекты, которые получили гранты Yandex Open Source",
+      "url": "https://habr.com/ru/companies/yandex/articles/1040282/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040282",
+      "excerpt": "Развивать собственный технологический проект в одиночку или небольшой командой — это всегда вызов. Нужно не просто написать работающий код, но и продумать архитектуру, закрыть инфраструктурные боли, настроить CI/CD и при этом не выгореть. Тем ценнее видеть, как крутые разработки получают заслуженную",
+      "publishedAt": "2026-05-28T09:01:26.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Больше, чем просто безопасность, или Зачем контролировать зависимости",
+      "url": "https://habr.com/ru/companies/pt/articles/1040080/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040080",
+      "excerpt": "Привет, Хабр! Меня зовут Артём Бердашкевич, в Positive Technologies руковожу направления DevSecOps. Сегодня хочу поговорить о теме, которая с годами становится только острее — о контроле зависимостей и о том, почему привычных подходов к нему уже катастрофически не хватает. Современная разработка дав",
+      "publishedAt": "2026-05-28T08:59:20.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Тот неловкий момент, когда письмо от Джованни из Швейцарии не оказалось обманом",
+      "url": "https://habr.com/ru/articles/1040498/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040498",
+      "excerpt": "Вам когда-нибудь приходили спам-письма от наследных принцев? Вот эти самые, где ты типа унаследовал состояние в миллиард долларов, а чтобы его получить, надо всего-то скинуть куда-то пару тысяч евро, желательно прямо сейчас. Мне приходили, поэтому к письмам от иностранцев отношусь настороженно. Тем ",
+      "publishedAt": "2026-05-28T08:58:46.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Почему AAA-игры проваливаются? Разбираем примеры",
+      "url": "https://habr.com/ru/companies/miip/articles/1040496/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040496",
+      "excerpt": "Жизнь разработчиков стала бы гораздо проще, если бы у них был рецепт создания успешной AAA-игры. Допустим, берем громкое имя – известную франшизу, набираем три сотни разработчиков, находим инвестиции в столько-то миллионов – и получаем гарантированный хит. Однако ни 350 человек в команде, ни 8-10 ле",
+      "publishedAt": "2026-05-28T08:58:36.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Как запустить 3D-приложение на сервере без GPU: от SwiftShader до WARP",
+      "url": "https://habr.com/ru/companies/ru_mts/articles/1040144/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040144",
+      "excerpt": "В очередной раз перебирая свой ретрокомпьютер, о котором уже рассказывал на Хабре, поменял видеокарту и запустил Quake 2. Решив сравнить картинку, выставил Software rendering, и мне в голову пришла мысль: жаль, что нельзя так сделать в современных играх… Или можно? Короткое гугление дало исчерпывающ",
+      "publishedAt": "2026-05-28T08:52:07.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Благоустраиваем Firefox: встроенный VPN",
+      "url": "https://habr.com/ru/articles/1040494/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040494",
+      "excerpt": "Продолжаем серию заметок по улучшению UI нашего любимого браузера. На этот раз поменяем кнопку включения VPN на тулбаре. Читать далее",
+      "publishedAt": "2026-05-28T08:51:01.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Современный Angular: Заменяем жизненные циклы на сигналы",
+      "url": "https://habr.com/ru/articles/1040488/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040488",
+      "excerpt": "Если вы пишете на Angular, то наверняка часто используете хуки жизненного цикла вроде ngOnChanges, ngOnInit и ngOnDestroy. С появлением сигналов и концепции Zoneless (когда Zone.js уже не обязателен) у нас появились более элегантные и читаемые альтернативы. Давайте разберем, как современный подход п",
+      "publishedAt": "2026-05-28T08:46:00.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "HR-бот на базе RAG: архитектура корпоративной базы знаний для ресторанного холдинга",
+      "url": "https://habr.com/ru/articles/1040000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040000",
+      "excerpt": "В ресторанном холдинге была внедрена система HR-бота на базе ИИ, которая работает поверх корпоративной базы знаний, учитывает роль сотрудника и предоставляет ответы со ссылками на актуальные документы. Основная задача проекта — заменить разрозненные FAQ, Wiki, документы и чаты единым интерфейсом дос",
+      "publishedAt": "2026-05-28T08:44:24.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
+      "title": "Почему ИИ не заменит аналитика при подготовке технического задания",
+      "url": "https://habr.com/ru/companies/infostart/articles/1040476/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040476",
+      "excerpt": "Искусственный интеллект уже перестал быть экспериментом для большинства компаний. Его используют в клиентской поддержке, обработке данных, поиске ошибок, подготовке текстов и автоматизации рутинных задач. На этом фоне все чаще возникает вопрос: если ИИ так быстро справляется с типовыми операциями, с",
+      "publishedAt": "2026-05-28T08:34:40.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)"
+    },
+    {
+      "sourceId": "habr",
       "title": "InSales без пушей: как бесплатно перенести уведомления о заказах в Telegram на Yandex Cloud Serverless",
       "url": "https://habr.com/ru/articles/1040472/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040472",
       "excerpt": "Если ваша CMS или CRM умеет отправлять email‑копию о новом заказе на произвольный адрес — этот гайд для вас. InSales, RetailCRM, МойСклад, WooCommerce, Битрикс, самописная система — без разницы. Инфраструктура одна и та же. Ссылка на гитхаб с полным мануалом по установке на русском в конце статьи. П",
@@ -5533,103 +5633,94 @@
       "source": "Habr (Хабр)"
     },
     {
-      "sourceId": "habr",
-      "title": "Архитектура автоматизации частного дома: KNX, Modbus, Node-RED и Sprut.Hub",
-      "url": "https://habr.com/ru/companies/wirenboard/articles/1040316/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040316",
-      "excerpt": "Стандартные решения удобны — спорить с этим сложно. Выбираешь, например, KNX, и дальше все работает по понятной схеме: оборудования много, типовые решения давно отработаны, софт удобный, интерфейсы выглядят аккуратно. Проблемы обычно начинаются, когда заказчик получает смету. Именно про такой проект",
-      "publishedAt": "2026-05-28T07:00:31.000Z",
+      "sourceId": "cnews",
+      "title": "SimpleOne заменила Jira и Trello в vStack единой SDLC-платформой",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_simpleone_zamenila_jira_i_trello_v",
+      "excerpt": "Компания vStack (направление системного ПО корпорации ITG) перешла с двух зарубежных сервисов: Jira и Trello, на российскую...",
+      "publishedAt": "2026-05-28T09:09:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Разработка на Python: когда много думать = вредить проекту",
-      "url": "https://habr.com/ru/companies/dalee_group/articles/1040146/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040146",
-      "excerpt": "Молодые разработчики, а иногда и опытные, стремясь сделать код «идеальным», часто уходят в оверинжиниринг и создают трудночитаемые конструкции. В итоге на реализацию уходит больше времени, а поддержка превращается в хард-квест с поиском ответов. Если и у вас есть желание написать какую-нибудь сложну",
-      "publishedAt": "2026-05-28T06:55:23.000Z",
+      "sourceId": "cnews",
+      "title": "AIOps-платформа Artimate встроила собственную языковую модель",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_aiops-platforma_artimate_vstroila",
+      "excerpt": "AIOps-платформа Artimate встроила собственную языковую модель. Модель работает внутри закрытого контура и на данный...",
+      "publishedAt": "2026-05-28T09:04:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Пишем Java-скрипт, который собирает проект в один файл для контекста в чат DeepSeek или другие LLM",
-      "url": "https://habr.com/ru/articles/1040420/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040420",
-      "excerpt": "У нейросетей есть ограничение на количество символов в чате или на число запросов. И бывает так, что лимит уже закончился, а разработка проекта — нет. Тогда приходится открывать новый чат и заново напоминать контекст: что за проект, какая структура, какие файлы важны, где уже были изменения. Обычно ",
-      "publishedAt": "2026-05-28T06:51:53.000Z",
+      "sourceId": "cnews",
+      "title": "DION запустил «Умный поиск» по встречам и протоколам",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_dion_zapustil_umnyj_poisk",
+      "excerpt": "Платформа корпоративных коммуникаций DION (входит в ИТ-холдинг «Т1») представила новый функционал — «Умный поиск»...",
+      "publishedAt": "2026-05-28T09:03:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Самодельный elgato-like макропад. Часть 2, софтовая",
-      "url": "https://habr.com/ru/articles/1022726/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1022726",
-      "excerpt": "Так как в первой статье я сосредоточился на схемотехнике, в этой хотелось бы пройтись по разработке ПО и прошивки. Напомню, я решил, что вместо прошивки мне подойдёт и нейрослоп - в конце концов это не серийное устройство, а поделка для себя. И тут, как обычно, в процессе работы пошли фейерверки. ES",
-      "publishedAt": "2026-05-28T06:50:54.000Z",
+      "sourceId": "cnews",
+      "title": "«Атол» представил Frontol Cloud — платформу для централизованного управления кассовой инфраструктурой розничных сетей",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_atol_predstavil_frontol_cloud",
+      "excerpt": "«Атол» анонсировал запуск кассового сервера Frontol Cloud — платформы для централизованного управления кассовой инфраструктурой...",
+      "publishedAt": "2026-05-28T08:57:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Гайд: как системному аналитику построить доменную модель для Java-микросервисов",
-      "url": "https://habr.com/ru/companies/otus/articles/1031274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1031274",
-      "excerpt": "Системный аналитик пишет User Story, рисует BPMN, описывает API — а через месяц архитектор перекраивает всё, потому что «это не ложится на DDD». Знакомо? В этой статье я показываю пошаговый маршрут, как аналитику самому спроектировать доменную модель и перенести её в Java‑код. Разбираю на реальном к",
-      "publishedAt": "2026-05-28T06:40:28.000Z",
+      "sourceId": "cnews",
+      "title": "Bi.Zone: только 27% привилегированных учетных записей в корпоративном секторе защищены сертификатами",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_bizone_tolko_27_privilegirovannyh",
+      "excerpt": "Эксперты Bi.Zone PAM проанализировали практику управления привилегированным доступом в крупном бизнесе и выяснили:...",
+      "publishedAt": "2026-05-28T08:55:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Балансировка входящего трафика на железе: как надёжно вывести K8s наружу с MetalLB, BGP и L2 (подход от Deckhouse)",
-      "url": "https://habr.com/ru/companies/flant/articles/1039392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039392",
-      "excerpt": "На bare metal внешний доступ к Kubernetes часто становится головной болью: NodePort с рандомными нестандартными портами не для продакшена, а облачного балансировщика нет. MetalLB превращает обычные узлы кластера в полноценный балансировщик с автоматическим failover. Разбираем режимы BGP и L2, а ещё ",
-      "publishedAt": "2026-05-28T06:40:24.000Z",
+      "sourceId": "cnews",
+      "title": "Российские компании смогут ускорить пилотирование и внедрение ИИ в десятки раз",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_rossijskie_kompanii_smogut",
+      "excerpt": "Yandex B2B Tech совместно с Selectel и MetaMentor представили новый формат использования ИИ для бизнеса. Теперь компании могут...",
+      "publishedAt": "2026-05-28T08:50:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "«Мементо»: как фильм Нолана 2000 года удивительно точно иллюстрирует работу ИИ- агентов",
-      "url": "https://habr.com/ru/articles/1040372/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040372",
-      "excerpt": "По-настоящему культовые произведения искусства отличаются от заурядных тем, что люди спустя годы продолжают находить в них смыслы, которые авторы и не думали закладывать. В 2000 году на экраны вышел триллер «Мементо» (в другом переводе — «Помни»), благодаря которому тогда ещё начинающий режиссёр Кри",
-      "publishedAt": "2026-05-28T06:35:24.000Z",
+      "sourceId": "cnews",
+      "title": "Обнаружены новые атаки майнера, который ранее проникал на устройства россиян через книжные сайты",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_obnaruzheny_novye_ataki_majnera",
+      "excerpt": "«Лаборатория Касперского» выявила новую волну распространения майнера SilentCryptoMiner. Ранее злоумышленники маскировали...",
+      "publishedAt": "2026-05-28T08:45:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "ИИ в работе с данными: как аналитики используют нейросети и почему без человека пока никак",
-      "url": "https://habr.com/ru/companies/yandex_praktikum/articles/1039950/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039950",
-      "excerpt": "ИИ не заменит аналитика данных или специалиста по Data Science. Но он может сильно изменить их работу: ускорить и упростить процессы — или, при неправильном использовании, снизить качество результатов и отучить специалистов мыслить критически. В Яндекс Практикуме прошёл вебинар «ИИ для аналитиков: к",
-      "publishedAt": "2026-05-28T06:06:15.000Z",
+      "sourceId": "cnews",
+      "title": "Билайн построит фиджитал-центры в Калининграде, Томской области и Приморском крае",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_bilajn_postroit_fidzhital-tsentry",
+      "excerpt": "Команда B2G «билайн бизнес» выиграла тендеры на строительство в трех городах России фиджитал-центров — комплексов...",
+      "publishedAt": "2026-05-28T08:43:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Шахматные программы VI. Структура поиска Stockfish",
-      "url": "https://habr.com/ru/articles/1039220/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039220",
-      "excerpt": "В этой части мы наконец-то обратимся к коду реальных программ. Примером нам будет служить код поиска шахматной программы Стокфиш. В настоящее время это безусловно сильнейшая шахматная программа в мире. Читать далее",
-      "publishedAt": "2026-05-28T06:04:39.000Z",
+      "sourceId": "cnews",
+      "title": "Т2 внедрил катастрофоустойчивую систему мониторинга на базе российского решения «Пульт»",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_t2_vnedril_katastrofoustojchivuyu",
+      "excerpt": "Т2, российский оператор мобильной связи, совместно с ИТ-компанией «Инфосистемы Джет» спроектировал и внедрил...",
+      "publishedAt": "2026-05-28T08:43:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
-      "sourceId": "habr",
-      "title": "Blockstor: Kubernetes-native альтернатива LINSTOR, которую мы готовим как отдельный CNCF-проект",
-      "url": "https://habr.com/ru/companies/aenix/articles/1040388/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1040388",
-      "excerpt": "Всем привет. Мы в Ænix давно занимаемся Kubernetes-платформами, bare metal-инфраструктурой и Cozystack, поэтому тема блочного хранилища для Kubernetes у нас не теоретическая. Это та часть стека, где красивых абстракций быстро становится мало: надо переживать падения нод, понимать топологию, реплицир",
-      "publishedAt": "2026-05-28T06:01:38.000Z",
+      "sourceId": "cnews",
+      "title": "«ААМ Системз» представила мобильный комплект эвакуации",
+      "url": "https://www.cnews.ru/news/line/2026-05-28_aam_sistemz_predstavila",
+      "excerpt": "Компания «ААМ Системз» представила мобильный комплект эвакуации — решение для оперативного развертывания системы...",
+      "publishedAt": "2026-05-28T08:41:00.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)"
-    },
-    {
-      "sourceId": "habr",
-      "title": "Эксперименты с WAP в 2026 году",
-      "url": "https://habr.com/ru/articles/1039636/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1039636",
-      "excerpt": "Эта статья - продолжение моей предыдущей статьи: Создаем собственную базовую станцию при помощи SDR. В прошлый раз я экспериментировал с 2G GPRS, но на старых телефонах эта технология не поддерживается, а мне хотелось запустить WAP именно на таком. О том, как вернуться в эпоху до распространения GPR",
-      "publishedAt": "2026-05-28T05:31:08.000Z",
-      "category": "tech",
-      "source": "Habr (Хабр)"
+      "source": "CNews"
     },
     {
       "sourceId": "cnews",
@@ -5812,94 +5903,44 @@
       "source": "CNews"
     },
     {
-      "sourceId": "cnews",
-      "title": "«М.видео» объявляет о старте предзаказа Huawei Watch Fit 5 Pro и начале продаж базовой модели Huawei Watch Fit 5",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_mvideo_obyavlyaet_o_starte",
-      "excerpt": "«М.видео» объявляет о старте предзаказа умных часов Huawei Watch Fit 5 Pro. Также начинаются продажи базовой модели Huawei...",
-      "publishedAt": "2026-05-28T06:46:00.000Z",
-      "category": "tech",
-      "source": "CNews"
+      "sourceId": "vedomosti",
+      "title": "Путин и Токаев подписали совместное заявление о семи основах дружбы",
+      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200844-putin-i-tokaev",
+      "excerpt": "Они охватывают ключевые направления взаимодействия России и Казахстана",
+      "publishedAt": "2026-05-28T09:01:31.000Z",
+      "category": "finance",
+      "source": "Vedomosti (Ведомости)",
+      "summary": "俄罗斯总统普京与哈萨克斯坦总统托卡耶夫签署联合声明，确立两国友谊的七大基础，涵盖俄哈合作关键方向。"
     },
     {
-      "sourceId": "cnews",
-      "title": "«Фармика» и «ОКСИ» завершили проект по созданию новой системы закупок для АО «Челябинский областной аптечный склад»",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_farmika_i_oksi_zavershili",
-      "excerpt": "АО «Центр развития электронных торгов» (оператор специализированной платформы для конкурентных закупок аптечных...",
-      "publishedAt": "2026-05-28T06:31:00.000Z",
-      "category": "tech",
-      "source": "CNews"
+      "sourceId": "vedomosti",
+      "title": "Песков: Евросоюз не предлагал России переговоров",
+      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200834-peskov-evrosoyuz",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:54:13.000Z",
+      "category": "finance",
+      "source": "Vedomosti (Ведомости)",
+      "summary": "俄罗斯总统新闻秘书佩斯科夫表示，欧盟并未向俄方提出谈判建议。"
     },
     {
-      "sourceId": "cnews",
-      "title": "CHUWI запускает новый CoreBook Air: Copilot+ PC с 2.8K-дисплеем и Intel Lunar Lake",
-      "url": "https://www.cnews.ru/news/line/2026-05-21_chuwi_zapuskaet_novyj_corebook",
-      "excerpt": "Компания CHUWI официально представила совершенно новый CoreBook Air — ноутбук нового поколения класса Copilot+ PC, сочетающий...",
-      "publishedAt": "2026-05-28T06:30:00.000Z",
-      "category": "tech",
-      "source": "CNews"
+      "sourceId": "vedomosti",
+      "title": "Песков: заявления РФ об ударах по объектам в Киеве не все воспринимают всерьез",
+      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200836-peskov-zayavleniya",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:49:33.000Z",
+      "category": "finance",
+      "source": "Vedomosti (Ведомости)",
+      "summary": "佩斯科夫称，并非所有人都认真对待俄罗斯有关对基辅目标实施打击的表态。"
     },
     {
-      "sourceId": "cnews",
-      "title": "«К2Тех» и «Береста РК» усиливают сотрудничество в области резервного копирования данных",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_k2teh_i_beresta_rk_usilivayut",
-      "excerpt": "ИТ-компания с комплексной экспертизой «К2Тех» и вендор «Береста РК» подписали меморандум о стратегическом партнерстве....",
-      "publishedAt": "2026-05-28T06:22:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "МТС перевела парки и сады Санкт-Петербурга на новые скорости интернета к началу лета",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_mts_perevela_parki_i_sady",
-      "excerpt": "МТС вывела в эфир дополнительные базовые станции стандарта LTE в 10 районах Санкт-Петербурга. Обновления затронули...",
-      "publishedAt": "2026-05-28T06:14:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "Creative представляет Sound Blaster AE-X — флагманскую внутреннюю звуковую карту",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_creative_predstavlyaet_sound_blaster",
-      "excerpt": "Компания Creative Technology анонсировала Sound Blaster AE-X — свою новейшую флагманскую внутреннюю звуковую карту, созданную...",
-      "publishedAt": "2026-05-28T06:12:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "МТС объявляет о старте предзаказа Huawei Watch FIT 5 Pro и начале продаж Huawei Watch FIT 5",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_mts_obyavlyaet_o_starte_predzakaza",
-      "excerpt": "ПАО «МТС» объявляет о старте предзаказа умных часов Huawei Watch FIT 5 Pro с функциями мониторинга физического состояния...",
-      "publishedAt": "2026-05-28T06:03:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "МТС усилила сеть LTE в пригороде Читы",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_mts_usilila_set_lte_v_prigorode",
-      "excerpt": "МТС улучшила телеком-инфраструктуру в одном из густонаселенных пригородов Читы. Благодаря запуску дополнительного...",
-      "publishedAt": "2026-05-28T06:03:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "«Базис» добавил в Basis Workplace собственный протокол передачи данных",
-      "url": "https://www.cnews.ru/news/top/2026-05-28_bazis_dobavil_v_vdi-platformu",
-      "excerpt": "Компания «Базис» выпустила обновление платформы для управления инфраструктурой виртуальных рабочих столов (VDI) — Basis Workplace 3.3. Главным событием релиза стала нативная интеграция протокола передачи данных Basis Connect, разработанного «Базис» для расширения возможностей VDI-платформы и упрощен",
-      "publishedAt": "2026-05-28T06:00:00.000Z",
-      "category": "tech",
-      "source": "CNews"
-    },
-    {
-      "sourceId": "cnews",
-      "title": "Еще более 4000 пермских семей получили доступ к гигабиту от МТС",
-      "url": "https://www.cnews.ru/news/line/2026-05-28_eshche_bolee_4000_permskih_semej",
-      "excerpt": "МТС сообщает о развитии фиксированной сети на территории Перми. В результате расширения телеком-инфраструктуры...",
-      "publishedAt": "2026-05-28T05:36:00.000Z",
-      "category": "tech",
-      "source": "CNews"
+      "sourceId": "vedomosti",
+      "title": "Сальдо: Киев ударил по детской площадке в Херсоне",
+      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200829-saldo-kiev-udaril",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:46:39.000Z",
+      "category": "finance",
+      "source": "Vedomosti (Ведомости)",
+      "summary": "赫尔松州代理州长萨利多指控乌克兰军队袭击了赫尔松的一处儿童游乐场。"
     },
     {
       "sourceId": "vedomosti",
@@ -5909,7 +5950,7 @@
       "publishedAt": "2026-05-28T08:35:14.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯法官资格认证委员会（VKKS）批准对加里宁格勒仲裁法院的一名法官因受贿提起刑事诉讼。"
+      "summary": "俄罗斯法官最高资格委员会批准对加里宁格勒仲裁法院一名法官提起受贿刑事诉讼。"
     },
     {
       "sourceId": "vedomosti",
@@ -5919,7 +5960,7 @@
       "publishedAt": "2026-05-28T08:35:12.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯中央选举委员会主席埃拉·帕姆菲洛娃表示，举行州长选举的地区数量可能会增加。"
+      "summary": "俄罗斯中央选举委员会主席帕姆菲洛娃表示，举行州长选举的地区数量可能增加。"
     },
     {
       "sourceId": "vedomosti",
@@ -5929,7 +5970,7 @@
       "publishedAt": "2026-05-28T08:32:01.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "哈萨克斯坦总统托卡耶夫表示，俄罗斯在普京领导下的未来将是光明且充满希望的。"
+      "summary": "哈萨克斯坦总统托卡耶夫表示，在普京领导下的俄罗斯未来将是光明且充满希望的。"
     },
     {
       "sourceId": "vedomosti",
@@ -5939,7 +5980,7 @@
       "publishedAt": "2026-05-28T08:21:13.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "美国驻乌克兰大使馆否认关于其停止在基辅工作的报道。"
+      "summary": "美国驻乌克兰大使馆否认有关其将停止在基辅运作的消息。"
     },
     {
       "sourceId": "vedomosti",
@@ -5958,8 +5999,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:16:36.000Z",
       "category": "finance",
-      "source": "Vedomosti (Ведомости)",
-      "summary": "哈萨克斯坦总统托卡耶夫称，俄罗斯与哈萨克斯坦之间现有177个合作项目，总金额达530亿美元。"
+      "source": "Vedomosti (Ведомости)"
     },
     {
       "sourceId": "vedomosti",
@@ -5968,8 +6008,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:10:02.000Z",
       "category": "finance",
-      "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯总统普京提到在哈萨克斯坦成立了一个俄语国际组织。"
+      "source": "Vedomosti (Ведомости)"
     },
     {
       "sourceId": "vedomosti",
@@ -5978,8 +6017,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:05:59.000Z",
       "category": "finance",
-      "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯总统普京表示，俄罗斯与哈萨克斯坦的关系正处于上升期。"
+      "source": "Vedomosti (Ведомости)"
     },
     {
       "sourceId": "vedomosti",
@@ -6010,7 +6048,7 @@
     },
     {
       "sourceId": "vedomosti",
-      "title": "ВТБ в январе–апреле сократил чистую прибыль на 1,8%",
+      "title": "ВТБ в январе – апреле сократил чистую прибыль на 1,8%",
       "url": "https://www.vedomosti.ru/finance/news/2026/05/28/1200794-vtb-v-yanvareaprele-sokratil",
       "excerpt": "",
       "publishedAt": "2026-05-28T07:43:50.000Z",
@@ -6144,40 +6182,129 @@
       "source": "Vedomosti (Ведомости)"
     },
     {
-      "sourceId": "vedomosti",
-      "title": "Банк России может снизить ключевую ставку до 14% в июне",
-      "url": "https://www.vedomosti.ru/finance/news/2026/05/28/1200774-bank-rossii-mozhet",
+      "sourceId": "lenta",
+      "title": "Российскому дошкольнику отказали в зачислении в первый класс",
+      "url": "https://lenta.ru/news/2026/05/28/rossiyskomu-doshkolniku-otkazali-v-zachislenii-v-pervyy-klass/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T05:34:44.000Z",
-      "category": "finance",
-      "source": "Vedomosti (Ведомости)"
+      "publishedAt": "2026-05-28T09:08:33.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯一名学龄前儿童被学校拒绝录取进入一年级，具体原因未披露。"
     },
     {
-      "sourceId": "vedomosti",
-      "title": "Bild: в Германии опасаются притока украинских беженцев из Польши",
-      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200772-bild-v-germanii-opasayutsya",
+      "sourceId": "lenta",
+      "title": "Правительство решило усовершенствовать техосмотр машин",
+      "url": "https://lenta.ru/news/2026/05/28/pravitelstvo-reshilo-usovershenstvovat-tehosmotr-mashin/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T05:22:26.000Z",
-      "category": "finance",
-      "source": "Vedomosti (Ведомости)"
+      "publishedAt": "2026-05-28T09:08:04.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯政府决定完善汽车技术检验流程，旨在提高车辆检测效率与安全性。"
     },
     {
-      "sourceId": "vedomosti",
-      "title": "КСИР сообщил об ответном ударе по военной базе США",
-      "url": "https://www.vedomosti.ru/politics/news/2026/05/28/1200771-ksir-soobschil-ob-otvetnom",
+      "sourceId": "lenta",
+      "title": "Российская школьница во время «онлайн-обыска» отдала украшения и валюту на миллионы",
+      "url": "https://lenta.ru/news/2026/05/28/rossiyskaya-shkolnitsa-vo-vremya-onlayn-obyska-otdala-ukrasheniya-i-valyutu-na-milliony/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T05:19:16.000Z",
-      "category": "finance",
-      "source": "Vedomosti (Ведомости)"
+      "publishedAt": "2026-05-28T09:05:10.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯一名女学生在遭遇“线上搜查”时，被迫交出价值数百万卢布的珠宝和外币，疑遭遇电信诈骗。"
     },
     {
-      "sourceId": "vedomosti",
-      "title": "Уровень кредитования банками компаний в апреле вырос на 1,9%",
-      "url": "https://www.vedomosti.ru/finance/news/2026/05/28/1200770-uroven-kreditovaniya-bankami",
+      "sourceId": "lenta",
+      "title": "Отказ от одной привычки оказался способен снизить риск развития деменции",
+      "url": "https://lenta.ru/news/2026/05/28/otkaz-ot-odnoy-privychki-okazalsya-sposoben-snizit-risk-razvitiya-dementsii/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T04:51:20.000Z",
-      "category": "finance",
-      "source": "Vedomosti (Ведомости)"
+      "publishedAt": "2026-05-28T09:04:27.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "研究显示，改掉某一特定习惯（如吸烟、久坐等）可降低罹患痴呆症的风险，但具体习惯未详细说明。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Россиянин оказался под угрозой 20 лет тюрьмы во Вьетнаме за кражу багажа",
+      "url": "https://lenta.ru/news/2026/05/28/rossiyanin-okazalsya-pod-ugrozoy-20-let-tyurmy-vo-vietname-za-krazhu-bagazha/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T09:02:33.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "一名俄罗斯公民因盗窃行李在越南面临最高20年监禁，案件正在审理中。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "В Кремле назвали предпочтительный вариант урегулирования конфликта на Украине",
+      "url": "https://lenta.ru/news/2026/05/28/v-kremle-nazvali-predpochtitelnyy-variant-uregulirovaniya-konflikta-na-ukraine/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T09:01:24.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "克里姆林宫表示已确定解决乌克兰冲突的首选方案，但未透露具体内容。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Китайское агентство оценило состояние российской экономики",
+      "url": "https://lenta.ru/news/2026/05/28/kitayskoe-agentstvo-otsenilo-sostoyanie-rossiyskoy-ekonomiki/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T09:00:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "中国某机构对俄罗斯经济状况进行了评估，但具体结论未公布。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Песков прокомментировал идею спустить флаг Армении на саммите ЕАЭС",
+      "url": "https://lenta.ru/news/2026/05/28/peskov-prokommentiroval-ideyu-spustit-flag-armenii-na-sammite-eaes/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:57:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯总统新闻秘书佩斯科夫评论了在欧亚经济联盟峰会上降下亚美尼亚国旗的提议，但未明确表态。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Цены на нефть перешли к росту на фоне удара Ирана по авиабазе США",
+      "url": "https://lenta.ru/news/2026/05/28/tseny-na-neft-pereshli-k-rostu-na-fone-udara-irana-po-aviabaze-ssha/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:55:02.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Россияне отправились на свидание на сапбордах и пропали",
+      "url": "https://lenta.ru/news/2026/05/28/rossiyane-otpravilis-na-svidanie-na-sapbordah-i-propali/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:52:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Саша Барон Коэн показал бюстгальтер для мужских гениталий",
+      "url": "https://lenta.ru/news/2026/05/28/sasha-baron-koen-pokazal-byustgalter-dlya-muzhskih-genitaliy/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:52:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "В Кремле высказались о переговорах с ЕС",
+      "url": "https://lenta.ru/news/2026/05/28/v-kremle-vyskazalis-o-peregovorah-s-es/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:48:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "В российском регионе мужчина изнасиловал молодую девушку",
+      "url": "https://lenta.ru/news/2026/05/28/v-rossiyskom-regione-muzhchina-iznasiloval-moloduyu-devushku/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:48:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6186,8 +6313,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:44:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "俄罗斯最高资格委员会同意对一名从业15年的法官提起刑事诉讼。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6196,8 +6322,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:42:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "瑞士失去全球生活成本最高国家称号，被另一个国家取代。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6206,18 +6331,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:40:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "俄罗斯方面表示，爱沙尼亚试图背离双方就楚德湖达成的协议。"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "На главную площадь Еревана вывели военную технику",
-      "url": "https://lenta.ru/news/2026/05/28/na-glavnuyu-ploschad-erevana-vyveli-voennuyu-tehniku/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:39:07.000Z",
-      "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "亚美尼亚首都埃里温主要广场出现军事装备。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6226,8 +6340,16 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:39:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "被称为“末日电台”的神秘电台播报了一条关于偏执狂的信息。"
+      "source": "Lenta.ru"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "На главную площадь Еревана вывели военную технику",
+      "url": "https://lenta.ru/news/2026/05/28/na-glavnuyu-ploschad-erevana-vyveli-voennuyu-tehniku/",
+      "excerpt": "",
+      "publishedAt": "2026-05-28T08:39:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6236,8 +6358,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:38:19.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "医生警告，高温天气可能导致某些药物失去效力。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6246,8 +6367,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:36:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "克里姆林宫表示，并不认真看待针对乌克兰首都基辅的打击威胁。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6256,8 +6376,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:34:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "2026年世界杯组织者被传唤至检察院接受问询。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6266,8 +6385,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:31:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "俄罗斯一名学生在“最后铃声”节日当天死亡，死因已被查明。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6276,8 +6394,7 @@
       "excerpt": "",
       "publishedAt": "2026-05-28T08:29:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "俄罗斯一名中学生被怀疑在铁路上实施恐怖袭击。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6299,10 +6416,10 @@
     },
     {
       "sourceId": "lenta",
-      "title": "Пользователей Windows на полгода оставили без обновлений",
-      "url": "https://lenta.ru/news/2026/05/28/no-updates/",
+      "title": "Gucci станет спонсором одной из команд «Формулы-1»",
+      "url": "https://lenta.ru/news/2026/05/28/gucci-stanet-sponsorom-odnoy-iz-komand-formuly-1/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T08:27:30.000Z",
+      "publishedAt": "2026-05-28T08:27:00.000Z",
       "category": "politics",
       "source": "Lenta.ru"
     },
@@ -6311,14 +6428,14 @@
       "title": "С бывшего вице-мэра российского города взыскали сотни миллионов рублей",
       "url": "https://lenta.ru/news/2026/05/28/s-byvshego-vitse-mera-rossiyskogo-goroda-vzyskali-sotni-millionov-rubley/",
       "excerpt": "",
-      "publishedAt": "2026-05-28T08:27:19.000Z",
+      "publishedAt": "2026-05-28T08:27:00.000Z",
       "category": "politics",
       "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
-      "title": "Gucci станет спонсором одной из команд «Формулы-1»",
-      "url": "https://lenta.ru/news/2026/05/28/gucci-stanet-sponsorom-odnoy-iz-komand-formuly-1/",
+      "title": "Пользователей Windows на полгода оставили без обновлений",
+      "url": "https://lenta.ru/news/2026/05/28/no-updates/",
       "excerpt": "",
       "publishedAt": "2026-05-28T08:27:00.000Z",
       "category": "politics",
@@ -6339,123 +6456,6 @@
       "url": "https://lenta.ru/news/2026/05/28/nazvany-vozmozhnye-mesta-zapuska-povredivshih-sud-v-stolitse-regiona-rossii-dronov/",
       "excerpt": "",
       "publishedAt": "2026-05-28T08:25:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Приговор родившей в СИЗО блогерше Битмаме признали законным",
-      "url": "https://lenta.ru/news/2026/05/28/prigovor-rodivshey-v-sizo-blogershe-bitmame-priznali-zakonnym/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:20:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Российские работодатели пожаловались на качество профобразования",
-      "url": "https://lenta.ru/news/2026/05/28/slabovato/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:20:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Артемий Лебедев ответил переживающему из-за драк и насилия на улицах зрителю",
-      "url": "https://lenta.ru/news/2026/05/28/artemiy-lebedev-otvetil-perezhivayuschemu-iz-za-drak-i-nasiliya-na-ulitsah-zritelyu/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:17:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Теневой оборот денег обнаружили в российском регионе",
-      "url": "https://lenta.ru/news/2026/05/28/tenevoy-oborot-deneg-obnaruzhili-v-rossiyskom-regione/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:16:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "В России ответили на условие Каллас для переговоров по Украине",
-      "url": "https://lenta.ru/news/2026/05/28/v-rossii-otvetili-na-uslovie-kallas-dlya-peregovorov-po-ukraine/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:15:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "В России высказались о связях с Казахстаном на фоне встречи Путина и Токаева",
-      "url": "https://lenta.ru/news/2026/05/28/v-rossii-vyskazalis-o-svyazyah-s-kazahstanom-na-fone-vstrechi-putina-i-tokaeva/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:13:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Россиянки раскрыли предпочитаемый размер дохода партнера во время курортного романа",
-      "url": "https://lenta.ru/news/2026/05/28/rossiyanki-raskryli-predpochitaemyy-razmer-zarabotka-partnera-vo-vremya-kurortnogo-romana/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:12:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Раскрыты масштабы разрушений в Севастополе после массированной атаки ВСУ",
-      "url": "https://lenta.ru/news/2026/05/28/raskryty-masshtaby-razrusheniy-v-rossiyskom-gorode-posle-massirovannoy-ataki-vsu/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:11:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Шансы Армении заместить российский газ оценили",
-      "url": "https://lenta.ru/news/2026/05/28/shansy-armenii-zamestit-rossiyskiy-gaz-otsenili/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:10:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Россиянам назвали машины с низкой остаточной стоимостью",
-      "url": "https://lenta.ru/news/2026/05/28/rossiyanam-nazvali-mashiny-s-nizkoy-ostatochnoy-stoimostyu/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T08:06:50.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "В говяжьих бургерах из «Азбуки вкуса» нашли следы свинины и курятины",
-      "url": "https://lenta.ru/news/2026/05/28/v-govyazhih-burgerah-iz-azbuki-vkusa-nashli-sledy-svininy-i-kuryatiny/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T07:59:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Путин охарактеризовал отношения России с одной страной ЕАЭС",
-      "url": "https://lenta.ru/news/2026/05/28/putin-oharakterizoval-otnosheniya-rossii-s-odnoy-stranoy-eaes/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T07:58:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Захарова высмеяла заявление Каллас о России",
-      "url": "https://lenta.ru/news/2026/05/28/zaharova-vysmeyala-zayavlenie-kallas-o-rossii/",
-      "excerpt": "",
-      "publishedAt": "2026-05-28T07:57:00.000Z",
       "category": "politics",
       "source": "Lenta.ru"
     }
