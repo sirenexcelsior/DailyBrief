@@ -65,6 +65,12 @@ export const WATCHLIST: TickerDef[] = [
   { symbol: "PDD", displayName: "拼多多 (PDD)", displayNameEn: "Pinduoduo (PDD)", group: "china-equity" },
   { symbol: "JD", displayName: "京东 (JD)", displayNameEn: "JD.com (JD)", group: "china-equity" },
   { symbol: "0700.HK", displayName: "腾讯控股 (0700.HK)", displayNameEn: "Tencent (0700.HK)", group: "china-equity" },
+  // === A 股 ETF ===
+  { symbol: "518880.SS", displayName: "黄金 ETF (518880)", displayNameEn: "Gold ETF (518880)", group: "china-equity" },
+  { symbol: "159941.SZ", displayName: "纳指 ETF (159941)", displayNameEn: "Nasdaq ETF (159941)", group: "china-equity" },
+  { symbol: "159612.SZ", displayName: "标普 500 ETF (159612)", displayNameEn: "S&P 500 ETF (159612)", group: "china-equity" },
+  { symbol: "513100.SS", displayName: "纳指 100 ETF (513100)", displayNameEn: "Nasdaq 100 ETF (513100)", group: "china-equity" },
+  { symbol: "513500.SS", displayName: "标普 500 ETF (513500)", displayNameEn: "S&P 500 ETF (513500)", group: "china-equity" },
   // === 商品 + 外汇 ===
   { symbol: "GC=F", displayName: "黄金期货", displayNameEn: "Gold Futures", group: "commodity-fx" },
   { symbol: "CL=F", displayName: "WTI 原油期货", displayNameEn: "WTI Crude Futures", group: "commodity-fx" },
