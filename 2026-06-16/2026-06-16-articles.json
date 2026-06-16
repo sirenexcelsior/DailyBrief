@@ -6,180 +6,180 @@
       "title": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "excerpt": "Collection of publicly available IPTV channels from all over the world",
-      "meta": "TypeScript · ★ 122,827 · 🍴 6,590 · 📈 2,650 stars today",
+      "meta": "TypeScript · ★ 122,840 · 🍴 6,593 · 📈 2,657 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "全球公开 IPTV 频道集合，收录数千个可播放的直播电视流。用户可直接导入播放器观看各国免费电视节目，无需付费订阅。"
+      "summary": "收集全球公开可用的IPTV频道，提供M3U播放列表。用户可通过VLC等播放器免费观看各国电视节目，无需付费订阅。适合喜欢看海外电视、不愿付费IPTV服务的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "excerpt": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "meta": "Elixir · ★ 8,223 · 🍴 946 · 📈 35 stars today",
+      "meta": "Elixir · ★ 8,224 · 🍴 946 · 📈 33 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的特斯拉数据记录器，自动追踪车辆里程、充电、效率等指标并通过仪表盘展示。适合特斯拉车主进行深度数据分析和续航优化。"
+      "summary": "自托管的特斯拉数据记录器，用于采集和展示车辆行驶、充电、能耗等详细数据。Tesla车主可通过Web界面监控车辆状态，支持Docker部署，注重隐私。"
     },
     {
       "sourceId": "github-trending",
       "title": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "excerpt": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "meta": "Python · ★ 30,085 · 🍴 2,446 · 📈 1,045 stars today",
+      "meta": "Python · ★ 30,101 · 🍴 2,447 · 📈 1,100 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "让 AI agent 通过 CLI 无 API 费用地读取 Twitter、Reddit、YouTube、GitHub、Bilibili 和小红书等平台内容，实现互联网信息检索与搜索。"
+      "summary": "为AI代理提供“眼睛”以观察整个互联网。通过CLI工具读取Twitter、Reddit、YouTube、GitHub、B站、小红书等平台，无需API费用。适合构建能联网抓取信息的智能助手。"
     },
     {
       "sourceId": "github-trending",
       "title": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "excerpt": "Meshery, the cloud native manager",
-      "meta": "TypeScript · ★ 10,622 · 🍴 3,434 · 📈 227 stars today",
+      "meta": "TypeScript · ★ 10,621 · 🍴 3,434 · 📈 228 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "云原生管理平台，用于设计、管理和可视化 Kubernetes 服务网格及基础设施，支持 Istio、Linkerd 等适配器，提供性能基准测试。"
+      "summary": "云原生管理器，专注于服务网格的配置、管理和可视化。支持Istio、Linkerd等多种网格，提供图形化界面和性能基准测试。运维人员可用其统一管理Kubernetes下的服务网格。"
     },
     {
       "sourceId": "github-trending",
       "title": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "excerpt": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "meta": "Ruby · ★ 31,665 · 🍴 7,628 · 📈 431 stars today",
+      "meta": "Ruby · ★ 31,667 · 🍴 7,628 · 📈 431 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源全渠道客服系统，支持实时聊天、邮件、社交媒体消息等统一收件箱，替代 Intercom、Zendesk 等商业产品，适合企业客户支持。"
+      "summary": "开源全渠道客服平台，替代Intercom、Zendesk等商业产品。支持实时聊天、邮件、社交媒体消息整合，提供自动化和团队协作功能。适合中小型企业搭建自有客服系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "excerpt": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "meta": "Java · ★ 126,874 · 🍴 15,135 · 📈 95 stars today",
+      "meta": "Java · ★ 126,880 · 🍴 15,135 · 📈 71 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "动画图解、一键运行的数据结构与算法教程，支持简中、繁中、English、日本語，提供 Python、Java、C++ 等 14 种语言实现，适合初学者直观理解算法。"
+      "summary": "《Hello 算法》——动画图解数据结构与算法，支持一键运行代码。涵盖Python、Java、C++等多语言实现，并提供中英文版本。适合编程初学者和面试备考者学习。"
     },
     {
       "sourceId": "github-trending",
       "title": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "excerpt": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "meta": "TypeScript · ★ 447,865 · 🍴 44,989 · 📈 738 stars today",
+      "meta": "TypeScript · ★ 447,869 · 🍴 44,989 · 📈 736 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "免费学习编程、数学和计算机科学的开源平台，提供交互式课程、项目实战和认证，覆盖前端、后端、数据科学等领域。"
+      "summary": "免费学习编程与计算机科学的开源平台。提供交互式课程，涵盖HTML、JavaScript、Python、机器学习等。全球数百万用户通过它转行成为软件工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "excerpt": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "meta": "HTML · ★ 18,134 · 🍴 1,171 · 📈 57 stars today",
+      "meta": "HTML · ★ 18,136 · 🍴 1,171 · 📈 70 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源基础设施，用于训练和评估能控制 macOS、Linux、Windows 桌面的 AI agent，提供沙箱环境、SDK 和基准测试。"
+      "summary": "面向计算机使用代理的开源基础设施，提供沙箱、SDK和基准测试。支持在macOS、Linux、Windows上训练和评估能控制桌面的AI代理。适合研究桌面自动化和AI操作系统的团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "excerpt": "A complete computer science study plan to become a software engineer.",
-      "meta": "★ 352,284 · 🍴 83,563 · 📈 352 stars today",
+      "meta": "★ 352,288 · 🍴 83,563 · 📈 364 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "完整的计算机科学自学计划，涵盖数据结构、算法、系统设计等面试核心知识，帮助零基础或转行者准备软件工程师面试。"
+      "summary": "一份全面的计算机科学学习计划，旨在帮助学习者准备软件工程师面试。覆盖算法、数据结构、系统设计等核心知识，附有学习资源推荐。适合求职者系统复习。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 33,059 · 🍴 5,408 · 📈 538 stars today",
+      "meta": "Python · ★ 33,065 · 🍴 5,409 · 📈 562 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "从零开始学习 AI 工程的实践指南，涵盖模型构建、训练、部署全流程，适合初学者快速上手并交付项目。"
+      "summary": "从零学习AI工程，涵盖学习、构建和交付。可能是项目集合或教程，帮助开发者掌握AI应用开发全流程。适合想进入AI领域的工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "excerpt": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "meta": "Python · ★ 2,380 · 🍴 444 · 📈 226 stars today",
+      "meta": "Python · ★ 2,380 · 🍴 444 · 📈 225 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "免费开源的媒体库管理器，连接 Spotify、Tidal 等流媒体服务及 Sonos、AirPlay 等智能音箱，实现统一播放控制。"
+      "summary": "开源音乐库管理器，连接流媒体服务（如Spotify、Tidal）和多种智能音箱。服务端负责统一管理和播放控制。适合多平台音乐用户搭建家庭音乐中心。"
     },
     {
       "sourceId": "github-trending",
       "title": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "excerpt": "M3U Playlist for free TV channels",
-      "meta": "Python · ★ 17,267 · 🍴 2,562 · 📈 361 stars today",
+      "meta": "Python · ★ 17,271 · 🍴 2,562 · 📈 361 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "免费电视直播频道的 M3U 播放列表，包含多国频道，可直接导入 VLC、IPTV Smarters 等播放器观看。"
+      "summary": "提供免费电视频道的M3U播放列表，类似iptv-org但聚焦于无版权保护的免费台。用户可在任意支持M3U的播放器中观看。适合寻找免费直播电视资源的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "excerpt": "Introduction to Autonomous Robots",
-      "meta": "TeX · ★ 3,054 · 🍴 655 · 📈 488 stars today",
+      "meta": "TeX · ★ 3,056 · 🍴 655 · 📈 489 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自主机器人入门教材，涵盖感知、规划、控制、SLAM 等核心主题，配有代码示例和习题，适合学生和研究者。"
+      "summary": "《自主机器人导论》教材的开源版本，涵盖感知、规划、控制等核心内容。图片、公式和代码均可获取。适合机器人专业学生和爱好者学习基础理论。"
     },
     {
       "sourceId": "github-trending",
       "title": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
       "excerpt": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "meta": "PowerShell · ★ 48,006 · 🍴 1,936 · 📈 114 stars today",
+      "meta": "PowerShell · ★ 48,007 · 🍴 1,936 · 📈 112 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "轻量 PowerShell 脚本，一键移除 Windows 11 预装应用、禁用遥测和广告，简化系统设置并释放磁盘空间。"
+      "summary": "轻量级PowerShell脚本，用于移除Windows 11预装应用、禁用遥测和进行其他系统清理。支持自定义配置，免费开源。适合追求精简和隐私的Windows用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "mikeroyal/Self-Hosting-Guide",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "excerpt": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "meta": "Dockerfile · ★ 20,996 · 🍴 1,062 · 📈 256 stars today",
+      "meta": "Dockerfile · ★ 21,010 · 🍴 1,062 · 📈 188 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管指南，覆盖本地或私有服务器上部署软件（云服务、LLMs、WireGuard、自动化等），适合个人和组织管理私有应用。"
+      "summary": "自托管全面指南，覆盖本地部署和管理软件应用，包括云服务、LLM、WireGuard、自动化等。适合希望掌控数据并搭建私有基础设施的个人或组织。"
     },
     {
       "sourceId": "github-trending",
       "title": "itsfatduck/optimizerDuck",
       "url": "https://github.com/itsfatduck/optimizerDuck",
       "excerpt": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-      "meta": "C# · ★ 3,673 · 🍴 158 · 📈 321 stars today",
+      "meta": "C# · ★ 3,676 · 🍴 159 · 📈 340 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "免费开源的 Windows 优化工具，通过关闭后台进程、禁用遥测等提升系统性能，注重隐私保护和简洁界面。"
+      "summary": "免费开源的Windows优化工具，专注于提升性能、隐私保护和使用简洁性。可清理垃圾、调整系统设置。适合普通用户一键优化Windows。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "excerpt": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "meta": "Python · ★ 6,311 · 🍴 462 · 📈 1,079 stars today",
+      "meta": "Python · ★ 6,319 · 🍴 463 · 📈 1,079 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI agent 技能的安全扫描器，检测 prompt 注入、恶意代码等漏洞与风险，保障 agent 在生产环境的安全性。"
+      "summary": "NVIDIA发布的AI代理技能安全扫描器，用于检测技能中的漏洞、恶意模式和风险。开发者可在部署前检查AI技能的安全性。适合保障LLM工具链安全。"
     },
     {
       "sourceId": "github-trending",
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "excerpt": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "meta": "Python · ★ 30,266 · 🍴 5,191 · 📈 395 stars today",
+      "meta": "Python · ★ 30,268 · 🍴 5,191 · 📈 396 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "专为金融市场设计的基础模型，理解新闻、财报等市场语言，可用于情绪分析、趋势预测等量化投资任务。"
+      "summary": "金融市场的Foundation Model，用语言模型理解金融数据。可能用于股价预测、财报分析等。对量化交易和金融研究者有参考价值。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-06-14T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出合作伙伴网络，投资1.5亿美元帮助全球伙伴加速企业AI采用、部署和转型。"
+      "summary": "OpenAI推出合作伙伴网络，投资1.5亿美元帮助全球伙伴加速企业AI应用、部署和转型。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-06-12T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出三门Academy课程，帮助用户构建实用AI技能、创建可重复工作流并在日常工作中应用AI代理。"
+      "summary": "OpenAI推出三门Academy课程，帮助用户掌握实用AI技能、创建可重复工作流，并在日常工作中应用智能体。"
     },
     {
       "sourceId": "openai-news",
@@ -659,7 +659,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Preply利用OpenAI推出AI生成的课程摘要，结合真人导师提供个性化反馈与语言学习练习。"
+      "summary": "Preply利用OpenAI技术推出AI生成的课程摘要，提供个性化反馈和语言学习练习，结合人类导师。"
     },
     {
       "sourceId": "openai-news",
@@ -669,7 +669,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "BBVA将ChatGPT Enterprise推广至10万名员工，与OpenAI合作加速全球银行业AI转型。"
+      "summary": "西班牙对外银行（BBVA）将ChatGPT Enterprise推广至10万名员工，并与OpenAI合作加速AI驱动的银行转型。"
     },
     {
       "sourceId": "openai-news",
@@ -679,7 +679,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "天体物理学家Chi-kwan Chan使用OpenAI Codex构建黑洞模拟，帮助研究极端物理并检验爱因斯坦广义相对论。"
+      "summary": "天体物理学家Chi-kwan Chan利用OpenAI Codex构建黑洞模拟，帮助研究极端物理并检验爱因斯坦广义相对论。"
     },
     {
       "sourceId": "openai-news",
@@ -689,7 +689,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI计划收购Ona，以扩展Codex的安全持久云环境，支持企业工作流中长期运行的AI代理。"
+      "summary": "OpenAI计划收购Ona，以增强Codex的安全持久云环境，支持企业工作流中的长时间运行AI智能体。"
     },
     {
       "sourceId": "openai-news",
@@ -699,7 +699,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI支持欧盟AI内容透明度实践准则，推动来源标准与工具，帮助人们识别AI生成内容。"
+      "summary": "OpenAI支持欧盟AI内容透明度实践准则，推动溯源标准和工具，帮助公众识别AI生成内容。"
     },
     {
       "sourceId": "openai-news",
@@ -1179,587 +1179,6 @@
       "source": "DeepMind Blog"
     },
     {
-      "sourceId": "huggingface-blog",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "excerpt": "",
-      "publishedAt": "2026-06-12T15:56:10.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "Allen AI发布olmo-eval评估工作台，用于模型开发循环中的性能评估与迭代。"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "excerpt": "",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "excerpt": "",
-      "publishedAt": "2026-06-09T10:46:19.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "excerpt": "",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "excerpt": "",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T18:57:45.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "excerpt": "",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T12:55:11.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "excerpt": "",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "excerpt": "",
-      "publishedAt": "2026-06-02T14:13:23.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T15:45:17.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "excerpt": "",
-      "publishedAt": "2026-06-01T13:51:18.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "excerpt": "",
-      "publishedAt": "2026-05-29T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "excerpt": "",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "excerpt": "",
-      "publishedAt": "2026-05-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "excerpt": "",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "excerpt": "",
-      "publishedAt": "2026-05-19T18:38:09.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "excerpt": "",
-      "publishedAt": "2026-05-19T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "excerpt": "",
-      "publishedAt": "2026-05-18T15:12:46.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "excerpt": "",
-      "publishedAt": "2026-05-14T18:55:01.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "excerpt": "",
-      "publishedAt": "2026-05-14T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "excerpt": "",
-      "publishedAt": "2026-05-11T23:18:26.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "excerpt": "",
-      "publishedAt": "2026-05-06T19:06:55.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "excerpt": "",
-      "publishedAt": "2026-05-06T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "excerpt": "",
-      "publishedAt": "2026-04-29T15:01:48.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "excerpt": "",
-      "publishedAt": "2026-04-29T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "excerpt": "",
-      "publishedAt": "2026-04-28T15:58:57.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "excerpt": "",
-      "publishedAt": "2026-04-27T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "excerpt": "",
-      "publishedAt": "2026-04-24T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-blog",
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "excerpt": "",
-      "publishedAt": "2026-04-23T00:00:00.000Z",
-      "category": "tech",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties",
-      "url": "https://huggingface.co/papers/2606.14240",
-      "excerpt": "Affordance reasoning, the inference of an object's action possibilities from its physical properties (e.g., shape and material), is fundamental to human physical understanding and increasingly critical for Large Language Models (LLMs). However, existing affordance benchmarks largely expose explicit ",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "该论文提出AFFORDANCE20Q基准，用于评估大语言模型从物体物理属性（形状、材质）推断可行动作的能力，强调对人类物理理解的重要性，并指出现有基准的不足。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference",
-      "url": "https://huggingface.co/papers/2606.05308",
-      "excerpt": "With PRECISE, we extended Prediction-Powered Inference to produce bias-corrected estimates of ranking evaluation metrics by combining a small human-labeled set with a large LLM-judged set. PPI is provably unbiased regardless of the LLM judge's error profile. We make it applicable to hierarchical met",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
-      "url": "https://huggingface.co/papers/2606.12594",
-      "excerpt": "Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by scarce verified proof data and the long reasoning traces of formal proof search, making both supervised fine-tuning (SFT) and sampling expensive. We introduce Pythagoras-Pro",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 7",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models",
-      "url": "https://huggingface.co/papers/2606.01462",
-      "excerpt": "Studies of human reasoning have shown that people are typically stronger at evaluating reasoning than producing it from scratch. In contrast, large reasoning models (LRMs) are trained to excel at producing long chains of reasoning to solve complex problems. How then do LRMs perform at evaluating rea",
-      "publishedAt": "2026-05-31T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "FVSpec: Real-World Property-Based Tests as Lean Challenges",
-      "url": "https://huggingface.co/papers/2606.01008",
-      "excerpt": "We present a benchmark for evaluating AI models and agents on real-world formal software verification tasks. We first scrape 11,039 property-based tests (PBTs) from real-world Python repositories, then automatically translate 2,772 of them (25%) into 9,415 Lean 4 specifications with sorry placeholde",
-      "publishedAt": "2026-05-31T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics",
-      "url": "https://huggingface.co/papers/2606.12476",
-      "excerpt": "Token-level hallucination detectors are evaluated as classifiers, by AUC over all tokens, yet a streaming monitor is judged by its reaction time: the number of tokens that pass between the onset of a hallucination and the alarm. We formulate hallucination onset detection as a quickest change detecti",
-      "publishedAt": "2026-06-10T06:10:02.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
-      "url": "https://huggingface.co/papers/2606.09813",
-      "excerpt": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional structured action vectors (e.g., joint angles and end-effector poses), which suffer from limited expre",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
-      "meta": "👍 9",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
-      "url": "https://huggingface.co/papers/2606.14600",
-      "excerpt": "Online group chats are social spaces with local conversational norms that are rarely stated explicitly. The ability and willingness of LLM-based agents to recognize and adapt to these norms remains mostly unexplored. We introduce LoSoNA, a benchmark for local social norm adaptation in multi-party ch",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 3",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "LoSoNA是一个基准，用于评估基于LLM的智能体在在线群聊中识别和适应当地社交规范（通常未明确表述）的能力，探索智能体对群聊规范的自适应。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
-      "url": "https://huggingface.co/papers/2606.10747",
-      "excerpt": "As AI systems built from multiple language-model agents become more common, they are increasingly used to make decisions together: discussing, negotiating, and acting on shared tasks. While individual agents may appear well-aligned when tested on their own, problems can arise from how they interact ",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "meta": "👍 6",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models",
-      "url": "https://huggingface.co/papers/2606.08952",
-      "excerpt": "Multimodal Foundation Models (MFMs) have made substantial progress, yet remain fragile in spatial reasoning over the physical world. A key bottleneck lies in their inability to transform local egocentric observations into a global allocentric spatial representation. To address this, we propose AlloS",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
-      "meta": "👍 1",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning",
-      "url": "https://huggingface.co/papers/2606.11152",
-      "excerpt": "Multimodal large language models can write code to produce complex programs as well as use programs to do 3D modeling, which opens up a new avenue for 3D generation powered by their priors, world knowledge and reasoning. Yet existing benchmarks rarely evaluate 3D modeling through code. Such modeling",
-      "publishedAt": "2026-06-09T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.14694",
-      "excerpt": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and m",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "大推理模型通常采用「先读取后思考」范式，但现实音频视频流具有动态性。该论文提出AdaSR，利用分层相对策略优化实现自适应流式推理。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
-      "url": "https://huggingface.co/papers/2606.12291",
-      "excerpt": "Large language models (LLMs) now reach expert-level scores on medical licensing exams, encouraging the assumption that high scores imply safe medical judgment while patients increasingly use them for health advice. We show this assumption is fragile: when misleading context is injected into question",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 15",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?",
-      "url": "https://huggingface.co/papers/2606.13141",
-      "excerpt": "Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in VideoRAG is limited by two gaps: existing benchmarks allow queries to be answered without the video",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "meta": "👍 32",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "检索增强生成从文本扩展到长时第一人称视频。该论文重新思考视频RAG中跨模态和时间粒度的检索与使用，指出现有基准查询可回答性的限制。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving",
-      "url": "https://huggingface.co/papers/2606.02641",
-      "excerpt": "Interactive driving exposes a failure mode that is easy to miss in rule-aware autonomous-driving stacks: a hard-rule margin can be negative for an ego candidate even though a small lawful accommodation by a non-priority agent would restore feasibility. Existing rulebooks, shields, and reachability f",
-      "publishedAt": "2026-05-31T00:00:00.000Z",
-      "meta": "👍 0",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO",
-      "url": "https://huggingface.co/papers/2605.30789",
-      "excerpt": "We identify a new dimension for enhancing rollout diversity in Group Relative Policy Optimization (GRPO) for LLMs. While GRPO relies on diverse rollouts, prevailing strategies primarily increase diversity by injecting more token-level randomness, which may introduce step-wise noise and lead to incoh",
-      "publishedAt": "2026-06-02T00:00:00.000Z",
-      "meta": "👍 19",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
-      "url": "https://huggingface.co/papers/2606.12736",
-      "excerpt": "AI agents are increasingly being developed to accelerate scientific discovery, yet their practical capabilities in real research settings remain poorly understood. Existing benchmarks for AI agents rarely capture the complexity, heterogeneity, and extended reasoning required by scientific work, wher",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 2",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "APPO: Agentic Procedural Policy Optimization",
-      "url": "https://huggingface.co/papers/2606.12384",
-      "excerpt": "Recent advances in agentic Reinforcement Learning (RL) have substantially improved the multi-turn tool-use capabilities of large language model agents. However, most existing methods assign credit over coarse heuristic units, such as tool-call boundaries or fixed workflows, making it difficult to id",
-      "publishedAt": "2026-06-10T17:47:07.000Z",
-      "meta": "👍 63",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
-      "url": "https://huggingface.co/papers/2606.10813",
-      "excerpt": "Users rely on execution traces to observe agent behavior, diagnose failures, and ensure accountability. These traces contain rich procedural detail, including tool invocations, intermediate decisions, and error-recovery logic. Yet this detail can expose private procedural skills, allowing downstream",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 15",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
-      "url": "https://huggingface.co/papers/2606.13432",
-      "excerpt": "Cloning camera motion from reference videos is an important task in video generation, as videos provide intuitive and precise control. Existing methods either directly use parametric representations that fail to handle multi-shot generation or synthesize cross-paired data, which suffer from data sca",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "meta": "👍 91",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "从参考视频克隆相机运动是视频生成的重要任务。OmniDirector提出无需跨配对数据的通用多镜头相机克隆方法，克服参数化表示和合成数据缺陷。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-      "url": "https://huggingface.co/papers/2606.14700",
-      "excerpt": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emergence of representation autoencoders (RAEs) shifts the generation target toward semantically structu",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "现有文本到图像系统将LLM用于文本编码而由生成骨干去噪。RepFusion利用表征自编码器，将生成目标转向表征空间，通过多模态先验进行去噪。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "LLM Agents Can See Code Repositories",
-      "url": "https://huggingface.co/papers/2606.14061",
-      "excerpt": "Coding agents powered by large language models have demonstrated strong performance on software engineering tasks. Yet most agents consume repositories almost entirely as text, which differs from how human developers use visual structure such as folder hierarchies and dependency relationships to ori",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 11",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "现有编码智能体主要将代码仓库视为纯文本，与人类利用文件夹层次和依赖关系等视觉结构不同。该论文探索让LLM智能体「看见」代码仓库的视觉结构。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "url": "https://huggingface.co/papers/2606.13707",
-      "excerpt": "The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflows to multi-agent systems, highlighting the importance of agent orchestration for task decomposition and collaboration. However, existing orchestration frameworks are limit",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 37",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry",
-      "url": "https://huggingface.co/papers/2606.14249",
-      "excerpt": "AI agent performance depends critically on the runtime harness, comprising the prompts, tools, memory, and control flow that mediate how a model observes, reasons, and acts. Yet today's harnesses remain largely hand-crafted and static: each new model or task still demands bespoke scaffolding, and th",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 33",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "AI智能体性能关键依赖于运行时框架（提示、工具、内存、控制流）。HarnessX提出可组合、自适应的智能体框架工厂，取代当前手动的静态设计。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
-      "url": "https://huggingface.co/papers/2606.06036",
-      "excerpt": "Despite recent progress, LLM agents still struggle with reasoning over long interaction histories. While current memory-augmented agents rely on a static retrieve-then-reason paradigm, this rigid pipeline design prevents them from dynamically adapting memory access to intermediate evidence discovere",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "meta": "👍 55",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
-      "url": "https://huggingface.co/papers/2606.14697",
-      "excerpt": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucinatio",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 4",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "医疗多模态大模型幻觉对临床决策至关重要。ClinHallu基准旨在诊断推理过程中不同阶段的幻觉来源，超越仅关注数据收集的现有基准。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "The Hidden Power of Scaling Factor in LoRA Optimization",
-      "url": "https://huggingface.co/papers/2606.12883",
-      "excerpt": "In Low-Rank Adaptation (LoRA), the scaling factor α is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal that the scaling factor α and the learning rate function differently, with α emerging as the dominant drive",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Skip a Layer or Loop It? Learning Program-of-Layers in LLMs",
-      "url": "https://huggingface.co/papers/2606.06574",
-      "excerpt": "Large language models (LLMs) perform inference by following a fixed depth and order, non-recurrent execution of all layers. We reveal the wide existence of training-free, flexible, dynamic program-of-layers (PoLar), where pretrained layers can be packed as modules and then skipped or looped to form ",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "meta": "👍 15",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "From AGI to ASI",
-      "url": "https://huggingface.co/papers/2606.12683",
-      "excerpt": "Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a concrete next-decade target for many of the largest AI organisations. Achieving this goal would have profound and far-reaching impacts on human society, which raises many comp",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "meta": "👍 23",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
-      "url": "https://huggingface.co/papers/2606.14502",
-      "excerpt": "Large Language Models (LLMs) are undergoing a fundamental transformation from conversational generators into integrated AI systems capable of reasoning, action, memory, and self-improvement. We conceptualize this transition as a shift from Chatbot to Digital Colleague: from conversational answers to",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "meta": "👍 42",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "LLM正从对话生成器向集成推理、行动、记忆和自我改进的AI系统转变，该论文将这一范式转换概念化为从「聊天机器人」到「数字同事」。"
-    },
-    {
       "sourceId": "tldr-ai",
       "title": "Anthropic Fable shutdown 🏛️, GLM-5.2 🤖, OpenRouter Fusion 🧠",
       "url": "https://tldr.tech/ai/2026-06-15",
@@ -1767,7 +1186,7 @@
       "publishedAt": "2026-06-15T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Anthropic关闭Fable项目；GLM-5.2模型发布；OpenRouter推出Fusion功能。"
+      "summary": "Anthropic的Fable项目关闭，GLM-5.2模型发布，OpenRouter推出Fusion功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1777,7 +1196,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "OpenAI收购Ona；Anthropic撤回部分立场；小米发布MiMo代码。"
+      "summary": "OpenAI收购Ona，Anthropic撤回先前立场，小米发布MiMo代码。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1786,7 +1205,8 @@
       "excerpt": "",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
-      "source": "TLDR AI"
+      "source": "TLDR AI",
+      "summary": "Anthropic CEO Dario Amodei提出AI政策建议，DiffusionGemma模型发布，WhatsApp计划解禁机器人。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2219,7 +1639,7 @@
       "publishedAt": "2026-06-13T04:30:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻称Anthropic的模型Fable和Mythos因安全隐患被判定过于危险，不予发布。"
+      "summary": "Fable和Mythos模型因风险过高被官方禁止发布，引发对AI安全的讨论。"
     },
     {
       "sourceId": "latent-space",
@@ -2229,7 +1649,7 @@
       "publishedAt": "2026-06-12T05:34:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻介绍Peter Steinberger、Boris Cherny和Andrej Karpathy提出的Loopcraft概念，探讨循环堆叠的技术艺术。"
+      "summary": "文章介绍了Peter Steinberger、Boris Cherny和Andrej Karpathy提出的「循环堆叠」概念，探讨AI循环设计艺术。"
     },
     {
       "sourceId": "latent-space",
@@ -2239,7 +1659,7 @@
       "publishedAt": "2026-06-11T03:14:26.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻讨论开放模型、模型实验室与代理实验室的对比，以及不可训练性，引用Sarah Guo的观点。"
+      "summary": "Sarah Guo探讨开放模型、模型实验室与智能体实验室的对比，以及哪些能力无法通过训练获得。"
     },
     {
       "sourceId": "latent-space",
@@ -2402,7 +1822,7 @@
       "publishedAt": "2026-06-15T18:46:08.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章探讨韩国人对AI的高度接受，以首尔机场无人移民检查点为例，展现AI在日常生活中的广泛应用。"
+      "summary": "韩国人对AI热情高涨，作者在首尔机场体验无人入境检查。文章探讨韩国AI应用普及的原因，包括政府支持和民众接受度高。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2412,7 +1832,7 @@
       "publishedAt": "2026-06-11T11:00:45.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "Google DeepMind资助研究数百万AI代理交互的潜在风险，AGI安全负责人Rohin Shah指出大规模交互可能带来的危险。"
+      "summary": "Google DeepMind资助研究，担忧数百万AI智能体在线交互可能带来的风险。AGI安全负责人Rohin Shah指出智能体大规模部署的潜在危险。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2495,7 +1915,7 @@
       "category": "tech",
       "meta": "@satyanadella · 5.9M 粉丝 · 1.9M 阅 · 3.5K 赞 · 541 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Satya Nadella 探讨 AI 驱动经济下的企业未来，强调前沿技术缺乏稳定生态系统则难以持续。与以往平台转型不同，这次数字系统用于增强人类能力，而非简单替代。"
+      "summary": "讨论AI驱动经济中企业未来，强调生态系统稳定性比平台转移更关键，认为这次变革与以往数字化增强人类不同，是根本性转变。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2506,7 +1926,7 @@
       "category": "tech",
       "meta": "@BradGroux · 5.9K 粉丝 · 714.6K 阅 · 1.0K 赞 · 638 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Brad Groux 指出多数人把编码 agent 当高级自动补全或一次性聊天框，错失价值。更优模式是将 Codex 视为持久运行的操作循环，最大化利用其能力。"
+      "summary": "指出多数人将Codex用成自动补全或一次性聊天，更优模式是将其视为持久运行循环，通过持续交互释放更大价值。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2517,7 +1937,7 @@
       "category": "tech",
       "meta": "@Fintech03 · 34.9K 粉丝 · 438.8K 阅 · 501 赞 · 137 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "针对「印度 IT 服务业在生成式 AI 竞赛中失败」的流行批评，作者认为该观点站不住脚：TCS、Infosys 等公司从未被设计来构建 ChatGPT 这类产品，目标不同。"
+      "summary": "批判印度IT服务业（TCS、Infosys等）在生成式AI竞赛中未能领先，指出其定位本就不是构建ChatGPT这类产品，而非失败。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2528,7 +1948,7 @@
       "category": "tech",
       "meta": "@AnthonyNAguirre · 4.2K 粉丝 · 232.1K 阅 · 527 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Anthony 担忧一种微妙而危险的「洗脑」现象：大量聪明且有影响力的人正被引导走向错误方向，且情况只会恶化。"
+      "summary": "担忧一种微妙而危险的洗脑现象：大量聪明、有能力的人正被系统性引导，可能走向危险的集体认知偏差，且情况会恶化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2539,7 +1959,7 @@
       "category": "tech",
       "meta": "@omarsar0 · 307.3K 粉丝 · 81.2K 阅 · 518 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "自主编码正从更好提示转向更好控制系统。工程师学会了将 agent 包裹在目标、评估器、循环和工件中，实现更可靠的长时间运行。"
+      "summary": "自主编码正从更好提示转向更好控制系统，工程师学习用目标、评估器、循环和工件包装代理，实现长期稳定运行的自主编码。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2550,7 +1970,7 @@
       "category": "tech",
       "meta": "@AndrewCurran_ · 53.9K 粉丝 · 62.8K 阅 · 569 赞 · 61 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Andrew 回顾 Fable 的独特之处无法用基准衡量，认为其窗口已关闭。虽然基准测试重要，但有些工具的特殊性超越指标。"
+      "summary": "Fable产品已关闭，其特殊性无法体现在基准测试中，但使用过的人深知其独特价值，如今机会窗口已关闭。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2561,7 +1981,7 @@
       "category": "tech",
       "meta": "@addyosmani · 400.1K 粉丝 · 52.9K 阅 · 522 赞 · 41 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "编码 agent 已极其出色且进步迅速，工程难点从写代码转向决定是否信任代码。agentic 代码审查成为关键。"
+      "summary": "编码代理能力迅速提升，工程难点从写代码转向信任决策，提出「代理代码审查」概念，强调信任判断成为新瓶颈。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2572,7 +1992,7 @@
       "category": "tech",
       "meta": "@unicity_labs · 125.6K 粉丝 · 47.6K 阅 · 534 赞 · 659 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Claude 6 月 15 日将程序化 agent 使用移至单独计量信用。分析变化及 AstridOS 为此构建的控制措施，对 agent 构建者影响重大。"
+      "summary": "Claude Agent SDK于6月15日将程序化代理使用拆分计费，AstridOS正构建管控措施，分析这对代理构建者的影响。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2583,7 +2003,7 @@
       "category": "tech",
       "meta": "@zaimiri · 54.4K 粉丝 · 46.9K 阅 · 508 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "多数人用混乱周末搭建 AI 系统（安装十种工具、连接五个 API 等），效果差。Zaimiri 分享 7 天 Hermes 设置完整指南，分阶段构建稳定系统。"
+      "summary": "多数人用混乱周末搭建AI设置导致失败，推荐7天Hermes设置指南：循序渐进安装工具、连接API、添加系统提示，避免一次性造成混乱。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2594,57 +2014,16 @@
       "category": "tech",
       "meta": "@Dimillian · 51.8K 粉丝 · 38.2K 阅 · 558 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "将手机变成 Codex 控制中心，不止是检查任务。Dimillian 展示移动端掌握 Codex 的更深用法：利用其强大能力进行工程控制。"
+      "summary": "如何将手机变成Codex控制中心，不止是监控任务，而是利用移动端主动管理Codex工作流，发挥更大价值。"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Asia Traders Turn Focus to RBA, BOJ Rate Decisions: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/oil-holds-losses-after-iran-deal-spurs-stock-rally-markets-wrap",
-      "excerpt": "Traders in Asia turned their focus to policy calls from the Reserve Bank of Australia and the Bank of Japan after a US-Iran deal to reopen the Strait of Hormuz fueled a relief rally across global financial markets on Monday.",
-      "publishedAt": "2026-06-15T22:06:05.000Z",
+      "title": "SpaceX IPO in Focus as Iran Fears Ease | The Asia Trade 6/12/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-12/the-asia-trade-6-12-2026-video",
+      "excerpt": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global",
+      "publishedAt": "2026-06-12T06:10:10.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "亚洲交易员将关注焦点转向澳洲联储和日本央行的利率决策。此前美伊达成协议拟重新开放霍尔木兹海峡，推动周一全球金融市场出现反弹。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "IG4 Offers to Buy Raizen Debt in Quest for Majority Stake",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/raizen-raiz4-restructuring-ig4-offers-to-buy-debt-to-seek-majority-stake",
-      "excerpt": "Private equity firm IG4 Capital, fresh off a deal to take control of petrochemical giant Braskem SA, is now setting its sights on sugar and ethanol producer Raizen SA, another major Brazilian company in distress.",
-      "publishedAt": "2026-06-15T22:30:19.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "私募股权公司IG4 Capital在收购石化巨头Braskem后，现拟收购糖与乙醇生产商Raizen的债务，以获取其多数股权。Raizen是另一家陷入困境的巴西大型企业。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Trader Loses $1 Million on Cabo Verde’s Stunning World Cup Tie",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/trader-loses-1-million-on-cabo-verde-s-stunning-world-cup-tie",
-      "excerpt": "A single trader on Polymarket lost nearly $1 million when Cabo Verde fought Spain to a stunning draw on Monday in one of the most unlikely outcomes in recent World Cup history, powered by a 40-year-old goalkeeper who left the pitch in tears.",
-      "publishedAt": "2026-06-15T23:04:41.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Polymarket上一名交易员因佛得角逼平西班牙而损失近100万美元。佛得角40岁门将表现出色，赛后泪流满面，制造了世界杯近年最冷门的结果之一。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Brazilian Prosecutors Reject Vorcaro Deal in Banco Master Case",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/brazilian-prosecutors-reject-vorcaro-deal-in-banco-master-case",
-      "excerpt": "Brazilian prosecutors rejected a cooperation agreement proposed by Daniel Vorcaro, the former banker at the center of a massive fraud investigation, according to a person familiar with the matter.",
-      "publishedAt": "2026-06-15T22:59:09.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "巴西检察官拒绝了前银行家Daniel Vorcaro提出的合作协议。Vorcaro是Banco Master大规模欺诈调查的核心人物。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Holds Decline as Traders Seek Clarity on Hormuz Reopening",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/latest-oil-market-news-and-analysis-for-june-16",
-      "excerpt": "Oil held its biggest drop in more than two weeks as traders, shippers and producers awaited details of a US-Iran deal that’s intended to pave the way for the full reopening of the Strait of Hormuz.",
-      "publishedAt": "2026-06-15T22:01:18.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "油价维持两周多以来的最大跌幅，交易员、航运商和生产商等待美伊协议细节，以明确霍尔木兹海峡能否全面重开。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2654,7 +2033,57 @@
       "publishedAt": "2026-06-15T22:35:11.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "金价维持上涨，美国总统特朗普称霍尔木兹海峡可能于周五重新开放。此举有望缓解能源供应冲击和通胀压力，此前该事件已扰乱全球市场。"
+      "summary": "美国总统特朗普表示霍尔木兹海峡可能于周五重新开放，缓解能源和通胀冲击，黄金维持涨势。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "SpaceX Investors at US Retail Brokers Got at Least One IPO Share",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-investors-at-us-retail-brokers-got-at-least-one-ipo-share",
+      "excerpt": "Customers at some of the largest retail brokerage firms in the US each received at least a single share in SpaceX’s $86.2 billion IPO, underscoring how the offering was designed to give individual investors a sizable role.",
+      "publishedAt": "2026-06-15T23:52:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX 862亿美元IPO中，美国多家大型零售经纪商的客户每人至少获得一股，旨在让散户投资者发挥重要作用。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asia Traders Turn Focus to RBA, BOJ Rate Decisions: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/oil-holds-losses-after-iran-deal-spurs-stock-rally-markets-wrap",
+      "excerpt": "Traders in Asia turned their focus to policy calls from the Reserve Bank of Australia and the Bank of Japan after a US-Iran deal to reopen the Strait of Hormuz fueled a relief rally across global financial markets on Monday.",
+      "publishedAt": "2026-06-15T22:06:05.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲交易员关注澳洲联储和日本央行的利率决定，此前美伊重启霍尔木兹海峡协议引发全球市场缓解性反弹。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "IG4 Offers to Buy Raizen Debt in Quest for Majority Stake",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/raizen-raiz4-restructuring-ig4-offers-to-buy-debt-to-seek-majority-stake",
+      "excerpt": "Private equity firm IG4 Capital, fresh off a deal to take control of petrochemical giant Braskem SA, is now setting its sights on sugar and ethanol producer Raizen SA, another major Brazilian company in distress.",
+      "publishedAt": "2026-06-15T22:30:19.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "私募股权公司IG4 Capital在收购石化巨头Braskem后，瞄准巴西糖和乙醇生产商Raizen，提出购买其债务以寻求控股权。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Trader Loses $1 Million on Cabo Verde’s Stunning World Cup Tie",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/trader-loses-1-million-on-cabo-verde-s-stunning-world-cup-tie",
+      "excerpt": "A single trader on Polymarket lost nearly $1 million when Cabo Verde fought Spain to a stunning draw on Monday in one of the most unlikely outcomes in recent World Cup history, powered by a 40-year-old goalkeeper who left the pitch in tears.",
+      "publishedAt": "2026-06-15T23:04:41.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Polymarket上一位交易员因佛得角对阵西班牙的世界杯平局亏损近100万美元，这是近期世界杯最意外结果之一，40岁门将泪洒赛场。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Holds Decline as Traders Seek Clarity on Hormuz Reopening",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/latest-oil-market-news-and-analysis-for-june-16",
+      "excerpt": "Oil held its biggest drop in more than two weeks as traders, shippers and producers awaited details of a US-Iran deal that’s intended to pave the way for the full reopening of the Strait of Hormuz.",
+      "publishedAt": "2026-06-15T22:01:18.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "油价维持跌幅，交易员、船运商和产油商等待美伊协议细节，该协议旨在全面重启霍尔木兹海峡。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2664,7 +2093,7 @@
       "publishedAt": "2026-06-15T22:00:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "全球钢铁业下一个增长市场转向印度，但与中国的上一轮繁荣不同，印度的增长将主要依赖国内基础设施建设支出。"
+      "summary": "全球钢铁行业下一个增长市场转向印度，但印度将不同于中国，其增长更贴近国内基建支出。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2701,7 +2130,7 @@
       "publishedAt": "2026-06-15T21:40:36.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Ariel Investments创始人John Rogers在“Bloomberg The Close”节目中表示，MSG集团股价未反映尼克斯队和游骑兵队的价值，应分拆为两家公司。"
+      "summary": "Ariel Investments创始人John Rogers表示，MSG股票未体现尼克斯或游骑兵队价值，公司应分拆为两家独立公司。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2711,7 +2140,7 @@
       "publishedAt": "2026-06-15T21:40:08.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "本期Big Take播客探讨美伊和平协议面临的重大障碍，包括以色列在协议中的角色以及各方立场。"
+      "summary": "本期Big Take播客探讨美伊和平协议的主要障碍，包括以色列的角色。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2728,6 +2157,15 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/elanco-ceo-screwworm-easier-to-manage-than-contain",
       "excerpt": "Jeff Simmons, Elanco Animal Health President & CEO, discusses the emerging threat of screwworm infections spreading beyond the initial control zone in Texas, with at least 12 confirmed cases including eight heads of cattle. Simmons reassured viewers that while the pest is expected to spread, it can ",
       "publishedAt": "2026-06-15T21:17:08.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Bonds Rally as Traders Trim Fed Rate-Hike Bets on Iran Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/treasuries-rally-as-traders-trim-fed-hike-bets-after-iran-deal",
+      "excerpt": "Treasuries mostly advanced as investors dialed back expectations for Federal Reserve interest-rate hikes following news of a deal to halt the Iran war.",
+      "publishedAt": "2026-06-15T00:59:26.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2854,24 +2292,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/test-your-etf-knowledge-in-our-iq-test-video",
       "excerpt": "Bloomberg's Scarlet Fu puts Katie Greifeld and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
       "publishedAt": "2026-06-15T19:59:05.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "US Asset Manager PGIM Flips Fed View, Sees Three Hikes This Year",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-15/us-asset-manager-pgim-flips-fed-view-sees-three-hikes-this-year",
-      "excerpt": "US asset manager PGIM has staked out the fringe view that the Federal Reserve will raise interest rates three times this year to put the brakes on the economy — then reverse the hikes in 2027.",
-      "publishedAt": "2026-06-15T19:50:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "ETFs Have Never Been More Competitive: Tema's Pot",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-15/etfs-have-never-been-more-competitive-tema-s-pot-video",
-      "excerpt": "Maurits Pot, CEO of Tema ETFs, joins Katie Greifeld, Scarlet Fu, and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the Tema Space Innovators ETF (Ticker: NASA). (Source: Bloomberg)",
-      "publishedAt": "2026-06-15T19:47:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3063,7 +2483,7 @@
       "publishedAt": "2026-06-15T22:30:07.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "水晶宫足球俱乐部的美国亿万富翁所有者正考虑出售俱乐部。该南伦敦俱乐部正处于历史上最成功的时期。"
+      "summary": "英超水晶宫俱乐部的美国亿万富翁所有者正探索出售俱乐部，该俱乐部正处于历史上最成功时期。"
     },
     {
       "sourceId": "ft-companies",
@@ -3286,10 +2706,10 @@
       "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
       "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
       "excerpt": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\".",
-      "publishedAt": "2026-06-15T23:04:10.000Z",
+      "publishedAt": "2026-06-16T00:08:54.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "泰晤士水务公司（Thames Water）因政府拒绝当前救助方案而更接近国有化。政府发言人称该方案未能充分保护消费者和环境。"
+      "summary": "泰晤士水务公司因政府反对其救助方案，进一步接近国有化。政府发言人称当前方案不足以保护消费者或环境。"
     },
     {
       "sourceId": "bbc-business",
@@ -3827,9 +3247,10 @@
       "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
       "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
-      "publishedAt": "2026-06-15T20:33:54.000Z",
+      "publishedAt": "2026-06-16T00:03:56.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "特朗普称结束与伊朗战争的协议已签署，细节将“很快”公布；霍尔木兹海峡将从周五起开放，但协议具体内容仍存困惑。"
     },
     {
       "sourceId": "bbc-world",
@@ -4229,10 +3650,10 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "News live: Australian VAR official blames ‘involuntary twitch’ for World Cup broadcast controversy; NSW to spend $100m on grid-scale batteries",
+      "title": "News live: Fifa clears Australia VAR official over hand gesture during World Cup broadcast; postal workers report rise in dog-related incidents",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
       "excerpt": "Shaun Evans says he was unaware he had made gesture at the time. Follow today’s news live Get our breaking news email, free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “re",
-      "publishedAt": "2026-06-15T23:51:59.000Z",
+      "publishedAt": "2026-06-16T00:03:08.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -4243,8 +3664,7 @@
       "excerpt": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here The majority of Australian adults under 25 have never used n",
       "publishedAt": "2026-06-15T23:00:38.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "调查发现，大多数25岁以下澳大利亚人从未将报纸或广播作为新闻来源，但整体新闻兴趣上升，尤其女性和年轻人。2026年数字新闻报告显示。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4280,8 +3700,7 @@
       "excerpt": "Welsh singer, best known for 1983 hit Total Eclipse of the Heart, had emergency intestinal surgery in May Welsh pop star Bonnie Tyler is no longer in a coma but remains “very unwell” in intensive care at a hospital near her home in Faro, Portugal. The 75-year-old singer received emergency intestinal",
       "publishedAt": "2026-06-15T22:50:25.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "威尔士歌手邦妮·泰勒（Bonnie Tyler）已脱离昏迷，但仍处于葡萄牙医院重症监护室。她于5月接受紧急肠道手术。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4369,10 +3788,10 @@
       "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
       "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
       "excerpt": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board.",
-      "publishedAt": "2026-06-15T23:46:57.000Z",
+      "publishedAt": "2026-06-15T23:58:41.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国总统特朗普与伊朗首席谈判代表签署初步协议，预期将开放霍尔木兹海峡。但具体条款未公布，以色列总理似乎未完全支持。"
+      "summary": "美国与伊朗签署初步协议，预计将开放霍尔木兹海峡，但具体条款未公布，以色列领导人内塔尼亚胡似乎未完全认同。"
     },
     {
       "sourceId": "nyt-world",
@@ -4390,8 +3809,7 @@
       "excerpt": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
       "publishedAt": "2026-06-15T22:53:50.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "英国首相斯塔默宣布计划禁止16岁以下儿童使用社交媒体，效仿澳大利亚等地的类似举措。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4500,26 +3918,27 @@
       "publishedAt": "2026-06-15T23:46:55.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国参议员对美伊协议知之甚少，拒绝予以赞扬。民主党要求立即简报，共和党也承认对未公布的协议毫无信息。"
+      "summary": "美参议员对美伊协议情况不明，民主党要求立即通报，共和党也承认对政府拒绝公布的协议一无所知，因此拒绝赞扬。"
     },
     {
       "sourceId": "nyt-world",
       "title": "Netanyahu Says Israel Will Keep Forces in Lebanon, Despite U.S.-Iran Deal",
       "url": "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html",
       "excerpt": "“The struggle has not ended,” a defiant Prime Minister Benjamin Netanyahu told Israelis.",
-      "publishedAt": "2026-06-15T23:31:52.000Z",
+      "publishedAt": "2026-06-15T23:31:53.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "以色列总理内塔尼亚胡表示，尽管美伊达成协议，以色列仍将保留在黎巴嫩的军队。他称「斗争尚未结束」。"
+      "summary": "以色列总理内塔尼亚胡表示，尽管美伊达成协议，以色列仍将保留在黎巴嫩的军队，并强调“斗争尚未结束”。"
     },
     {
       "sourceId": "nyt-world",
       "title": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
       "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html",
       "excerpt": "The short-term truce hasn’t been made public, and the long-term peace deal it is supposed to yield doesn’t exist yet, so there is much still unknown about any agreement between the adversaries.",
-      "publishedAt": "2026-06-15T22:17:26.000Z",
+      "publishedAt": "2026-06-15T23:58:40.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "美伊协议核心存在大量未解问题：短期停火未公开，长期和平协议尚未形成，协议内容仍充满未知。"
     },
     {
       "sourceId": "nyt-world",
@@ -4646,7 +4065,7 @@
       "publishedAt": "2026-06-15T23:02:31.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "特朗普抵达法国出席G7领导人峰会，宣扬与伊朗的和平协议。法国总统马克龙会见特朗普，祝贺其签署新伊朗协议。"
+      "summary": "特朗普抵达法国参加G7峰会，宣扬与伊朗的和平协议；法国总统马克龙与其会面并祝贺签署新伊朗协议。"
     },
     {
       "sourceId": "npr-world",
@@ -5001,6 +4420,15 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "FIFA clears World Cup referee accused of making white supremacist gesture",
+      "url": "https://www.aljazeera.com/sports/2026/6/15/fifa-clears-world-cup-referee-accused-of-making-white-supremacist-gesture?traffic_source=rss",
+      "excerpt": "Australian referee Shaun Evans says he didn’t intend to communicate 'message, affiliation, game or belief of any kind'.",
+      "publishedAt": "2026-06-15T23:31:48.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Journalist hit by Israeli strike while reporting in Lebanon",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
       "excerpt": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
@@ -5212,15 +4640,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/singer-oliver-tree-among-six-killed-in-brazil-helicopter-collision?traffic_source=rss",
       "excerpt": "Two helicopters collided in Rio de Janeiro, Brazil, killing six people, including American musician Oliver Tree.",
       "publishedAt": "2026-06-15T17:54:32.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Bus crash in Ethiopian mountains kills at least 31",
-      "url": "https://www.aljazeera.com/news/2026/6/15/bus-crash-in-ethiopian-mountains-kills-at-least-31?traffic_source=rss",
-      "excerpt": "Ethiopia is one of the worst countries in the world for road traffic accidents and has notoriously dangerous roads.",
-      "publishedAt": "2026-06-15T17:40:58.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5496,13 +4915,23 @@
     },
     {
       "sourceId": "habr",
+      "title": "Как улучшить качество видео с помощью нейросетей — Сравнили ТОП-8 ИИ и промпты к ним",
+      "url": "https://habr.com/ru/companies/studyai/articles/1047772/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047772",
+      "excerpt": "Помните, как в середине двухтысячных мы залипали в MTV, ждали новый выпуск «Тачку на прокачку» с Xzibit и пересматривали первые вирусные ролики на YouTube вроде «+100500» с Максом? Тогда разрешение 240p или 360p казалось нам технологическим прорывом, а размытые пиксели на экране кнопочной Нокии нико",
+      "publishedAt": "2026-06-16T00:02:57.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)",
+      "summary": "文章介绍如何利用神经网络提升视频画质，对比了8种AI工具及其提示词，并回顾视频分辨率从240p/360p到高清的发展历程。"
+    },
+    {
+      "sourceId": "habr",
       "title": "MVCC без VACUUM: что нам дал UNDO-лог, какую цену мы заплатили и зачем нам 5 механизмов сборки мусора",
       "url": "https://habr.com/ru/articles/1047852/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047852",
       "excerpt": "Новая статья из цикла про нашу OLTP-СУБД на Rust. С самого начала мы выбрали MVCC на UNDO-логе вместо версионирования в heap, как в PostgreSQL. И годами повторяли свой же лозунг: «нет VACUUM, нет bloat». Оказалось, это правда ровно наполовину. Heap и правда не пухнет от истории версий. Но bloat нику",
       "publishedAt": "2026-06-15T22:53:39.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "文章探讨基于Rust的OLTP数据库采用UNDO日志实现MVCC，避开PostgreSQL式的堆版本化。宣称无VACUUM无膨胀，但实际仅部分成立：堆不膨胀，历史数据仍需五种垃圾回收机制管理。"
+      "summary": "文章探讨基于Rust的OLTP数据库采用UNDO日志的MVCC机制（替代PostgreSQL的堆版本化），声称无需VACUUM且无膨胀，但实际仅部分正确，仍存在其他垃圾回收需求。"
     },
     {
       "sourceId": "habr",
@@ -5512,7 +4941,7 @@
       "publishedAt": "2026-06-15T21:43:13.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "作者开发了MiniMin工具，用于管理Minecraft服务器及客户端模组包，分享其编写动机与过程。"
+      "summary": "作者自行开发MiniMin工具，用于管理Minecraft服务器和客户端的模组包，以简化频繁游玩和安装数百个模组的过程。"
     },
     {
       "sourceId": "habr",
@@ -5522,7 +4951,7 @@
       "publishedAt": "2026-06-15T21:03:00.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "文章介绍一种通过合约、螺旋及CI节点替代电话会议和手动集成的开发方法，面向中高级开发者，探讨软件工程流程改进。"
+      "summary": "团队介绍用智能合约、螺旋模型和CI节点替代传统电话会议和手动集成的方法，旨在提升软件工程效率，适合中高级开发者。"
     },
     {
       "sourceId": "habr",
@@ -5532,7 +4961,7 @@
       "publishedAt": "2026-06-15T20:21:35.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "对比Google Play一次性25美元注册费与iOS每年99美元费用，分析两平台定价模式差异及实际成本。"
+      "summary": "对比Google Play一次性$25注册费和Apple开发者每年$99订阅费，分析两种平台收费模式的差异及背后的成本逻辑。"
     },
     {
       "sourceId": "habr",
@@ -5542,7 +4971,7 @@
       "publishedAt": "2026-06-15T19:28:28.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "报道称2025年6月13日GlobalSign可能跟随Let's Encrypt大规模吊销俄罗斯网站TLS证书，波及约2万个站点，引发争议。"
+      "summary": "报道GlobalSign可能于6月13日起撤销俄罗斯网站的TLS证书，影响约2万个站点，继Let's Encrypt后引发争议。"
     },
     {
       "sourceId": "habr",
@@ -5552,7 +4981,7 @@
       "publishedAt": "2026-06-15T19:20:53.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "文章引用CNews报道，讨论通过面部识别即时评估俄罗斯人职业适应性的技术已进入国家层面，引发对人脸识别人工智能的担忧。"
+      "summary": "文章讨论基于人脸识别瞬间评估个人专业能力的系统，称其已进入政府层面，引发对「Idiocracy 2.0」的担忧。"
     },
     {
       "sourceId": "habr",
@@ -5562,7 +4991,7 @@
       "publishedAt": "2026-06-15T18:50:22.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "介绍共形预测方法，可为任意ML模型提供具有正式覆盖率保证的预测区间或集合，无需对数据分布做假设。"
+      "summary": "介绍共形预测方法，可为任意机器学习模型输出具有覆盖保证的预测区间或分类集，无需依赖数据分布假设。"
     },
     {
       "sourceId": "habr",
@@ -5572,7 +5001,7 @@
       "publishedAt": "2026-06-15T18:48:36.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "描述一个持续七年的命名错误：两个不同构造的Turing Machine状态实例因相同state.name在Mermaid图表中混淆，清理时被发现。"
+      "summary": "因两个不同状态机实例具有相同state.name，导致Mermaid可视化显示混乱，揭示存在七年的命名错误，涉及429个节点。"
     },
     {
       "sourceId": "habr",
@@ -5582,7 +5011,7 @@
       "publishedAt": "2026-06-15T18:48:33.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "微软发布最新累积安全补丁，修复206个漏洞，其中39个被标为严重(Critical)，延续漏洞数量攀升趋势。"
+      "summary": "微软发布累积安全补丁，修复206个漏洞（其中39个严重等级），延续漏洞发现数量持续增长的趋势。"
     },
     {
       "sourceId": "habr",
@@ -5591,8 +5020,7 @@
       "excerpt": "Telegram запускает Digital Freedom Contest — конкурс для контент-креаторов с призовым фондом $200 000 (!). Задача: сделать вирусное видео про цифровую свободу, использовать идеи и кадры из речи Павла Дурова, выложить ролик в TikTok, Instagram, YouTube, Snapchat Spotlight или X и набрать минимум 10 0",
       "publishedAt": "2026-06-15T18:36:50.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)",
-      "summary": "Telegram启动Digital Freedom Contest，奖金20万美元，鼓励创作者制作关于数字自由的病毒视频，使用帕维尔·杜罗夫演讲素材，发布至TikTok、Instagram、YouTube等平台。"
+      "source": "Habr (Хабр)"
     },
     {
       "sourceId": "habr",
@@ -5762,15 +5190,6 @@
       "url": "https://habr.com/ru/articles/1047630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047630",
       "excerpt": "Привет, друзья! Если вы по запросу \"как сделать модель добрее\" видите в output-е LLM фразу \"рулевое управление\" — значит LLM говорит про Steering. В этом туториале мы рассмотрим цель свдинуть модель в сторону hate-speech несколькими способами. И к концу вы: — узнаете, что такое steering и на чем он ",
       "publishedAt": "2026-06-15T13:58:07.000Z",
-      "category": "tech",
-      "source": "Habr (Хабр)"
-    },
-    {
-      "sourceId": "habr",
-      "title": "[Перевод] В вашей HRIS живёт призрачная оргструктура. И она уже всем заправляет",
-      "url": "https://habr.com/ru/companies/otus/articles/1047666/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1047666",
-      "excerpt": "AI-агенты уже отсеивают кандидатов, согласовывают отпуска и закрывают обращения сотрудников, хотя в HRIS их работа часто остаётся невидимой. Система хранит результат, но теряет автора решения, границы его полномочий и аудиторский след. Разбираемся, как возникает «призрачная оргструктура», почему она",
-      "publishedAt": "2026-06-15T13:49:53.000Z",
       "category": "tech",
       "source": "Habr (Хабр)"
     },
@@ -6052,7 +5471,7 @@
       "publishedAt": "2026-06-15T21:28:29.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "加利福尼亚州因一架B-52轰炸机坠毁而关闭相关空军基地。"
+      "summary": "因B-52轰炸机在加利福尼亚州坠毁，当地空军基地被关闭。"
     },
     {
       "sourceId": "vedomosti",
@@ -6317,13 +5736,63 @@
     },
     {
       "sourceId": "lenta",
+      "title": "Новые правила для возможного членства Украины в ЕС сравнили с дырявой ложкой",
+      "url": "https://lenta.ru/news/2026/06/16/novye-pravila-dlya-vozmozhnogo-chlenstva-ukrainy-v-es-sravnili-s-dyryavoy-lozhkoy/",
+      "excerpt": "",
+      "publishedAt": "2026-06-16T00:10:10.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯媒体将乌克兰加入欧盟的新规则比作“漏勺”，暗示这些规则存在漏洞或无法有效执行。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Политолог объяснил смысл фразы о трупе Ельцина и живом Зюганове",
+      "url": "https://lenta.ru/news/2026/06/16/trup/",
+      "excerpt": "",
+      "publishedAt": "2026-06-16T00:09:54.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄政治学家解读关于“叶利钦的尸体和活着的久加诺夫”这一短语的含义，涉及对俄罗斯政治人物的评价。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Женщинам раскрыли главное правило орального секса",
+      "url": "https://lenta.ru/news/2026/06/16/zhenschinam-raskryli-glavnoe-pravilo-oralnogo-seksa/",
+      "excerpt": "",
+      "publishedAt": "2026-06-16T00:09:41.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "文章向女性揭示了口交的主要规则，属于两性健康与生活话题。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Лукашенко обвинил Ватикан и Израиль в обмане Путина в 2022 году",
+      "url": "https://lenta.ru/news/2026/06/16/lukashenko-obvinil-vatikan-i-izrail-v-obmane-putina-v-2022-godu/",
+      "excerpt": "",
+      "publishedAt": "2026-06-16T00:03:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "白俄罗斯总统卢卡申科指责梵蒂冈和以色列在2022年欺骗俄罗斯总统普京。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Марочко оценил переход под контроль ВС России населенного пункта в ДНР",
+      "url": "https://lenta.ru/news/2026/06/16/marochko-otsenil-perehod-pod-kontrol-vs-rossii-naselennogo-punkta-v-dnr/",
+      "excerpt": "",
+      "publishedAt": "2026-06-16T00:02:05.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "军事分析人士马罗奇科评估了顿涅茨克地区一个定居点转由俄罗斯武装部队控制的局势。"
+    },
+    {
+      "sourceId": "lenta",
       "title": "Подозреваемый в поджоге отделений банков в Туле объяснил свой поступок",
       "url": "https://lenta.ru/news/2026/06/16/podozrevaemyy-v-podzhoge-otdeleniy-bankov-v-tule-ob-yasnil-svoy-postupok/",
       "excerpt": "",
       "publishedAt": "2026-06-15T23:40:41.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "俄罗斯图拉市涉嫌纵火烧毁多家银行营业部的嫌疑人解释其行为动机。"
+      "summary": "俄罗斯图拉市银行分行纵火案的嫌疑人对其犯罪行为进行了解释。"
     },
     {
       "sourceId": "lenta",
@@ -6333,17 +5802,17 @@
       "publishedAt": "2026-06-15T23:30:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "一名女子以优雅方式报复了粗鲁傲慢的女上司的粗鲁行为。"
+      "summary": "一名女子以优雅方式报复了其粗鲁傲慢的女上司的粗鲁行为。"
     },
     {
       "sourceId": "lenta",
       "title": "Силовики заявили о пропаже обслуживающих самолеты ВСУ техников",
       "url": "https://lenta.ru/news/2026/06/16/siloviki-zayavili-o-propazhe-obsluzhivayuschih-samolety-vsu-tehnikov/",
       "excerpt": "",
-      "publishedAt": "2026-06-15T23:07:07.000Z",
+      "publishedAt": "2026-06-15T23:07:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "俄罗斯强力部门称，为乌克兰武装部队飞机提供维护的技术人员失踪。"
+      "summary": "俄安全部门声称，负责维护乌克兰武装部队飞机的技术人员失踪。"
     },
     {
       "sourceId": "lenta",
@@ -6353,7 +5822,7 @@
       "publishedAt": "2026-06-15T23:01:13.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "一名女教师两年内持续性侵一名14岁男学生。"
+      "summary": "一名女教师被指控在两年内对一名14岁男学生实施性侵。"
     },
     {
       "sourceId": "lenta",
@@ -6362,8 +5831,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-15T23:01:01.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "法国仿制了俄罗斯的「曼加尔」——一种用于野外的烹饪设备。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6372,8 +5840,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-15T22:49:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "匈牙利有人提醒欧尔班无法重返总理职位。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6382,8 +5849,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-15T22:41:00.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "美国一架轰炸机坠毁，官方公布了遇难人数。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6392,8 +5858,7 @@
       "excerpt": "",
       "publishedAt": "2026-06-15T22:26:52.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "苏联合成器「Polyvox」（Поливокс）的创造者去世。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6545,51 +6010,6 @@
       "url": "https://lenta.ru/news/2026/06/15/v-rossiyskom-gorode-zagorelis-otdeleniya-bankov/",
       "excerpt": "",
       "publishedAt": "2026-06-15T21:03:29.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Любовные таблетки, секс с роботами и поиск партнеров по ДНК. Как уже в ближайшее время изменятся романтические отношения?",
-      "url": "https://lenta.ru/news/2026/06/16/otnosheniya/",
-      "excerpt": "",
-      "publishedAt": "2026-06-15T21:01:30.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Сборная Египта сыграла вничью с Бельгией на старте чемпионата мира",
-      "url": "https://lenta.ru/news/2026/06/15/sbornaya-egipta-sygrala-vnichyu-s-belgiey-na-starte-chempionata-mira/",
-      "excerpt": "",
-      "publishedAt": "2026-06-15T20:58:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "В США заявили о плачевном состоянии ПВО Украины",
-      "url": "https://lenta.ru/news/2026/06/15/v-ssha-zayavili-o-plachevnom-sostoyanii-pvo-ukrainy/",
-      "excerpt": "",
-      "publishedAt": "2026-06-15T20:53:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Орбан ответил Мадьяру на обвинения во лжи и признался в одной хитрости",
-      "url": "https://lenta.ru/news/2026/06/15/orban-otvetil-madyaru-na-obvineniya-vo-lzhi-i-priznalsya-v-odnoy-hitrosti/",
-      "excerpt": "",
-      "publishedAt": "2026-06-15T20:48:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Лукашенко высказался о последствиях конфликта на Украине",
-      "url": "https://lenta.ru/news/2026/06/15/lukashenko-vyskazalsya-o-posledstviyah-konflikta-na-ukraine/",
-      "excerpt": "",
-      "publishedAt": "2026-06-15T20:46:00.000Z",
       "category": "politics",
       "source": "Lenta.ru"
     }
