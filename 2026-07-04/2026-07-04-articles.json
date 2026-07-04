@@ -6,200 +6,200 @@
       "title": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "excerpt": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "meta": "Python · ★ 34,567 · 🍴 3,545 · 📈 2,804 stars today",
+      "meta": "Python · ★ 34,601 · 🍴 3,548 · 📈 2,803 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源AI渗透测试工具，自动发现并修复Web应用漏洞。利用机器学习模拟攻击，生成修复建议。适合安全工程师在开发流程中集成持续安全检测。"
+      "summary": "开源AI渗透测试工具，自动发现和修复应用漏洞。利用AI模拟攻击，帮助安全工程师在开发阶段快速定位并修复安全问题。典型场景包括Web应用、API和云环境的安全审计。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "excerpt": "Use Codex from Claude Code to review code or delegate tasks.",
-      "meta": "JavaScript · ★ 23,186 · 🍴 1,402 · 📈 629 stars today",
+      "meta": "JavaScript · ★ 23,195 · 🍴 1,403 · 📈 634 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code的插件，允许调用Codex进行代码审查或任务委派。开发者可在终端中直接使用OpenAI Codex的能力，提升代码质量与自动化水平。"
+      "summary": "在Claude Code中集成OpenAI Codex，用于代码审查或任务委派。开发者可直接在终端通过Claude Code调用Codex能力，实现智能代码审查和自动化编程辅助。"
     },
     {
       "sourceId": "github-trending",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "meta": "JavaScript · ★ 82,903 · 🍴 4,625 · 📈 2,851 stars today",
+      "meta": "JavaScript · ★ 82,919 · 🍴 4,626 · 📈 2,863 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code技能，通过模仿原始人式的精简语言减少约65%的token消耗。适合需要控制API调用成本的场景，在不损失核心功能的前提下大幅降低开销。"
+      "summary": "Claude Code技能，通过类似原始人的简洁表达方式减少65% token消耗。采用特殊prompt策略，让AI用最少token完成指令，适合需要节省API成本的开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
       "excerpt": "Free and Open Source, Distributed, RESTful Search Engine",
-      "meta": "Java · ★ 77,329 · 🍴 25,923 · 📈 77 stars today",
+      "meta": "Java · ★ 77,334 · 🍴 25,923 · 📈 91 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "免费开源的分布式RESTful搜索引擎，提供近实时全文搜索与分析能力。基于Lucene构建，支持结构化与非结构化数据。广泛应用于日志分析、应用搜索、监控等领域。"
+      "summary": "免费开源的分布式RESTful搜索引擎，基于Lucene构建，支持全文搜索、结构化搜索和分析。适用于日志分析、网站搜索、应用监控等大数据实时检索场景，运维和开发者常用。"
     },
     {
       "sourceId": "github-trending",
       "title": "actions/checkout",
       "url": "https://github.com/actions/checkout",
       "excerpt": "Action for checking out a repo",
-      "meta": "TypeScript · ★ 8,259 · 🍴 2,534 · 📈 129 stars today",
+      "meta": "TypeScript · ★ 8,263 · 🍴 2,535 · 📈 129 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub Actions官方动作，用于检出仓库代码到运行环境。是CI/CD工作流中的基础步骤，支持分支、提交SHA、子模块等参数。几乎所有GitHub Action工作流都会用到。"
+      "summary": "GitHub官方Action，用于在CI/CD工作流中检出仓库代码。支持指定分支、路径和深度等参数，是所有GitHub Actions流水线的核心前置步骤，确保后续步骤能访问项目文件。"
     },
     {
       "sourceId": "github-trending",
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "excerpt": "Chrome DevTools for coding agents",
-      "meta": "TypeScript · ★ 45,473 · 🍴 2,953 · 📈 404 stars today",
+      "meta": "TypeScript · ★ 45,486 · 🍴 2,955 · 📈 405 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为编码代理提供的Chrome DevTools接口，基于MCP协议。允许AI代理直接操控浏览器调试工具，实现自动化页面分析、性能诊断、元素操作等。适用于测试、爬虫、前端开发辅助。"
+      "summary": "为编码AI代理提供Chrome DevTools控制能力，通过MCP协议让代理直接操作浏览器查看元素、调试网络、捕获性能。适用于Web开发自动化测试和调试场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "ansible/ansible",
       "url": "https://github.com/ansible/ansible",
       "excerpt": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on rem",
-      "meta": "Python · ★ 69,191 · 🍴 24,107 · 📈 50 stars today",
+      "meta": "Python · ★ 69,197 · 🍴 24,107 · 📈 65 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "极简IT自动化平台，通过SSH管理节点，无需代理。支持应用部署、系统配置、网络与云资源编排。使用YAML编写Playbook。运维人员可快速实现批量任务自动化。"
+      "summary": "极简IT自动化平台，通过SSH无代理执行Playbook，实现应用部署、配置管理、网络配置和云编排。运维人员用YAML定义任务，一套代码即可管理数千台服务器。"
     },
     {
       "sourceId": "github-trending",
       "title": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "excerpt": "An open source design system that's fully customizable and agent ready",
-      "meta": "TypeScript · ★ 4,588 · 🍴 267 · 📈 943 stars today",
+      "meta": "TypeScript · ★ 4,606 · 🍴 269 · 📈 885 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Facebook开源设计系统，完全可定制且为AI代理就绪。提供统一的组件库、样式指南和交互模式，支持与AI驱动的界面生成工具集成。适合需要快速构建一致UI的团队。"
+      "summary": "Facebook开源的设计系统，完全可定制并针对AI代理优化。提供现成的UI组件和样式指南，支持前端开发者快速构建一致界面，同时方便AI代理直接调用和操作。"
     },
     {
       "sourceId": "github-trending",
       "title": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "excerpt": "A beautiful, powerful, self-hosted rom manager and player.",
-      "meta": "Python · ★ 9,798 · 🍴 473 · 📈 236 stars today",
+      "meta": "Python · ★ 9,804 · 🍴 475 · 📈 239 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "自托管的游戏ROM管理器与模拟器前端，界面美观且功能强大。支持多种游戏平台，提供游戏库元数据刮削、在线游玩、多用户管理。怀旧游戏玩家可搭建私有云游戏中心。"
+      "summary": "自托管ROM管理器与模拟器播放器，界面美观功能强大。支持多种游戏主机ROM的管理、元数据刮削和在线游玩，适合游戏爱好者搭建个人游戏库，安全可控。"
     },
     {
       "sourceId": "github-trending",
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "excerpt": "Machine Learning Systems",
-      "meta": "Python · ★ 26,146 · 🍴 3,120 · 📈 792 stars today",
+      "meta": "Python · ★ 26,154 · 🍴 3,120 · 📈 793 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "哈佛大学机器学习系统课程教材，涵盖分布式训练、推理优化、硬件加速、部署流水线等主题。面向ML工程师与研究者，系统教授生产级机器学习系统的设计与实现。"
+      "summary": "哈佛大学机器学习系统课程教材，覆盖训练推理、分布式、硬件加速等核心主题。面向计算机科学高年级学生和研究者，系统讲解端到端ML系统设计与实现。"
     },
     {
       "sourceId": "github-trending",
       "title": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "meta": "Python · ★ 101,424 · 🍴 28,248 · 📈 290 stars today",
+      "meta": "Python · ★ 101,428 · 🍴 28,249 · 📈 293 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Python端到端机器学习框架，支持GPU加速的动态计算图。提供张量运算、自动微分、分布式训练等能力。深度学习研究者与工程师的首选框架之一，用于模型研发与部署。"
+      "summary": "Python动态神经网络框架，支持GPU加速的张量计算和自动微分。研究员和工程师用于构建深度学习模型，典型场景包括计算机视觉、自然语言处理和强化学习。"
     },
     {
       "sourceId": "github-trending",
       "title": "apache/maven",
       "url": "https://github.com/apache/maven",
       "excerpt": "Apache Maven core",
-      "meta": "Java · ★ 5,224 · 🍴 2,901 · 📈 53 stars today",
+      "meta": "Java · ★ 5,226 · 🍴 2,901 · 📈 58 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Java项目构建与依赖管理工具核心库。基于POM文件管理项目生命周期（编译、测试、打包）。Java开发者用于标准化构建流程，配合中央仓库管理依赖版本。"
+      "summary": "Apache Maven核心，Java项目构建和依赖管理工具。基于POM文件实现标准化构建流程，管理项目生命周期、依赖关系和发布，是Java企业级开发标配。"
     },
     {
       "sourceId": "github-trending",
       "title": "safishamsi/graphify",
       "url": "https://github.com/safishamsi/graphify",
       "excerpt": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "meta": "Python · ★ 77,091 · 🍴 7,634 · 📈 937 stars today",
+      "meta": "Python · ★ 77,110 · 🍴 7,637 · 📈 945 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AI编程助手技能，可将代码文件夹、SQL schema、脚本、文档等转化为可查询的知识图谱。支持Claude Code、Codex、Cursor等平台。开发者能快速检索代码库并获取上下文理解。"
+      "summary": "AI编码助手技能，将代码、SQL、Shell脚本、文档、图片等文件夹转化为可查询的知识图谱。支持Claude Code、Codex、Cursor等多种AI CLI，开发者可快速理解项目全貌。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 135,826 · 🍴 21,855 · 📈 245 stars today",
+      "meta": "Python · ★ 135,835 · 🍴 21,855 · 📈 221 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic推出的终端智能编码工具，理解代码库结构，可执行日常任务、解释复杂代码、处理Git工作流。支持自然语言指令，适合需要高效代码维护与自动化操作的开发者。"
+      "summary": "Anthropic推出的终端智能编码助手，理解整个代码库，能执行例行任务、解释复杂代码和处理Git工作流。开发者通过自然语言指令即可完成重构、调试和代码生成。"
     },
     {
       "sourceId": "github-trending",
       "title": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "excerpt": "agent multiplexer that lives in your terminal.",
-      "meta": "Rust · ★ 10,755 · 🍴 637 · 📈 513 stars today",
+      "meta": "Rust · ★ 10,771 · 🍴 637 · 📈 478 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "终端中的AI代理多路复用器，可同时管理多个代理实例。为开发者提供统一接口调度不同LLM或工具，提升多代理协作效率。适合需要并行执行多种AI任务的场景。"
+      "summary": "终端中的AI代理多路复用器，同时管理多个智能代理实例。用户可并行调用不同代理完成协同任务，适合需要多模型协作或对比输出的开发场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 245,505 · 🍴 21,762 · 📈 1,205 stars today",
+      "meta": "Shell · ★ 245,519 · 🍴 21,761 · 📈 1,209 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套经过验证的智能体技能框架与软件开发方法论。提供可复用的Agent Skill模式，帮助开发者结构化地构建AI驱动的工作流。适合编写可维护、可扩展的AI代理应用。"
+      "summary": "AI代理技能框架与软件开发方法论，定义如何构建、组合和运行代理技能。提供一套可复用的模式，帮助开发者高效创建具备专业能力的AI编码代理。"
     },
     {
       "sourceId": "github-trending",
       "title": "agentskills/agentskills",
       "url": "https://github.com/agentskills/agentskills",
       "excerpt": "Specification and documentation for Agent Skills",
-      "meta": "Python · ★ 21,977 · 🍴 1,392 · 📈 405 stars today",
+      "meta": "Python · ★ 21,988 · 🍴 1,394 · 📈 406 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agent Skills的规范与文档仓库。定义了技能接口、生命周期、数据交换格式，为不同AI代理平台提供互操作性标准。Agent开发者可参考此规范设计通用化技能。"
+      "summary": "Agent Skills规范与文档仓库，定义标准化接口让AI代理可发现和调用不同技能。面向工具构建者，确保代理能力可组合和互操作，降低集成成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "supabase/supabase",
       "url": "https://github.com/supabase/supabase",
       "excerpt": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "meta": "TypeScript · ★ 105,458 · 🍴 12,969 · 📈 145 stars today",
+      "meta": "TypeScript · ★ 105,467 · 🍴 12,971 · 📈 169 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于Postgres的全栈开发平台，提供托管数据库、认证、存储、实时订阅等功能。支持REST与GraphQL API自动生成。开发者可用它快速搭建Web、移动和AI应用的后端。"
+      "summary": "基于Postgres的开源开发平台，提供数据库、认证、实时订阅和存储服务。全栈开发者用它快速构建Web、移动和AI应用，类似Firebase但完全开源可控。"
     },
     {
       "sourceId": "github-trending",
       "title": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "excerpt": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "meta": "Rust · ★ 7,161 · 🍴 591 · 📈 86 stars today",
+      "meta": "Rust · ★ 7,165 · 🍴 592 · 📈 60 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯云开源的AI代理沙箱，支持即时创建、并发执行、安全隔离与轻量级运行。基于容器技术提供代码执行环境，适合需要安全运行不可信代码或AI模型推理的场景。"
+      "summary": "腾讯云开源的轻量级安全沙箱，支持即时、并发创建隔离环境。专为AI代理设计，能安全执行不可信代码，适合在智能体框架中运行第三方插件或用户脚本。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 126,466 · 🍴 20,526 · 📈 1,202 stars today",
+      "meta": "Shell · ★ 126,476 · 🍴 20,530 · 📈 1,208 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一站式AI代理平台，集成了前端专家、社区运营、创意生成、质量检测等多种专业角色。每个代理拥有独立人格与流程。团队可像管理数字员工一样部署协作。"
+      "summary": "一套完整的AI代理机构组合，包含前端专家、Reddit运营、创意注入等不同角色代理。每个代理有独立个性和工作流程，用户可快速部署多智能体协作系统。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -232,7 +232,7 @@
       "sourceId": "v2ex-hot",
       "title": "怎么搞定纯 Python 代码解码 jpg 图片，要求无外部依赖",
       "url": "https://www.v2ex.com/t/1224588",
-      "excerpt": "24 回复 · Python 节点",
+      "excerpt": "25 回复 · Python 节点",
       "publishedAt": "2026-07-02T10:48:24.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -241,7 +241,7 @@
       "sourceId": "v2ex-hot",
       "title": "因为帮朋友代充了 ChatGPT Plus，我的 Apple ID 不干净了",
       "url": "https://www.v2ex.com/t/1224834",
-      "excerpt": "23 回复 · Apple 节点",
+      "excerpt": "25 回复 · Apple 节点",
       "publishedAt": "2026-07-03T11:36:50.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -704,7 +704,7 @@
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind 与电影公司 A24 宣布首次研究合作，具体细节尚未公布。"
+      "summary": "Google DeepMind与电影公司A24宣布首次研究合作，探索AI与叙事艺术的结合，具体细节尚未公布。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1246,7 +1246,7 @@
       "meta": "👍 3",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出WARP方法，通过分析模型权重空间恢复训练数据组合（如领域混合权重）。基础模型常不公开训练数据配方，该方法旨在弥补信息不对称，使研究者能了解模型训练数据的来源分布。"
+      "summary": "WARP方法通过权重空间分析恢复训练数据组合，解决基础模型数据配方不透明问题，揭示领域混合权重等关键信息。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1257,7 +1257,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "AutoMem将记忆管理视为可训练技能，受元记忆认知科学启发，通过文件系统操作教会LLM自动学习编码、检索和组织知识，提升长时记忆使用效率。"
+      "summary": "AutoMem将记忆管理视为可训练技能，借鉴元认知概念，自动学习编码、检索和组织知识的策略，提升LLM长期记忆能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1278,7 +1278,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Logit贡献评分方法，识别长上下文模型中根据语义合成答案而非直接复制粘贴的注意力头，有助于理解模型如何从上下文非字面提取信息。"
+      "summary": "Logit-Contribution Scoring方法识别长上下文LLM中执行非字面检索的注意力头，这些头根据上下文含义合成答案而非直接复制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1319,7 +1319,7 @@
       "meta": "👍 39",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "引入“自主策略进化”概念，为评估智能体在交互环境中通过反馈改进可执行策略提供受控测试平台，区别于开放式软件工程进展，旨在更精确衡量策略优化能力。"
+      "summary": "EvoPolicyGym提出自主策略演化评估框架，在交互环境中测试智能体通过反馈改进可执行策略的能力，避免传统单一分数评价的局限。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1330,7 +1330,7 @@
       "meta": "👍 39",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出有界记忆测试床AgenticSTS，用于评估长时域LLM智能体的记忆管理能力。将记忆视为未来决策可访问的合约，避免提示中信息杂乱混合，从而更清晰分离记忆与推理。"
+      "summary": "AgenticSTS构建有限记忆测试平台，用于长周期LLM智能体，将记忆视为未来决策可见性的契约，解决简单拼接历史上下文导致的混乱问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1361,7 +1361,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "SkillCoach提出自演进评分标准，评估和增强LLM智能体的技能使用。技能作为可复用操作层（如SOP、工具流程），技能库重叠导致可靠使用困难，该方法提供更细致的评估粒度。"
+      "summary": "SkillCoach提出自进化评估准则，用于评价和提升LLM智能体的技能使用能力，解决技能库重叠导致的选择困难，提供比最终验证器更细粒度的反馈。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1372,7 +1372,7 @@
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出PACE代理指标，用于评估LLM智能体能力，替代在SWE-Bench、GAIA等基准上的昂贵直接测试（每轮数千美元、数天），以低成本近似智能体性能。"
+      "summary": "PACE提出代理能力评估代理方法，以较低成本预估LLM智能体在SWE-Bench、GAIA等基准上的性能，减少昂贵的全量评估开销。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1393,7 +1393,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "WorldDirector构建高度可控的视频世界模型，具备持久动态对象记忆和自由视角探索，区别于将物理动态与像素渲染纠缠的现有模型，支持更灵活的模拟控制。"
+      "summary": "WorldDirector构建可控视频世界模型，具备持久动态物体记忆和自由视点探索能力，区别于现有将物理动态与像素渲染纠缠的模型。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1404,7 +1404,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "AnyGroundBench专注视频定位的专用领域基准，评估视觉语言模型在时空视频定位（STVG）中的表现，填补现有零样本日常基准与现实应用（如专业领域）之间的鸿沟。"
+      "summary": "AnyGroundBench是面向视觉语言模型的专用领域视频定位基准，填补现有评估局限于通用日常场景的空白，更贴近实际应用。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1415,7 +1415,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "AgenticDataBench是数据智能体综合基准，旨在自动化数据科学流程（从异构原始数据提取洞察），减少数据科学家劳动，推动可扩展的数据驱动决策。"
+      "summary": "AgenticDataBench是全面的数据智能体基准测试，评估自动化数据科学流程从异构数据中提取可操作洞察的能力，减少人工负担。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1555,7 +1555,7 @@
       "publishedAt": "2026-07-03T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Meta 公布 Watermelon 项目，Anthropic 与三星达成芯片合作，自动研究（autoresearch）进入实践阶段。"
+      "summary": "Meta推出新项目Watermelon，Anthropic与三星在芯片领域合作，自动研究进入实践阶段。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1565,7 +1565,7 @@
       "publishedAt": "2026-07-02T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "谷歌 Gemini Flash 获得升级，Meta 推出 AI 云服务，ZCode 相关进展。"
+      "summary": "Google升级Gemini Flash模型，Meta推出AI云服务，ZCode新工具发布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1737,7 +1737,7 @@
       "publishedAt": "2026-07-02T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Fullstack Code Arena 扩展编码智能体评估至数据库、API 密钥、部署等，转向端到端应用交付。LangChain 发布 LangSmith（统一追踪）和 OpenWiki（自动生成文档）。"
+      "summary": "Fullstack Code Arena扩展编码代理评估至数据库、API等，推动端到端应用交付；LangChain发布LangSmith统一追踪及OpenWiki自动文档生成。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2008,7 +2008,7 @@
       "publishedAt": "2026-07-03T05:11:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "人工智能工程师世界博览会（AIEWF）以关于循环（loops）的辩论、AI 工程现状报告及聚焦下一步构建的闭幕演讲落幕。"
+      "summary": "AI工程师世界博览会闭幕，围绕“循环”展开辩论，发布AI工程现状报告，闭幕演讲聚焦下一步构建方向。"
     },
     {
       "sourceId": "latent-space",
@@ -2018,7 +2018,7 @@
       "publishedAt": "2026-07-03T00:08:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Vercel 首席软件官 Andrew Qu 解释其智能体框架 eve 的创建过程，并阐述技能、沙箱及智能体可读网站的重要性。"
+      "summary": "Vercel软件负责人Andrew Qu解释其代理框架Eve的创建，并阐述技能、沙箱及代理可读网站的重要性。"
     },
     {
       "sourceId": "latent-space",
@@ -2028,7 +2028,7 @@
       "publishedAt": "2026-07-02T21:25:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Adobe 正在试验“智能体网站”（agentic sites），可根据用户意图动态生成页面。在 AIEWF 上，Carlos Sanchez 讨论了 Web 的未来。"
+      "summary": "Adobe正试验“代理型网站”，可根据用户意图动态生成页面；在AIEWF上Carlos Sanchez讨论了Web的未来。"
     },
     {
       "sourceId": "latent-space",
@@ -2038,7 +2038,7 @@
       "publishedAt": "2026-07-02T14:36:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Paul Bakaus 讨论其项目 Impeccable，在“循环最大化”时代强调人类判断力，指出智能体仍需要人类引导。"
+      "summary": "Paul Bakaus讨论技能工程与项目Impeccable，强调在循环优化时代人类判断仍不可或缺，代理需要人类引导。"
     },
     {
       "sourceId": "latent-space",
@@ -2048,7 +2048,7 @@
       "publishedAt": "2026-07-02T07:10:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI 新闻简报指出当天无重大事件，市场平静。"
+      "summary": "当天AI领域无重大事件，市场平静。"
     },
     {
       "sourceId": "latent-space",
@@ -2058,7 +2058,7 @@
       "publishedAt": "2026-07-02T06:13:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "在 AIEWF 上，关于自动研究（autoresearch）的讨论引发 AI 与人类能动性之间的张力，演讲者强调人类理解与控制的重要性。"
+      "summary": "AIEWF日报：自动研究引发AI与人类能动性讨论，部分演讲者捍卫人类理解与控制。"
     },
     {
       "sourceId": "latent-space",
@@ -2068,7 +2068,7 @@
       "publishedAt": "2026-07-01T23:52:30.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Introspection 联合创始人 Roland Gavrilescu 解释自动研究（autoresearch）、智能体“配方”、自我改进循环，并强调人类在软件工厂中的核心地位。"
+      "summary": "Introspection联合创始人Roland Gavrilescu阐述自动研究、代理“配方”及自我改进循环，强调人类在软件工厂中的核心作用。"
     },
     {
       "sourceId": "latent-space",
@@ -2078,7 +2078,7 @@
       "publishedAt": "2026-07-01T19:03:44.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cursor 的 Pauline Brunet 介绍其前部署工程师团队如何帮助企业实施智能体，本质上是搭建软件工厂。"
+      "summary": "Cursor的Pauline Brunet解释前端部署工程师团队如何帮助企业实施代理，实质上建立软件工厂。"
     },
     {
       "sourceId": "latent-space",
@@ -2088,7 +2088,7 @@
       "publishedAt": "2026-07-01T14:42:39.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "前 Llama 负责人 Evan Feinberg 和 Sergey Edunov 创立 Genesis Molecular AI，转向药物发现。PEARL 的零样本 OpenBind 获胜，共折叠方法达到精度阈值后带来新可能。"
+      "summary": "Llama负责人离开Meta投身药物发现；PEARL在零样本OpenBind竞赛中获胜；共折叠跨越精度阈值后带来新可能。"
     },
     {
       "sourceId": "latent-space",
@@ -2197,7 +2197,7 @@
       "publishedAt": "2026-07-02T15:37:08.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI 可用于实现运营卓越，参照精益六西格玛（Lean Six Sigma）和业务流程管理（BPM）框架，以结构化方式提升运营效率。"
+      "summary": "文章探讨AI助力运营卓越，Lean Six Sigma和BPM等框架曾带来秩序，AI可进一步优化流程提升效率与质量。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2207,7 +2207,7 @@
       "publishedAt": "2026-07-02T12:51:44.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI 在消费级应用之外，正在工业领域（如涡轮机运行）发挥重要作用，涉及物理基础设施与安全。"
+      "summary": "AI在工业领域应用扩展，如与涡轮机协同运行，确保物理基础设施连续性与安全性，超越消费者端工具。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2290,7 +2290,7 @@
       "category": "tech",
       "meta": "@RampLabs · 13.4K 粉丝 · 335.4K 阅 · 507 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "研究员提出便携任务适配器（PorTAL），解决LoRA等参数高效微调方法产生的适配器仅绑定单一基座模型的问题，使得适配器可在新模型间直接迁移使用。"
+      "summary": "介绍PorTAL，一种可移植任务适配器，解决LoRA等参数高效微调方法产生的适配器锁定在单一基座模型的问题，当新模型发布时无需重新训练。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2301,7 +2301,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 671.1K 粉丝 · 243.8K 阅 · 500 赞 · 73 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一份Fable工具上手指南，从基础配置到高级用法，承诺读完即可将AI生产力提升10倍，适合希望最大化利用Fable的用户快速入门。"
+      "summary": "一份Fable使用基础指南，涵盖如何最大化利用Fable提升AI生产力，承诺读完即可将AI效率提升10倍。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2312,7 +2312,7 @@
       "category": "tech",
       "meta": "@philhchen · 9.1K 粉丝 · 179.1K 阅 · 516 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI时代职业建议：学校训练的是定义明确的损失函数问题，而AI正在超越这些；未来最有价值的工作是解决AI无法定义损失函数的开放性问题。"
+      "summary": "AI时代职业建议：AI擅长有明确损失函数的问题（如学校考试），未来有价值的工作是那些无法被简单目标函数定义的任务。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2323,7 +2323,7 @@
       "category": "tech",
       "meta": "@ErikVoorhees · 908.5K 粉丝 · 124.8K 阅 · 529 赞 · 103 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Venice宣布A轮融资，定位私密、无审查的AI平台，强调思想自由与不受约束的智能服务，旨在成为用户自主控制的推理入口。"
+      "summary": "Venice项目宣布A轮融资，致力于构建私密且无限制的AI，强调思想自由与言论自由是AI发展的基础。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2334,7 +2334,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 121.1K 粉丝 · 83.6K 阅 · 518 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "手把手教程：用Fable 5构建第二大脑，将其训练成深谙业务细节的智能系统，并能产出与其他人截然不同的个性化内容。"
+      "summary": "演示如何用Fable 5构建「第二大脑」：将其打造成全面了解你业务的机器，生成独特输出，区别于普通用法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2345,7 +2345,7 @@
       "category": "tech",
       "meta": "@AlexFinn · 459.5K 粉丝 · 72.5K 阅 · 565 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "纠正Fable 5的常见误区：它不是vibe coding工具，而是一个操作系统级工具。正确用法是将其作为底层系统，用来调度其他任务。"
+      "summary": "指出Fable 5不是「氛围编码」工具，而是操作系统级工具。最该做的不是急于编码，而是将其视为底层系统来使用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2356,7 +2356,7 @@
       "category": "tech",
       "meta": "@addyosmani · 404.9K 粉丝 · 53.5K 阅 · 525 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提出智能体自主等级框架：从提示工程转向操作工程，引入软件工厂、目标循环、后台会话等概念，描绘自主智能体的演化路径。"
+      "summary": "探讨Agent自主动态等级：主体工程的重点已从提示转向操作，引入软件工厂、目标循环、后台会话等概念。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2367,7 +2367,7 @@
       "category": "tech",
       "meta": "@base · 1.4M 粉丝 · 51.0K 阅 · 501 赞 · 112 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "深入分析智能体经济的真实支付场景：智能体到底在为什么付费？文中探讨了智能体作为新客户群体的实际交易行为和基础设施需求。"
+      "summary": "分析Agent经济中代理实际在为什么付费，打破「代理经济已来」的空洞口号，追问具体支付对象和场景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2378,7 +2378,7 @@
       "category": "tech",
       "meta": "@trq212 · 299.3K 粉丝 · 40.1K 阅 · 534 赞 · 43 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "使用Fable 5的田野指南：强调提示和技能只是对工作的地图表征，真正的价值在于探索未知领域，不断发现自己的未知。"
+      "summary": "使用Fable 5的经验反思：提示和上下文只是工作的地图，不等于实际成果，强调要找到未知领域，探索地图之外的真实。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2389,7 +2389,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 76.4K 粉丝 · 37.9K 阅 · 567 赞 · 24 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Fable重回Cursor，分享高效模式：将Fable作为编排器（orchestrator）负责调度，Composer作为工作进程（workers）执行具体任务，提升开发效率。"
+      "summary": "Fable回归Cursor，将其作为编排器（orchestrator），Composer作为工人，探索新模式以充分利用模型。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2400,7 +2400,7 @@
       "category": "tech",
       "meta": "@0xkozue · 690 粉丝 · 24.9K 阅 · 501 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一页PyTorch训练流水线速查表，涵盖权重更新、前向传播、反向传播、优化器选择等关键步骤，适合快速参考和调试深度学习训练流程。"
+      "summary": "提供一页PyTorch训练流水线速查表，涵盖深度学习权重调整核心流程，并欢迎反馈和纠错。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2411,7 +2411,7 @@
       "category": "tech",
       "meta": "@OptimaiNetwork · 99.8K 粉丝 · 7.8K 阅 · 540 赞 · 351 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI行业重心从模型转向基础设施。Optimai分享6月进展和7月计划，聚焦构建智能系统知识获取、协调交互的底层架构，迎接智能体原生互联网。"
+      "summary": "AI行业进入新阶段，重点从模型转向基础设施。OptiMAI Network分享六月回顾与七月愿景，构建代理原生互联网所需的基础设施。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2421,7 +2421,7 @@
       "publishedAt": "2026-07-03T21:13:04.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Kleiner Perkins合伙人Mamoon Hamid做客节目，讨论AI革命下的风投策略，分享早期投资Slack、Figma等巨头的经验，以及如何评估AI初创企业。"
+      "summary": "Kleiner Perkins合伙人Mamoon Hamid接受采访，分享对AI革命的看法及早期AI投资策略，并讲述如何成为Slack、Figma等巨头的早期投资者。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2430,7 +2430,8 @@
       "excerpt": "マーケットで話題になったニュースから、1週間を振り返る五つのトピックを厳選して紹介します。",
       "publishedAt": "2026-07-03T21:00:01.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets"
+      "source": "Bloomberg Markets",
+      "summary": "本周精选五则市场话题：日元贬值至1美元兑200日元的可能情景、高市早苗访问印度、世界杯场外较量等。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2872,7 +2873,7 @@
       "publishedAt": "2026-07-03T19:21:23.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "票务平台StubHub因涉嫌在世界杯期间“幽灵售票”遭德克萨斯州总检察长调查，涉及取消或未提供用户购买票务的行为。"
+      "summary": "得克萨斯州总检察长调查StubHub涉嫌在世界杯期间进行“幽灵售票”，即取消或未能通过网站提供所购门票。"
     },
     {
       "sourceId": "ft-companies",
@@ -2882,7 +2883,7 @@
       "publishedAt": "2026-07-03T18:23:43.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "KKR和Bridgepoint子公司对能源集团DCC提出57亿英镑私有化收购，遭Ninety One、Aviva Investors和Fidelity International等主要投资者反对。"
+      "summary": "顶级投资者反对KKR和Bridgepoint子公司对能源集团DCC提出的57亿英镑收购要约，Ninety One、Aviva Investors和Fidelity International均不支持。"
     },
     {
       "sourceId": "ft-companies",
@@ -3171,7 +3172,7 @@
       "publishedAt": "2026-07-03T20:51:58.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "阿伯丁机场行李安检人员原定周一开始罢工，工会Unite警告将造成“严重延误”，但罢工已被避免。"
+      "summary": "阿伯丁机场行李安检人员原定周一发起的罢工被避免，Unite工会此前警告可能造成“严重延误”。"
     },
     {
       "sourceId": "bbc-business",
@@ -4804,6 +4805,26 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+      "excerpt": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+      "publishedAt": "2026-07-04T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "伊朗最高领袖哈梅内伊葬礼预计数百万人参加；同时以色列继续空袭加沙，导致一名儿童死亡、一名受伤。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
+      "excerpt": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.",
+      "publishedAt": "2026-07-03T23:57:24.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "委内瑞拉一座旅游城镇遭地震夷为废墟，当地经济受到严重冲击。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
       "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
       "excerpt": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
@@ -4818,8 +4839,7 @@
       "excerpt": "Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.",
       "publishedAt": "2026-07-03T21:49:17.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "委内瑞拉代总统德尔西·罗德里格斯指责“宣传”引发了对政府地震应对的负面反应，并拒绝外界批评。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5007,24 +5027,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
       "excerpt": "At least 40 people were killed and eight others injured after a passenger bus plunged into a ravine in Pakistan.",
       "publishedAt": "2026-07-03T17:44:02.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "World leaders pay tribute to Iran’s late leader Khamenei in Tehran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/world-leaders-pay-tribute-to-irans-late-leader-khamenei-in-tehran?traffic_source=rss",
-      "excerpt": "World leaders pay tribute to Iran's late leader Khamenei in Tehran",
-      "publishedAt": "2026-07-03T17:35:22.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Heavy rain floods Mumbai during intense monsoon spell",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
-      "excerpt": "Heavy monsoon rains have inundated parts of Mumbai, India's financial capital, causing widespread flooding.",
-      "publishedAt": "2026-07-03T16:27:20.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5300,13 +5302,23 @@
     },
     {
       "sourceId": "habr",
+      "title": "Картофельный парадокс Нечерноземья: почему урожайность растёт, а полки завалены импортом",
+      "url": "https://habr.com/ru/articles/1055442/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055442",
+      "excerpt": "Откуда картошка? Из Египта, вестимо..Картофель на прилавке продуктового магазина - выбирай на вкус! - сколько здесь символов? Читать далее",
+      "publishedAt": "2026-07-03T23:43:46.000Z",
+      "category": "tech",
+      "source": "Habr (Хабр)",
+      "summary": "俄罗斯非黑土区马铃薯产量增长，但商店货架仍被来自埃及的进口马铃薯占据，形成产量与进口并存的悖论。"
+    },
+    {
+      "sourceId": "habr",
       "title": "Mix Teacher: как я сделал VST3-плагин-помощник для сведения",
       "url": "https://habr.com/ru/articles/1055440/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055440",
       "excerpt": "Привет, Хабр! Я веду свой блог и обычно пишу про кодеки и про удаленный доступ. Эта статья — немного особенная: она не только как разработчика, но и как музыканта. Сейчас с нейросетями стало проще писать решения. Ну, «проще» - это громко сказано. Скорее, стало проще быстрее доходить до прототипа, пр",
       "publishedAt": "2026-07-03T23:10:11.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "作者（兼开发者与音乐家）开发了VST3插件Mix Teacher，用于辅助音频混音，探讨利用神经网络简化解决方案的过程。"
+      "summary": "一位兼顾开发与音乐创作的作者自述制作了一款VST3混音辅助插件，利用神经网络简化混音流程，提升效率。"
     },
     {
       "sourceId": "habr",
@@ -5316,7 +5328,7 @@
       "publishedAt": "2026-07-03T22:52:02.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "介绍一款一键GUI工具，可在廉价VPS上10分钟内部署6种代理协议（含NaiveProxy和olcRTC），自动生成欺骗DPI的域名并签发TLS证书。"
+      "summary": "介绍一款GUI工具，可在廉价VPS上一键部署6种代理协议（含NaiveProxy和olcRTC），自动生成域名和TLS证书，10分钟完成配置。"
     },
     {
       "sourceId": "habr",
@@ -5326,7 +5338,7 @@
       "publishedAt": "2026-07-03T21:25:28.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "2026年6月发布RFC 10008，为HTTP新增标准化QUERY方法，允许向指定地址发送带请求体的只读请求，不修改服务器数据，已列入IANA注册表。"
+      "summary": "2026年6月发布的RFC 10008为HTTP新增标准化QUERY方法，允许带请求体的安全只读操作，已加入IANA HTTP方法注册表。"
     },
     {
       "sourceId": "habr",
@@ -5336,7 +5348,7 @@
       "publishedAt": "2026-07-03T21:07:43.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "作者为闭源阅读器添加离线词典时，因MDict的MDX格式专有且无官方规范，无法使用GPL解析器，遂从头实现解析器（含RIPEMD-128算法），并详解格式结构。"
+      "summary": "为在闭源应用中集成离线词典，作者从零实现MDX格式解析器并手动编写RIPEMD-128哈希算法，因现有Java解析器为GPL协议无法使用。"
     },
     {
       "sourceId": "habr",
@@ -5346,7 +5358,7 @@
       "publishedAt": "2026-07-03T20:13:23.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "作者批评工业数字化会议仍停留在ERP、MES、PLM等传统系统上，认为这些不等于真正的数字化转型，质疑俄罗斯工业数字化缺乏方法论。"
+      "summary": "评论俄罗斯工业数字化现状，指出仅部署ERP、MES、PLM等传统系统并不等于真正的数字转型，需要更全面的方法论。"
     },
     {
       "sourceId": "habr",
@@ -5356,7 +5368,7 @@
       "publishedAt": "2026-07-03T19:37:46.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "通过发布管道实例说明，实际工作的AI代理是包含任务、浏览器、检查、日志、约束和外部集成的系统，而非简单聊天。"
+      "summary": "介绍企业级AI代理的实际配置经验，说明其需集成任务管理、浏览器操作、验证、日志和外部接口，不能仅依赖对话模型。"
     },
     {
       "sourceId": "habr",
@@ -5366,7 +5378,7 @@
       "publishedAt": "2026-07-03T18:50:01.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "Claude Code的瓶颈在上下文长度而非模型能力。Subagents通过委派将代码审查、测试、审计等任务分配给独立代理，提升会话质量。"
+      "summary": "Claude Code通过Subagents机制解决上下文限制，将代码评审、测试、审计等任务委派给独立代理，提升代码质量和效率。"
     },
     {
       "sourceId": "habr",
@@ -5376,7 +5388,7 @@
       "publishedAt": "2026-07-03T17:38:08.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "文章讨论虚拟化基础设施规划中，何时采用超融合架构（HCI）何时坚持传统存储分离，指出HCI并非万能需根据场景选择。"
+      "summary": "分析超融合基础设施（HCI）的适用场景，指出HCI并非万能，企业需根据虚拟化需求在传统存储架构和HCI间合理选择。"
     },
     {
       "sourceId": "habr",
@@ -5386,7 +5398,7 @@
       "publishedAt": "2026-07-03T17:16:36.000Z",
       "category": "tech",
       "source": "Habr (Хабр)",
-      "summary": "机器学习系列第13部分聚焦k-means聚类算法，延续对高维数据问题的讨论，讲解无监督聚类分析方法。"
+      "summary": "机器学习教程第13部分介绍聚类分析，重点讲解k-means算法及其在高维数据降维和简化分析中的应用。"
     },
     {
       "sourceId": "habr",
@@ -5395,8 +5407,7 @@
       "excerpt": "Недавно друг попросил помочь с настройкой VPN. Казалось бы, обычная задача. Но когда я посмотрел, что у него уже развернуто, удивился. Для управления четырьмя vpn-клиентами использовался полноценный многопользовательский веб-сервис на PHP с MySQL, который требовал отдельного сервера. История о том, ",
       "publishedAt": "2026-07-03T16:57:34.000Z",
       "category": "tech",
-      "source": "Habr (Хабр)",
-      "summary": "作者因发现朋友用复杂的PHP+MySQL多用户Web服务管理仅4个VPN客户端，自行编写轻量级工具awg-admin用于管理Amnezia/WireGuard服务器。"
+      "source": "Habr (Хабр)"
     },
     {
       "sourceId": "habr",
@@ -5566,15 +5577,6 @@
       "url": "https://habr.com/ru/articles/1055358/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055358",
       "excerpt": "В данной статье я не пытаюсь дать ответ на вопрос \"что такое сознание\". Сложная проблема сознания слишком сложна, и неизвестно, получим ли мы когда-либо ответ. Однако я хочу простукать стены физических теорий, чтобы по глухому найти пустоты, где может разместиться сознание и свобода воли, не нарушая",
       "publishedAt": "2026-07-03T14:15:44.000Z",
-      "category": "tech",
-      "source": "Habr (Хабр)"
-    },
-    {
-      "sourceId": "habr",
-      "title": "Как я считаю ROI внутреннего продукта в деньгах",
-      "url": "https://habr.com/ru/articles/1055354/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1055354",
-      "excerpt": "В прошлой статье я писала про то, что значит быть Internal PO, когда у продукта нет клиента с улицы. Естественный следующий вопрос: а как в таком случае доказывать ценность в цифрах? Вот с этим и разберёмся. Все цифры в примерах ниже — условные, для иллюстрации метода. Читать далее",
-      "publishedAt": "2026-07-03T14:02:49.000Z",
       "category": "tech",
       "source": "Habr (Хабр)"
     },
@@ -5856,7 +5858,7 @@
       "publishedAt": "2026-07-03T21:06:23.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯总统普京称乌克兰领导层为“演员”（лицедеями）。"
+      "summary": "俄罗斯总统普京称乌克兰领导人为“演员”。"
     },
     {
       "sourceId": "vedomosti",
@@ -5866,7 +5868,7 @@
       "publishedAt": "2026-07-03T20:44:54.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯总统普京表示，对乌克兰军工复合体的大规模打击必须继续。"
+      "summary": "普京表示应继续对乌克兰军工综合体进行大规模打击。"
     },
     {
       "sourceId": "vedomosti",
@@ -5876,7 +5878,7 @@
       "publishedAt": "2026-07-03T20:17:46.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "俄罗斯总理米舒斯京下令在俄罗斯重建两所军事院校。"
+      "summary": "俄罗斯总理米舒斯京下令重建两所军事院校。"
     },
     {
       "sourceId": "vedomosti",
@@ -5886,7 +5888,7 @@
       "publishedAt": "2026-07-03T19:19:12.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "克里米亚14个地区的电力供应预计将在当天结束前恢复。"
+      "summary": "克里米亚14个地区的电力预计将在当天结束前恢复供应。"
     },
     {
       "sourceId": "vedomosti",
@@ -5906,7 +5908,7 @@
       "publishedAt": "2026-07-03T18:54:11.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "切尔诺贝利隔离区出现火龙卷。"
+      "summary": "切尔诺贝利禁区发生火龙卷现象。"
     },
     {
       "sourceId": "vedomosti",
@@ -5916,7 +5918,7 @@
       "publishedAt": "2026-07-03T18:22:19.000Z",
       "category": "finance",
       "source": "Vedomosti (Ведомости)",
-      "summary": "据Axios报道，以色列总理内塔尼亚胡与特朗普已同意很快在美国会面。"
+      "summary": "据Axios报道，以色列总理内塔尼亚胡与美国前总统特朗普已同意近期在美国会面。"
     },
     {
       "sourceId": "vedomosti",
@@ -6127,13 +6129,43 @@
     },
     {
       "sourceId": "lenta",
+      "title": "Аналитики заговорили о поражении Украины",
+      "url": "https://lenta.ru/news/2026/07/04/analitiki-zagovorili-o-porazhenii-ukrainy/",
+      "excerpt": "",
+      "publishedAt": "2026-07-03T23:53:00.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "分析师开始谈论乌克兰的失败，暗示战局对基辅不利。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "В России указали на понимание Западом неизбежности поражения Украины",
+      "url": "https://lenta.ru/news/2026/07/04/v-rossii-ukazali-na-ponimanie-zapadom-neizbezhnosti-porazheniya-ukrainy/",
+      "excerpt": "",
+      "publishedAt": "2026-07-03T23:48:08.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯方面指出，西方国家已意识到乌克兰的失败不可避免。"
+    },
+    {
+      "sourceId": "lenta",
+      "title": "Раскрыты хитрые приемы ВСУ по минированию местности в зоне СВО",
+      "url": "https://lenta.ru/news/2026/07/04/raskryty-hitrye-priemy-vsu-po-minirovaniyu-mestnosti-v-zone-svo/",
+      "excerpt": "",
+      "publishedAt": "2026-07-03T23:43:57.000Z",
+      "category": "politics",
+      "source": "Lenta.ru",
+      "summary": "俄罗斯揭露乌克兰武装部队在特别军事行动区使用狡猾手段进行布雷。"
+    },
+    {
+      "sourceId": "lenta",
       "title": "Месси установил очередной рекорд результативности на чемпионатах мира",
       "url": "https://lenta.ru/news/2026/07/04/messi-ustanovil-ocherednoy-rekord-rezultativnosti-na-chempionatah-mira/",
       "excerpt": "",
       "publishedAt": "2026-07-03T23:24:34.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "梅西在2026年世界杯上再次创造效率纪录，具体数据尚未公布。"
+      "summary": "梅西在世界杯上再次创造进球纪录，刷新个人及赛事历史最佳。"
     },
     {
       "sourceId": "lenta",
@@ -6143,7 +6175,7 @@
       "publishedAt": "2026-07-03T23:19:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "普京呼吁俄罗斯为基辅的下一步行动做好准备，同时指出俄军在前线取得进展。"
+      "summary": "普京呼吁俄军在取得战场进展的同时，为基辅可能采取的下一步行动做好准备。"
     },
     {
       "sourceId": "lenta",
@@ -6153,7 +6185,7 @@
       "publishedAt": "2026-07-03T23:04:54.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "俄军总参谋长格拉西莫夫表示，乌克兰对西方武器供应的依赖性正在增强。"
+      "summary": "俄总参谋长格拉西莫夫称，乌克兰对西方武器供应的依赖正在持续增长。"
     },
     {
       "sourceId": "lenta",
@@ -6163,7 +6195,7 @@
       "publishedAt": "2026-07-03T22:49:12.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "普京向俄军官兵引用民间智慧，鼓励部队继续作战。"
+      "summary": "普京在会议中引用民间智慧，提醒军人保持警惕与团结。"
     },
     {
       "sourceId": "lenta",
@@ -6173,7 +6205,7 @@
       "publishedAt": "2026-07-03T22:45:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "俄军夺取顿涅茨克地区的康斯坦丁诺夫卡后，乌方预测乌军防线可能崩溃。"
+      "summary": "在俄军攻占康斯坦丁诺夫卡后，乌克兰武装部队的防线面临崩溃风险。"
     },
     {
       "sourceId": "lenta",
@@ -6183,7 +6215,7 @@
       "publishedAt": "2026-07-03T22:42:13.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "匈牙利同意欧盟就一组议题与乌克兰启动谈判，标志着相关僵局有所突破。"
+      "summary": "匈牙利同意欧盟就一系列问题与乌克兰开启谈判，为入盟进程扫除部分障碍。"
     },
     {
       "sourceId": "lenta",
@@ -6193,7 +6225,7 @@
       "publishedAt": "2026-07-03T22:36:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "乌克兰军队向俄罗斯某城市发射导弹袭击，具体损失情况尚未公布。"
+      "summary": "乌克兰武装部队使用导弹袭击俄罗斯境内某城市，造成一定损失。"
     },
     {
       "sourceId": "lenta",
@@ -6203,7 +6235,7 @@
       "publishedAt": "2026-07-03T22:17:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "普京指责欧洲维和部队目标矛盾，表示俄罗斯不会接受其介入乌克兰冲突。"
+      "summary": "普京表示欧洲派遣的维和部队目标相互矛盾，意图不明。"
     },
     {
       "sourceId": "lenta",
@@ -6213,7 +6245,7 @@
       "publishedAt": "2026-07-03T22:11:00.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "俄军公布视频，显示摧毁了乌克兰一处НРТК目标（可能为雷达或指挥系统）。"
+      "summary": "俄罗斯军方公布视频，展示摧毁乌克兰的НРТК（无线电技术控制系统）装备。"
     },
     {
       "sourceId": "lenta",
@@ -6223,7 +6255,7 @@
       "publishedAt": "2026-07-03T22:06:32.000Z",
       "category": "politics",
       "source": "Lenta.ru",
-      "summary": "普京观看了俄军从新控制的康斯坦丁诺夫卡发回的视频画面。"
+      "summary": "普京观看了来自已被俄军控制的康斯坦丁诺夫卡的视频，了解当地局势。"
     },
     {
       "sourceId": "lenta",
@@ -6232,8 +6264,7 @@
       "excerpt": "",
       "publishedAt": "2026-07-03T21:59:53.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "乌克兰总统泽连斯基被警告，与波兰的纠纷可能带来严重后果。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6242,8 +6273,7 @@
       "excerpt": "",
       "publishedAt": "2026-07-03T21:49:19.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "亲俄地下组织就俄军控制康斯坦丁诺夫卡发表评论。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6252,8 +6282,7 @@
       "excerpt": "",
       "publishedAt": "2026-07-03T21:48:45.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "俄军中央集团军部队将前线从红军城方向推移，缓解了对该城的压力。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6262,8 +6291,7 @@
       "excerpt": "",
       "publishedAt": "2026-07-03T21:36:57.000Z",
       "category": "politics",
-      "source": "Lenta.ru",
-      "summary": "普京宣布在俄罗斯边境附近建立安全地带，以防御来自乌克兰的威胁。"
+      "source": "Lenta.ru"
     },
     {
       "sourceId": "lenta",
@@ -6379,33 +6407,6 @@
       "url": "https://lenta.ru/news/2026/07/03/armiya-rossii-sokratila-vozmozhnosti-ukrainy-proizvodit-dalnoboynoe-oruzhie/",
       "excerpt": "",
       "publishedAt": "2026-07-03T20:28:49.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Командир Южной бригады рассказал о взятии Константиновки",
-      "url": "https://lenta.ru/news/2026/07/03/komandir-yuzhnoy-gruppirovki-voysk-rasskazal-o-vzyatii-konstantinovki/",
-      "excerpt": "",
-      "publishedAt": "2026-07-03T20:25:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "Путин рассказал о создании полосы безопасности на фоне взятия Константиновки",
-      "url": "https://lenta.ru/news/2026/07/04/putin-rasskazal-o-sozdanii-polosy-bezopasnosti-na-fone-vzyatiya-konstantinovki/",
-      "excerpt": "",
-      "publishedAt": "2026-07-03T20:22:00.000Z",
-      "category": "politics",
-      "source": "Lenta.ru"
-    },
-    {
-      "sourceId": "lenta",
-      "title": "В российском городе обрушился потолок пятиэтажки",
-      "url": "https://lenta.ru/news/2026/07/03/v-rossiyskom-gorode-obrushilsya-potolok-pyatietazhki/",
-      "excerpt": "",
-      "publishedAt": "2026-07-03T20:20:14.000Z",
       "category": "politics",
       "source": "Lenta.ru"
     }
